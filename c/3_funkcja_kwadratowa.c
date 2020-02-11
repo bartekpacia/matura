@@ -28,8 +28,8 @@ int main() {
     }
 
     // x1 = # -b - pierwiastek delta / 2a
-    float x1 = (-b - sqrt(delta)) / a * 2;
-    float x2 = (-b + sqrt(delta)) / a * 2;
+    float x1 = (-b - sqrt(delta)) / (a * 2);
+    float x2 = (-b + sqrt(delta)) / (a * 2);
 
     printf("x1 = %f\n", x1);
     printf("x2 = %f\n", x2);
