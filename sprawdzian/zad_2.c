@@ -11,7 +11,7 @@ int main() {
     int ilosc_godzin = 0;
     int stawka_godzinowa = 0;
 
-    printf("Podaj ilość godzin: ");
+    printf("Podaj ilość godzin przepracowanych w tygodniu: ");
     scanf("%i", &ilosc_godzin);
 
     printf("Podaj stawkę godzinową: ");
@@ -44,7 +44,7 @@ int main() {
         wyplata = stawka_godzinowa * ilosc_godzin;
     }
 
-    printf("Wypłata: %.2f\n", wyplata);
+    printf("Wypłata tygodniowa: %.2f\n", wyplata);
 
     getchar();
     return 0;
