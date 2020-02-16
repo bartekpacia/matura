@@ -1,5 +1,5 @@
 /**
- * Użytkownik podaje 2 liczby rzeczywiste. Program wyświetla ich iloczyn.
+ * Zadanie 4 - programy w telewizji.
  */
 
 #include <stdio.h>

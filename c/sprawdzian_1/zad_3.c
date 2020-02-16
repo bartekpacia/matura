@@ -1,12 +1,5 @@
 /**
- * Zadanie 3: temperatura ciała.
- **/
-
-/**
- * Zadanie 2 - stawka godzinowa.
- **/
-/**
- * Użytkownik podaje 2 liczby rzeczywiste. Program wyświetla ich iloczyn.
+ * Zadanie 3 – temperatura ciała.
  */
 
 #include <stdio.h>

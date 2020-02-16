@@ -1,8 +1,5 @@
 /**
  * Zadanie 2 - stawka godzinowa.
- **/
-/**
- * Użytkownik podaje 2 liczby rzeczywiste. Program wyświetla ich iloczyn.
  */
 
 #include <stdio.h>
