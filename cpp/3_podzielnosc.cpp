@@ -15,6 +15,7 @@ int main() {
 
     if (k < 1 || n < 1) {
         std::cout << "Podane niewłaściwe dane" << std::endl;
+        getchar();
         return 0;
     }
 
@@ -30,5 +31,6 @@ int main() {
         }
     }
 
+    getchar();
     return 0;
 }
