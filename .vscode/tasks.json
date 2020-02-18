@@ -1,0 +1,48 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build C with Clang",
+      "type": "shell",
+      "group": "build",
+      "command": "clang",
+      "args": [
+        "-std=c18",
+        "${file}",
+        "-o",
+        "${fileBasenameNoExtension}.out",
+        "--debug"
+      ],
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": true,
+        "panel": "dedicated",
+        "showReuseMessage": true,
+        "clear": false
+      }
+    },
+    {
+      "label": "Build C++ with Clang++",
+      "type": "shell",
+      "group": "build",
+      "command": "clang++",
+      "args": [
+        "-std=c++17",
+        "-stdlib=libc++",
+        "${file}",
+        "-o",
+        "${fileBasenameNoExtension}.out",
+        "--debug"
+      ],
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": true,
+        "panel": "dedicated",
+        "showReuseMessage": true,
+        "clear": false
+      }
+    }
+  ]
+}
