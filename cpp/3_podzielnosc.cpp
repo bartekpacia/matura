@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 
 /**
  * Wszystkie liczby dodatnie mniejsze od k podzielne przez n.

@@ -8,7 +8,6 @@
 
 #include <math.h>
 #include <iostream>
-#include <string>
 
 int main() {
     int wiersze, kolumny = 0;
