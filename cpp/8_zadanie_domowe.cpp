@@ -8,11 +8,23 @@
 #include <iostream>
 
 int main() {
-    int liczba = 0;
+    int k = 0;
 
     std::cout << "Podaj liczbę: ";
-    std::cin >> liczba;
+    std::cin >> k;
 
-    
+    for (int i = 1; i < k; i++) {
+        int podzielniki = 0;
+        for (int j = 1; j < k; j++) {
+            if (i % j == 0) {
+                podzielniki += 1;
+            }
+        }
+
+        if (podzielniki == 3) {
+            std::cout << i << " ";
+        }
+    }
+
     return 0;
 }
