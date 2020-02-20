@@ -13,6 +13,7 @@ int main() {
     std::cout << "Podaj liczbę: ";
     std::cin >> k;
 
+    int liczba_podzielnikow = 0;
     for (int i = 1; i < k; i++) {
         int podzielniki = 0;
         for (int j = 1; j < k; j++) {
@@ -23,7 +24,14 @@ int main() {
 
         if (podzielniki == 3) {
             std::cout << i << " ";
+            liczba_podzielnikow++;
         }
+    }
+
+    std::cout << std::endl;
+
+    if (liczba_podzielnikow < 1) {
+        std::cout << "BRAK" << std::endl;
     }
 
     return 0;
