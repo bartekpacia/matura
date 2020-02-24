@@ -15,16 +15,18 @@ int main() {
     int max = 0;
     int f0 = 0;
     int f1 = 1;
+    int liczba_ciagu = f1 + f0;
 
     std::cout << "Podaj max liczbę: ";
     std::cin >> max;
 
-    for (int i = 0; i <= max; ++i) {
-        int liczba_ciagu = f1 + f0;
+    for (int i = 2; i <= max; i++) {
+        liczba_ciagu = f1 + f0;
         f0 = f1;
         f1 = liczba_ciagu;
 
-        std::cout << i + 1 << " liczba ciągu: " << liczba_ciagu << std::endl;
+        std::cout << "indeks: " << i << ", liczba ciągu: " << liczba_ciagu
+                  << std::endl;
     }
 
     return 0;
