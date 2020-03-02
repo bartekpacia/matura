@@ -1,6 +1,6 @@
 /**
  * Zadanie od pani, a właściwie kompilacja paru zadań. Doklejane w miarę jak
- * zadawała, dlatego takie wielkie.
+ * zadawała, dlatego ten plik jest taki wielki,
  * "Zawiera w sobie" zadanie 24 z podręcznika ()
  */
 
