@@ -1,3 +1,7 @@
+/**
+ * Napisz program który wyświetla szachownicę (naprzemiennie 0 i 7).
+ */
+
 #include <iostream>
 
 int main() {

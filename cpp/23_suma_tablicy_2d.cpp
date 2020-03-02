@@ -1,5 +1,7 @@
 /**
- * Zadanie od pani. "Zawiera w sobie" zadanie 24.
+ * Zadanie od pani, a właściwie kompilacja paru zadań. Doklejane w miarę jak
+ * zadawała, dlatego takie wielkie.
+ * "Zawiera w sobie" zadanie 24 z podręcznika ()
  */
 
 #include <cstdlib>
@@ -45,13 +47,15 @@ int main() {
     }
 
     // Sumowanie elementów z głównej przekątnej (lewa góra - prawy dół)
-    // TYLKO W KWADRACIE (n == m)
+    // DZIAŁA POPRAWNIE TYLKO W KWADRACIE (czyli n == m)
     int suma_po_przekatnej_1 = 0;
     for (int i = 0; i < n; i++) {
         int obecny = tab[i][i];
         suma_po_przekatnej_1 += obecny;
     }
 
+    // Sumowanie elementów z głównej przekątnej (prawa góra - lewy dół)
+    // DZIAŁA POPRAWNIE TYLKO W KWADRACIE (czyli n == m)
     int suma_po_przekatnej_2 = 0;
     for (int i = 0; i < n; i++) {
         int obecny = tab[i][m - 1 - i];

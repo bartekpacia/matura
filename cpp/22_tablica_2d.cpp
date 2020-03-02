@@ -4,14 +4,14 @@
 
 int main() {
     int n = 5, m = 5;
-    int p = 8, k = 9;
+    int p = 8, k = 9;  // początek i koniec przedziału (włącznie)
     int tab[n][m];
 
     srand(time(NULL));
 
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < m; j++) {
-            tab[i][j] = rand() % (k - p + 1) + p;
+            tab[i][j] = rand() % (k - p + 1) + p;  // uwaga, bardzo mądre
         }
     }
     for (int i = 0; i < n; i++) {
