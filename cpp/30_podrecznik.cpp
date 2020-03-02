@@ -14,18 +14,18 @@ int main() {
     std::cout << "Podaj rozmiar tablicy: ";
     std::cin >> rozmiar;
 
-    int tab[rozmiar][rozmiar];
+    int tab[rozmiar][rozmiar];  // deklaracja tablicy dwuwymiarowej (matrycy)
 
     srand(time(NULL));
 
-    // Inicjalizacja
+    // Inicjalizacja – zapełnianie matrcycy losowymi liczbami
     for (int i{0}; i < rozmiar; i++) {
         for (int j{0}; j < rozmiar; j++) {
             tab[i][j] = rand() % (k - p + 1) + p;
         }
     }
 
-    // Wyświetlanie
+    // Wyświetlanie matrycy
     for (int i{0}; i < rozmiar; i++) {
         for (int j{0}; j < rozmiar; j++) {
             std::cout << tab[i][j] << " ";
@@ -33,36 +33,47 @@ int main() {
         std::cout << std::endl;
     }
 
-    // Logika
+    // Tworzenie mapy [<liczba> -> <liczba jej wystąpień>] na podstawie matrycy
     std::map<int, int> wartosci;
-
     for (int i{0}; i < rozmiar; i++) {
         for (int j{0}; j < rozmiar; j++) {
             int obecny = tab[i][j];
-
             wartosci[obecny] += 1;
         }
     }
 
-    int najczestsza_liczba{0};
+    
+    // Znajdywanie <największej liczby wystąpień>
     int najczestsze_wystapienia{0};
-
     std::map<int, int>::iterator iterator;
     for (iterator = wartosci.begin(); iterator != wartosci.end(); iterator++) {
-        std::cout << "liczba: " << iterator->first << " razy "
-                  << iterator->second << std::endl;
-
-        int liczba = iterator->first;
         int wystapienia = iterator->second;
 
         if (wystapienia > najczestsze_wystapienia) {
             najczestsze_wystapienia = wystapienia;
-            najczestsza_liczba = liczba;
         }
     }
 
-    std::cout << "Najczęściej wystąpiła liczba " << najczestsza_liczba << " ("
-              << najczestsze_wystapienia << ") razy" << std::endl;
+    // Znajdywanie liczb które wystąpiły <największa liczba wystąpień> razy
+    std::map<int, int> najczestsze;  // najczęstsze (czyli są "ex aequo")
+    for (iterator = wartosci.begin(); iterator != wartosci.end(); iterator++) {
+        int liczba = iterator->first;
+        int wystapienia = iterator->second;
+
+        if (wystapienia == najczestsze_wystapienia) {
+            najczestsze[liczba] = wystapienia;
+        }
+    }
+
+    // The großes Finale – wyświetlanie mapy <najczestsze>
+    for (iterator = najczestsze.begin(); iterator != najczestsze.end();
+         iterator++) {
+        int liczba = iterator->first;
+        int wystapienia = iterator->second;
+
+        std::cout << "Najczęściej wystąpiła liczba " << liczba << " ("
+                  << wystapienia << ") razy" << std::endl;
+    }
 
     return 0;
 }
