@@ -4,40 +4,64 @@
 
 int main() {
     int n = 5, m = 5;
-    int p = 2, k = 9;
+    int p = 0, k = 2;
     int tab[n][m];
 
     srand(time(NULL));
 
+    // Inicjalizacja
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < m; j++) {
             tab[i][j] = (rand() % (k - p + 1)) + p;
         }
     }
 
+    // Wyświetlanie wiersz[0] -> kolumna[1] kolumna[1] kolumna[2]
     for (int i = 0; i < n; i++) {
+        int suma = 0;
         for (int j = 0; j < m; j++) {
-            std::cout << tab[i][j] << " ";
+            int obecny = tab[i][j];
+            suma += obecny;
+            std::cout << obecny << " ";
         }
-        std::cout << std::endl;
+        std::cout << "suma: " << suma << std::endl;
+    }
+
+    std::cout << "- - - - - - -  - - -" << std::endl;
+
+    // Wyświetlanie wiersz[0] -> kolumna[1] kolumna[1] kolumna[2]
+    for (int i = 0; i < n; i++) {
+        int suma = 0;
+        for (int j = 0; j < m; j++) {
+            int obecny = tab[j][i];
+            suma += obecny;
+        }
+
+        std::cout << "Suma w kolumie " << i << ": " << suma << std::endl;
     }
 
     int suma = 0;
-    int najwieksza = 0;
+    int max = INT_MIN;
+    int min = INT_MAX;
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < m; j++) {
-            suma += tab[i][j];
+            int obecny = tab[i][j];
+            suma += obecny;
 
-            if (tab[i][j] > najwieksza) {
-                najwieksza = tab[i][j];
+            if (obecny > max) {
+                max = obecny;
+            }
+
+            if (obecny < min) {
+                min = obecny;
             }
         }
-
-        std::cout << suma;
     }
 
-    std::cout << "Suma: " << suma << std::endl;
-    std::cout << "Największy element: " << najwieksza << std::endl;
+    std::cout << "- - - - - - - - - " << std::endl;
+    std::cout << "Suma wszystkich: " << suma << std::endl;
+    std::cout << "Największy element: " << max << std::endl;
+    std::cout << "Najmniejszy element: " << min << std::endl;
 
     return 0;
 }
