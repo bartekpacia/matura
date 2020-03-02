@@ -16,7 +16,7 @@ int main() {
         }
     }
 
-    // Wyświetlanie wiersz[0] -> kolumna[1] kolumna[1] kolumna[2]
+    // Liczenie sumy w wierszu
     for (int i = 0; i < n; i++) {
         int suma = 0;
         for (int j = 0; j < m; j++) {
@@ -29,7 +29,7 @@ int main() {
 
     std::cout << "- - - - - - -  - - -" << std::endl;
 
-    // Wyświetlanie wiersz[0] -> kolumna[1] kolumna[1] kolumna[2]
+    // Liczenie sumy w kolumnie
     for (int i = 0; i < n; i++) {
         int suma = 0;
         for (int j = 0; j < m; j++) {
