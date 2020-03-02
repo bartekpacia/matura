@@ -25,5 +25,7 @@ int main() {
         std::cout << std::endl;
     }
 
+    std::cout << "tab[2][1] = " << tabela[2][1] << std::endl;
+
     return 0;
 }
