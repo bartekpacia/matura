@@ -23,15 +23,6 @@ int main() {
         }
     }
 
-    // Sumowanie tablicy z głównej przekątnej (lewa góra - prawy dół)
-    // TYLKO W KWADRACIE (n == m)
-    // for (int i = 0; i < n; i++) {
-    //     for (int j = 0; j < m; j++) {
-    //         std::cout << tab[i][j] << " ";
-    //     }
-    //     std::cout << std::endl;
-    // }
-
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < m; j++) {
             std::cout << tab[i][j] << " ";
