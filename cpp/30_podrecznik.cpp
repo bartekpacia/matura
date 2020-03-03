@@ -9,7 +9,7 @@
 #include <map>
 
 int main() {
-    int p{1}, k{9}, rozmiar{0};
+    int p{1}, k{10000}, rozmiar{0};
 
     std::cout << "Podaj rozmiar tablicy: ";
     std::cin >> rozmiar;
@@ -42,7 +42,6 @@ int main() {
         }
     }
 
-    
     // Znajdywanie <największej liczby wystąpień>
     int najczestsze_wystapienia{0};
     std::map<int, int>::iterator iterator;

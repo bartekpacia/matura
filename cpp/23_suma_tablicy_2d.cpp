@@ -9,7 +9,12 @@
 #include <iostream>
 
 int main() {
-    int n = 5, m = 5;
+    int n, m;
+
+    std::cout << "Podaj rozmiar tablicy: ";
+    std::cin >> n;
+
+    m = n;
     int p = 0, k = 2;
     int tab[n][m];
 
