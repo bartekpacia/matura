@@ -1,4 +1,5 @@
 /**
+ * Zadanie 29
  * Napisz program, który wczyta liczbę n, wypełni tablicę n x n wczytanymi z
  * klawiatury liczbami, a następnie policzy i wypisze najmniejsze wartości z
  * każdego wiersza.
@@ -38,6 +39,7 @@ int main() {
 
     std::cout << "- - - - - - - - - " << std::endl;
 
+    // Logika
     for (int i = 0; i < n; i++) {
         int najmniejsza = INT_MAX;
         for (int j = 0; j < m; j++) {

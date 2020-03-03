@@ -1,4 +1,5 @@
 /**
+ * Zadanie 30
  * Napisz program, który wczyta liczbę n (1 <= n <= 9), wypełni tablicę n x n
  * wczytanymi z klawiatury liczbami, a następnie wypisze najczęściej występujący
  * element w tablicy. W przypadku, gdy kilka wartości występuje równie często,

@@ -1,8 +1,10 @@
 /**
+ * Zadanie 26
  * Napisz program, który wczyta liczbę n, wypełni tablicę n x n wylosowanymi
  * liczbami dwucyfrowymi, a następnie wypisze największe liczby z kolejnych
  * kolumn tablicy.
  */
+
 #include <iostream>
 
 int main() {
@@ -17,12 +19,14 @@ int main() {
 
     srand(time(NULL));
 
+    // Inicjalizacja
     for (int i = 0; i < rozmiar; i++) {
         for (int j = 0; j < rozmiar; j++) {
             tab[i][j] = rand() % (k - p + 1) + p;
         }
     }
 
+    // Wyświetlenie
     for (int i = 0; i < rozmiar; i++) {
         for (int j = 0; j < rozmiar; j++) {
             std::cout << tab[i][j] << " ";
@@ -30,6 +34,7 @@ int main() {
         std::cout << std::endl;
     }
 
+    // Logika
     for (int i = 0; i < rozmiar; i++) {
         int max = INT_MIN;
 

@@ -1,3 +1,8 @@
+/**
+ * Zadanie 25
+ * niedokończone bo okazało się że nie trzeba go robić
+ */
+
 #include <iostream>
 
 int main() {

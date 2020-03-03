@@ -1,4 +1,5 @@
 /**
+ * Zadanie 27
  * Napisz program, który wczyta liczbę n, wypełni tablicę n x n wylosowanymi
  * liczbami dwucyfrowymi, a następnie wypisze liczby w formie szachownicy.
  */

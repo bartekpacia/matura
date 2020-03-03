@@ -1,4 +1,5 @@
 /**
+ * Zadanie 28
  * Napisz program, który wczyta liczbę n, wypełni tablicę n x n wczytanymi z
  * klawiatury liczbami, a następnie policzy sumę cyfr wszystkich liczb
  * występujących w tablicy.
@@ -36,9 +37,8 @@ int main() {
         std::cout << std::endl;
     }
 
-    // Liczenie sumy w wierszu
+    // Logika
     int suma_cyfr = 0;
-
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < n; j++) {
             int obecny = tab[i][j];
