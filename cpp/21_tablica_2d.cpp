@@ -1,6 +1,5 @@
 /**
- * Wypełnić tablicę losowymi liczbami i obliczyć sumę liczb podzielnych przez 6
- * w tej tablicy.
+ * Prosty przykład tablicy dwuwymiarowej a.k.a tablicy 2D a.k.a matrycy.
  */
 #include <cstdlib>
 #include <ctime>
