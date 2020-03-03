@@ -4,8 +4,6 @@
  * występujących w tablicy.
  */
 
-// zrobione w pliku 23
-
 #include <cstdlib>
 #include <ctime>
 #include <iostream>
