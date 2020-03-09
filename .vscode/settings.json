@@ -64,6 +64,8 @@
         "vector": "cpp",
         "string.h": "c",
         "stdbool.h": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "__tree": "cpp",
+        "map": "cpp"
     }
 }
