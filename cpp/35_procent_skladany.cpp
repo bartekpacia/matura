@@ -1,8 +1,8 @@
 /* Zadanie 1
-Klient wpłaca do banku pewną kwotę pieniędzy (k). Ile bank wypłaci mu po n
+Klient wpłaca do banku pewną kwotę pieniędzy (v0). Ile bank wypłaci mu po n
 latach, jeżeli odsetki są dopisywane co kwartał? Zakładamy, że w całym okresie
-oszczędzania oprocentowanie jest stałe i wynosi p% w skali roku (procent
-składany). Dane: k, n, p - podaje użytkownik Program powinien również zadbać o
+oszczędzania oprocentowanie jest stałe i wynosi r% w skali roku (procent
+składany). Dane: v0, n, r - podaje użytkownik Program powinien również zadbać o
 poprawność wprowadzanych danych.
 
 Procent składany na wiki:
@@ -15,8 +15,10 @@ https://pl.wikipedia.org/wiki/Procent_sk%C5%82adany
 using namespace std;
 
 int main() {
-    int n = 0, m = 4;
-    double v0 = 0, r = 0;
+    int n;
+    int m = 4;
+    double v0;
+    double r;
     cout << "Podaj kwotę wpłaconą do banku: ";
     cin >> v0;
     cout << "Podaj liczbę lat, na którą chcesz zdeponować kwotę: ";
@@ -40,6 +42,7 @@ int main() {
     }
 
     double v = v0 * pow(1 + r / m, m * n);
+
     cout << "Kwota końcowa: " << v << endl;
 
     return 0;

@@ -17,13 +17,11 @@ int main() {
     int tab3[n];
 
     for (int i = 0; i < n; i++) {
-        tab1[i] = i;
+        tab1[i] = i + 1;
     }
 
     cout << endl;
 
-    int r0 = 1;
-    int r1 = 1;
     for (int i = 0; i < n; i++) {
         if (i == 0) {
             tab2[0] = 1;
