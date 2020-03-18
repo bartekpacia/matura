@@ -1,7 +1,7 @@
-/* Zadanie 2 c)
+/* Zadanie 2 a)
 Proszę napisać program, który wypełni liczbami całkowitymi tablicę
  n-elementową w następujący sposób:
-0, 1, 2, 3, 0, 1, 2, 3, 0, 1, 2, 3, 0, 1, 2, 3...
+1, 2, 3, 4, 5, 6, 7, 8, ..., n
 */
 
 #include <iostream>
@@ -20,20 +20,13 @@ int main() {
 
     int tabela[n];
 
-    int zmienna = 0;
     for (int i = 0; i < n; i++) {
-        if (zmienna > 3) {
-            zmienna = 0;
-        }
-
-        tabela[i] = zmienna;
-        zmienna++;
+        tabela[i] = i + 1;
     }
 
     for (int i = 0; i < n; i++) {
         cout << tabela[i] << " ";
     }
-
     cout << endl;
 
     return 0;

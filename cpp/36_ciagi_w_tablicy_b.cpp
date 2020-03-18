@@ -1,7 +1,7 @@
-/* Zadanie 2
+/* Zadanie 2 b)
 Proszę napisać program, który wypełni liczbami całkowitymi tablicę
-jednowymiarową n-elementową w następujący sposób:
-b) 1,2,4,7,11,16,22,29,37,...
+ n-elementową w następujący sposób:
+1, 2, 4, 7, 11, 16, 22, 29, 37,...
 */
 
 #include <iostream>
@@ -12,6 +12,11 @@ int main() {
     int n;
     cout << "Podaj liczbę elemntów tablicy: ";
     cin >> n;
+
+    if (n < 1) {
+        cout << "Niewłaściwe dane" << endl;
+        return 1;
+    }
 
     int tabela[n];
 

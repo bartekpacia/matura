@@ -17,39 +17,51 @@ podaje użytkownik. Wtedy należy zadbać o sprawdzenie poprawności k.
 using namespace std;
 
 int main() {
-    int bok = -1;
-    cout << "Podaj n (bok kwadratu): ";
-    cin >> bok;
+    int bok_duzego;
+    int bok_malego = 4;
+    cout << "Program zawsze dąży do tego, żeby marginesy wokół małego kwadratu "
+            "były równe. Jeżeli nie będzie to możliwe, to zwiększy długość "
+            "boków wewnętrzengo kwadratu."
+         << endl;
+    cout << "Podaj bok dużego kwadratu: ";
+    cin >> bok_duzego;
+    cout << "Podaj bok wewnętrzengo kwadratu: ";
+    cin >> bok_malego;
 
-    // Dla liczb nieparzystych są dziwne wyniki
-    // Dla mniejszych od 4 są naprawdę dziwne wyniki i nie wiem jak to obsłużyć
-    if (bok < 4) {
+    if (bok_duzego < 4) {
         cout << "Za małe n" << endl;
         return 1;
     }
 
-    int tab[bok][bok];
+    if (bok_duzego <= bok_malego + 1) {
+        cout << "Bok małego jest za duży" << endl;
+        return 1;
+    }
+
+    int tab[bok_duzego][bok_duzego];
 
     // Inicjalizacja (wypełnienie zerami)
-    for (int i = 0; i < bok; i++) {
-        for (int j = 0; j < bok; j++) {
-            tab[i][j] = 0;
+    for (int i = 0; i < bok_duzego; i++) {
+        for (int j = 0; j < bok_duzego; j++) {
+            tab[i][j] = 1;
         }
     }
 
-    for (int i = 0; i < bok; i++) {
-        for (int j = 0; j < bok; j++) {
-            if (i >= bok / 4 && i < bok / 4 + bok / 2) {
-                if (j >= bok / 4 && j < bok / 4 + bok / 2) {
-                    tab[i][j] = 1;
+    int margin = (bok_duzego - bok_malego) / 2;
+
+    for (int i = 0; i < bok_duzego; i++) {
+        for (int j = 0; j < bok_duzego; j++) {
+            if (i >= margin && i <= (bok_duzego - 1) - margin) {
+                if (j >= margin && j <= (bok_duzego - 1) - margin) {
+                    tab[i][j] = 0;
                 }
             }
         }
     }
 
     // Wyświetlanie
-    for (int i = 0; i < bok; i++) {
-        for (int j = 0; j < bok; j++) {
+    for (int i = 0; i < bok_duzego; i++) {
+        for (int j = 0; j < bok_duzego; j++) {
             cout << tab[i][j];
         }
         cout << endl;
