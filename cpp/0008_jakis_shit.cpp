@@ -1,3 +1,4 @@
+
 /**
  * Napisz program, który wypisze wszystkie liczby całkowite dodatnie (oddzielone
  * spacją) mniejsze od k (k wprowadzone z klawiatury), które mają dokładnie trzy
