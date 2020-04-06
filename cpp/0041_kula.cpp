@@ -15,7 +15,7 @@ float oblicz_objetosc_kuli(int r) {
 }
 
 int main() {
-    int r;
+    float r;
     while (true) {
         cout << "Podaj promień kuli: ";
         cin >> r;

@@ -18,7 +18,7 @@ float oblicz_objetosc_walca(int r, int h) {
 }
 
 int main() {
-    int r, h, dr;
+    float r, h, dr;
     while (true) {
         cout << "Podaj promień walca: ";
         cin >> r;
