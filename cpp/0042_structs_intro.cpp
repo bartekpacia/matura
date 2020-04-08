@@ -12,21 +12,24 @@ vector<string> nazwiska = {"Sobaszek", "Przybylak", "Tramś",     "Pacia",
                            "Matula",   "Wilk",      "Mieszczak", "Maciejończyk",
                            "Kamiński", "Przybyła"};
 
-string generuj(vector<string> &wektor) {
+string generuj(vector<string>& wektor) {
     return wektor[rand() % wektor.size()];
 }
 
+int generuj(int min, int max) { return rand() % (max - min + 1) + min; }
+
 struct Oceny {
-    float matematyka;
-    float fizyka;
-    float informatyka;
-    float angielski;
-    float polski;
+    int matematyka;
+    int fizyka;
+    int informatyka;
+    int angielski;
+    int polski;
 };
 
 struct Uczen {
     string imie;
     string nazwisko;
+    Oceny* oceny;
 };
 
 int main() {
@@ -35,14 +38,18 @@ int main() {
     Uczen uczniowie[liczba_uczniow];
 
     for (int i = 0; i < liczba_uczniow; i++) {
-        Uczen uczen = {generuj(imiona), generuj(nazwiska)};
+        Oceny oceny = {generuj(1, 6), generuj(1, 6), generuj(1, 6),
+                       generuj(1, 6), generuj(1, 6)};
+
+        Uczen uczen = {generuj(imiona), generuj(nazwiska), &oceny};
 
         uczniowie[i] = uczen;
     }
 
     for (int i = 0; i < liczba_uczniow; i++) {
         Uczen u = uczniowie[i];
-        cout << "Imię: " << u.imie << ", nazwisko: " << u.nazwisko << endl;
+        cout << u.imie << " " << u.nazwisko
+             << ", matematyka: " << u.oceny->matematyka << endl;
     }
 
     return 0;
