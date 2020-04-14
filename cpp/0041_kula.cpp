@@ -4,7 +4,7 @@
 
 using namespace std;
 
-float pole(int r) {
+float oblicz_pole_kuli(int r) {
     float pole = 4 * M_PI * r * r;
     return pole;
 }
@@ -28,7 +28,7 @@ int main() {
         }
     }
 
-    float pole = pole(r);
+    float pole = oblicz_pole_kuli(r);
     float objetosc = oblicz_objetosc_kuli(r);
 
     cout << "____________________________" << endl;
