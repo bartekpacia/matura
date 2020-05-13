@@ -20,30 +20,35 @@ struct Stack {
         top = newElement;
     }
 
-    void remove() {
-        StackElement* toBeReturned = top;
+    StackElement pop() {
+        StackElement* toBeDeleted = top;
+        StackElement toBeReturned = *top;
 
         top = top->next;
-        // FIXME: Memory leak???
-        delete toBeReturned;
+        delete toBeDeleted;
+        return toBeReturned;
     }
 };
 
 int main() {
     Stack* stack = new Stack();
-    cout << "Adres stosu: " << &stack << endl;
+    cout << "Created a stack at " << &stack << endl;
 
-    for (int i = 1; i <= 5; i++) {
-        char znak_od_uzytkownika;
-        cin >> znak_od_uzytkownika;
-        stack->push(znak_od_uzytkownika);
+    int number_of_inputs;
+    cout << "Enter the number of elements you want to push at the stack: ";
+    cin >> number_of_inputs;
+
+    for (int i = 0; i < number_of_inputs; i++) {
+        char input;
+        cin >> input;
+        stack->push(input);
     }
 
+    cout << "- - - - - - - - - - - - - - - - " << endl;
     cout << "Displaying content of the stack: " << endl;
 
     while (!stack->isEmpty()) {
-        cout << stack->top->value << endl;
-        stack->remove();
+        cout << stack->pop().value << endl;
     }
 
     return 0;
