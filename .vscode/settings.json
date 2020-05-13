@@ -66,6 +66,7 @@
         "stdbool.h": "c",
         "stdlib.h": "c",
         "__tree": "cpp",
-        "map": "cpp"
+        "map": "cpp",
+        "stack": "cpp"
     }
 }

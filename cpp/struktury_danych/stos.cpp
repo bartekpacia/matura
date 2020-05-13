@@ -1,59 +1,58 @@
 #include <iostream>
+#include <stack>
 
 using namespace std;
 
 // element stosu
-struct ElementStosu {
-    char dana;
-    ElementStosu* nastepny;
+struct StackElement {
+    char value;
+    StackElement* next;
+
+    StackElement(char value, StackElement* next) : value(value), next(next) {}
 };
 
-// czy stos jest pusty
-bool czyPusty(ElementStosu* S) { return !S; }
+bool isEmpty(StackElement* elementStosu) { return elementStosu == NULL; }
 
-// przeczytaj element ze szczytu stosu
-ElementStosu* gora(ElementStosu* S) { return S; }
+StackElement* top(StackElement* elementStosu) { return elementStosu; }
 
-// dodaj element na szczyt stosu, wartość elementu czyli dana, jest parametrem
-// funkcji
-void dodaj(char wartosc, ElementStosu** S) {
-    ElementStosu* elem = new ElementStosu;
+void push(char wartosc, StackElement** elementStosu) {
+    StackElement* elem = new StackElement(wartosc, *elementStosu);
 
-    elem->dana = wartosc;  // tutaj wpisujemy wartość do danej; wartość to
-                           // parametr funkcji
-
-    elem->nastepny = *S;
-
-    *S = elem;
+    *elementStosu = elem;
 }
 
 // pobierz element ze szczytu stosu
-void pobierz(ElementStosu** S) {
-    if (*S) {
-        ElementStosu* elem = *S;
+void pobierz(StackElement** elementStosu) {
+    if (*elementStosu) {
+        StackElement* element = *elementStosu;
 
-        *S = (*S)->nastepny;
-
-        delete elem;
+        *elementStosu = (*elementStosu)->next;
+        delete element;
     }
 }
 
 int main() {
-    // szczyt stosu; na poczatku stos jest pusty
-    ElementStosu* stos = NULL;
+    StackElement* stack = NULL;
 
-    // dodajemy 10 elementów całkowitych na stos (liczby od 1 do 10)
-    for (int i = 1; i <= 5; i++) {
-        char znak_od_uzytkownika;
-        cin >> znak_od_uzytkownika;
-        dodaj(znak_od_uzytkownika, &stos);
-    }
+    // for (int i = 1; i <= 5; i++) {
+    //     char znak_od_uzytkownika;
+    //     cin >> znak_od_uzytkownika;
+    //     push(znak_od_uzytkownika, &stack);
+    // }
 
-    cout << "Wyświetlanie stosu (poniżej): " << endl;
-    // czytamy i wyświetlamy elementy ze szczytu stosu i usuwamy je ze stosu
-    while (!czyPusty(stos)) {
-        cout << gora(stos)->dana << endl;
-        pobierz(&stos);
+    cout << &stack << endl;
+
+    push('p', &stack);
+    push('a', &stack);
+    push('c', &stack);
+    push('i', &stack);
+    push('a', &stack);
+
+    cout << "Displaying content of the stack: " << endl;
+
+    while (!isEmpty(stack)) {
+        cout << top(stack)->value << endl;
+        pobierz(&stack);
     }
 
     return 0;
