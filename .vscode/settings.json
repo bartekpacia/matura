@@ -67,6 +67,9 @@
         "stdlib.h": "c",
         "__tree": "cpp",
         "map": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "deque": "cpp",
+        "__memory": "cpp",
+        "filesystem": "cpp"
     }
 }

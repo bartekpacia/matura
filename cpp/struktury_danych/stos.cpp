@@ -11,22 +11,21 @@ struct StackElement {
     StackElement(char value, StackElement* next) : value(value), next(next) {}
 };
 
-bool isEmpty(StackElement* elementStosu) { return elementStosu == NULL; }
+bool isEmpty(StackElement* stackElement) { return stackElement == NULL; }
 
-StackElement* top(StackElement* elementStosu) { return elementStosu; }
+StackElement* top(StackElement* stackElement) { return stackElement; }
 
-void push(char wartosc, StackElement** elementStosu) {
-    StackElement* elem = new StackElement(wartosc, *elementStosu);
+void push(char value, StackElement** stackElement) {
+    StackElement* elem = new StackElement(value, *stackElement);
 
-    *elementStosu = elem;
+    *stackElement = elem;
 }
 
-// pobierz element ze szczytu stosu
-void pobierz(StackElement** elementStosu) {
-    if (*elementStosu) {
-        StackElement* element = *elementStosu;
+void remove(StackElement** stackElement) {
+    if (*stackElement) {
+        StackElement* element = *stackElement;
 
-        *elementStosu = (*elementStosu)->next;
+        *stackElement = (*stackElement)->next;
         delete element;
     }
 }
@@ -52,7 +51,7 @@ int main() {
 
     while (!isEmpty(stack)) {
         cout << top(stack)->value << endl;
-        pobierz(&stack);
+        remove(&stack);
     }
 
     return 0;
