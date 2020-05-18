@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// https://codereview.stackexchange.com/questions/242231/simple-stack-implementation-in-c
+
 struct StackElement {
     char value;
     StackElement* next;
@@ -11,6 +13,12 @@ struct StackElement {
 
 struct Stack {
     StackElement* top = NULL;
+
+    ~Stack() {
+        while (!isEmpty()) {
+            pop();
+        }
+    }
 
     bool isEmpty() { return top == NULL; }
 
