@@ -70,6 +70,7 @@
         "stack": "cpp",
         "deque": "cpp",
         "__memory": "cpp",
-        "filesystem": "cpp"
+        "filesystem": "cpp",
+        "memory_resource": "cpp"
     }
 }
