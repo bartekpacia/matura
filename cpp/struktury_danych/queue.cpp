@@ -1,18 +1,19 @@
 #include <iostream>
 
 using namespace std;
+
 class QueueElement {
    public:
     char value;
     QueueElement* prev;
+
     QueueElement(char value, QueueElement* prev) : value(value), prev(prev) {}
 };
 
-// TODO: Finish impl
 class Queue {
    private:
-    QueueElement* front = NULL;
-    QueueElement* back = NULL;
+    QueueElement* front;
+    QueueElement* back;
 
    public:
     Queue() {

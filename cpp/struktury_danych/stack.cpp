@@ -2,17 +2,20 @@
 
 using namespace std;
 
-// https://codereview.stackexchange.com/questions/242231/simple-stack-implementation-in-c
-
-struct StackElement {
+class StackElement {
+   public:
     char value;
     StackElement* next;
 
     StackElement(char value, StackElement* next) : value(value), next(next) {}
 };
 
-struct Stack {
-    StackElement* top = NULL;
+class Stack {
+   private:
+    StackElement* top;
+
+   public:
+    Stack() { top = NULL; }
 
     ~Stack() {
         while (!isEmpty()) {
@@ -20,21 +23,35 @@ struct Stack {
         }
     }
 
-    bool isEmpty() { return top == NULL; }
-
     void push(char value) {
         StackElement* newElement = new StackElement(value, top);
 
         top = newElement;
     }
 
-    StackElement pop() {
+    char pop() {
+        if (isEmpty()) {
+            cout << "pop() failed - stack is empty" << endl;
+            return NULL;
+        }
+
         StackElement* toBeDeleted = top;
         StackElement toBeReturned = *top;
 
         top = top->next;
         delete toBeDeleted;
-        return toBeReturned;
+        return toBeReturned.value;
+    }
+
+    bool isEmpty() { return top == NULL; }
+
+    char peek() {
+        if (isEmpty()) {
+            cout << "peek() failed - stack is empty" << endl;
+            return NULL;
+        }
+
+        return top->value;
     }
 };
 
@@ -56,7 +73,7 @@ int main() {
     cout << "Displaying content of the stack: " << endl;
 
     while (!stack->isEmpty()) {
-        cout << stack->pop().value << endl;
+        cout << stack->pop() << endl;
     }
 
     return 0;
