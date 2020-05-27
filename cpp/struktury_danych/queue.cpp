@@ -4,8 +4,8 @@ using namespace std;
 class QueueElement {
    public:
     char value;
-    QueueElement* next;
-    QueueElement(char value, QueueElement* next) : value(value), next(next) {}
+    QueueElement* prev;
+    QueueElement(char value, QueueElement* prev) : value(value), prev(prev) {}
 };
 
 // TODO: Finish impl
@@ -28,14 +28,15 @@ class Queue {
 
     void enqueue(char value) {
         QueueElement* newElement = new QueueElement(value, NULL);
-        back = newElement;
 
         if (isEmpty()) {
             front = newElement;
             back = newElement;
+            back->prev = NULL;
         } else {
-            back->next = newElement;
+            back->prev = newElement;
             back = newElement;
+            back->prev = NULL;
         }
     }
 
@@ -48,7 +49,7 @@ class Queue {
         QueueElement* toBeDeleted = front;
         QueueElement toBeReturned = *front;
 
-        front = front->next;
+        front = front->prev;
         delete toBeDeleted;
         return toBeReturned.value;
     }
@@ -73,11 +74,12 @@ int main() {
     cout << "Enter the number of elements you want to enqueue ";
     cin >> number_of_inputs;
 
-    for (int i = 0; i < number_of_inputs; i++) {
-        char input;
-        cin >> input;
-        queue->enqueue(input);
-    }
+    // simple test to prove that this works
+    queue->enqueue('D');
+    queue->enqueue('U');
+    queue->dequeue();
+    queue->enqueue('P');
+    queue->enqueue('A');
 
     cout << "- - - - - - - - - - - - - - - - " << endl;
     cout << "Displaying content of the queue: " << endl;
