@@ -1,2 +1,3 @@
 language = "cpp"
-run = ""
+build = "clang++ 
+run = "clang++ -std=c++17 -stdlib=libc++ <filename.cpp> -o program.out"
