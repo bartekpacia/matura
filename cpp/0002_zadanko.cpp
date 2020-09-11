@@ -2,7 +2,7 @@
 
 int main() {
     int k = 0;
-    std::cout << "Podaj liczbę: " << std::endl;
+    std::cout << "Podaj liczbę podzielną przez 6: ";
     std::cin >> k;
 
     for (int i = 1; i <= k; i++) {
