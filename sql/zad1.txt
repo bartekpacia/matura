@@ -1,0 +1,7 @@
+Wyświetlić imiona, nazwiska i klasę uczniów, którzy chodzą do klasy drugiej, nazywają się "Jan" albo "Anna".
+
+SELECT imie, nazwisko, klasa
+FROM uczniowie
+WHERE (imie = "Jan" OR imie = "Anna")
+ORDER BY imie, nazwisko
+;

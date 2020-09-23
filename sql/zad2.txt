@@ -1,0 +1,5 @@
+Wyświetl imiona, nazwiska oraz informacje o ile urósł uczeń od początku szkoły.
+
+SELECT imie, nazwisko, (wzrost_obecny - wzrost_na_poczatku) as [ile_urosl]
+FROM uczniowie
+;
