@@ -1,5 +1,6 @@
 cache = {} # n -> result
 
+
 def K(n): 
   if n < 4:
     return 1

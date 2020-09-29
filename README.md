@@ -1,6 +1,6 @@
 # Folder z zadaniami z informatyki
 
-rzeczy z lekcji, rozwiązane matury, whatnot
+rzeczy z lekcji, rozwiązane matury, whatnotW
 
 ### Znalazłem błąd! Co robić?
 
