@@ -3,7 +3,6 @@
 *.out
 *.dSYM
 *.s
-wyniki.txt
 .idea
 .vscode
 venv/

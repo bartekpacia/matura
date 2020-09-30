@@ -1,0 +1,1 @@
+zadanie 4.1: 422 liczb ma wiecej zer niz jedynek
