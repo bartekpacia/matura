@@ -9,5 +9,29 @@ with open("dane/punkty.txt") as f:
 
     punkty.append(punkt)
 
-for p in punkty:
-  print(p)
+a = 200
+b = 200
+r = 200
+
+### end boiler
+
+punkty_w_brzegu = []
+punkty_we_wnetrzu_pierwsze_100 = []
+punkty_we_wnetrzu = []
+for i, punkt in enumerate(punkty):
+  if (i == 100):
+    punkty_we_wnetrzu_pierwsze_100 = punkty_we_wnetrzu.copy()
+
+  x = punkt[0]
+  y = punkt[1]
+
+  if (x - a)**2 + (y - b)**2 == r**2:
+    punkty_w_brzegu.append(punkt)
+
+  if (x - a) ** 2 + (y - b) ** 2 < r ** 2:
+    punkty_we_wnetrzu.append(punkt)
+
+
+print(f"{len(punkty_w_brzegu)=}")
+print(f"{len(punkty_we_wnetrzu_pierwsze_100)=}")
+print(f"{len(punkty_we_wnetrzu)=}")
