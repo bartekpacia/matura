@@ -19,7 +19,7 @@ punkty_w_brzegu = []
 punkty_we_wnetrzu_pierwsze_100 = []
 punkty_we_wnetrzu = []
 for i, punkt in enumerate(punkty):
-  if (i == 100):
+  if i == 100:
     punkty_we_wnetrzu_pierwsze_100 = punkty_we_wnetrzu.copy()
 
   x = punkt[0]
@@ -32,6 +32,6 @@ for i, punkt in enumerate(punkty):
     punkty_we_wnetrzu.append(punkt)
 
 
-print(f"{len(punkty_w_brzegu)=}")
+print(f"{punkty_w_brzegu=}")
 print(f"{len(punkty_we_wnetrzu_pierwsze_100)=}")
 print(f"{len(punkty_we_wnetrzu)=}")
