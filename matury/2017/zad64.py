@@ -33,3 +33,5 @@ for i in range(320):
 
 longest_streak = max(longest_streaks)
 print(f"{longest_streak=}")
+
+input_file.close()

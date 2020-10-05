@@ -21,3 +21,5 @@ for i in range(len(bitmap)):
 
 print(f"{brightest=}")
 print(f"{darkest=}")
+
+input_file.close()

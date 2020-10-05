@@ -39,3 +39,4 @@ for i in range(0, len(bitmap)):
 
 print(f"{contrasting_pixels=}")
 
+input_file.close()

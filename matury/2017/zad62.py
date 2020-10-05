@@ -27,3 +27,4 @@ rows_that_can_be_removed = len(bitmap) - symmetric_rows_count
 
 print(f"{rows_that_can_be_removed=}")
 
+input_file.close()
