@@ -8,6 +8,7 @@ with open("dane/pary.txt") as f:
 
     pairs.append(tuple([num, text]))
 
+
 def is_prime(num: int) -> bool:
   for i in range(2, num):
     if num % i == 0:
@@ -24,6 +25,7 @@ def num_to_primes(num: int) -> (int, int):
 
   # para z największą różnicą zawsze będzie pierwsza
   return primes[0]
+
 
 output_file = open("wyniki_4_1.txt", "w")
 for pair in pairs:
