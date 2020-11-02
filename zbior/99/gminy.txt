@@ -1,0 +1,21 @@
+Kod_gminy	Nazwa_gminy
+GM01	Piatki Gorne
+GM02	Piatki Dolne
+GM03	Sobotka
+GM04	Kwietnik
+GM05	Majnik
+GM06	Niedzielnik
+GM07	Grudnik
+GM08	Kolonia Grudnik
+GM09	Poniedzialnik
+GM10	Wtornik
+GM11	Lutowo Niskie
+GM12	Lutowo Wysokie
+GM13	Marcowe Pole
+GM14	Lipcowa Rosa
+GM15	Osada Rekurencyjna
+GM16	Miesiecznik
+GM17	Stare Srody
+GM18	Padlisto
+GM19	Datownik
+GM20	Kwartnik
