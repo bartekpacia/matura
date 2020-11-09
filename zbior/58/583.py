@@ -1,4 +1,4 @@
-from typing import List, Tuple
+from typing import List
 
 dane1: List[int] = []
 dane2: List[int] = []
