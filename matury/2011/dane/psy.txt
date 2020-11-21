@@ -1,0 +1,1000 @@
+1;wy¿e³ wêgierski krótkow³osy;4;samica;1;o059
+2;owczarek niemiecki;2;samica;2;o064
+3;chihuahua;3;samiec;4;o097
+4;terier walijski;5;samica;2;o037
+5;foksterier krótkow³osy;2;samiec;1;o178
+6;wy¿e³ niemiecki d³ugow³osy;3;samiec;2;o123
+7;jamnik krótkow³osy;2;samiec;2;o110
+8;pudel du¿y;3;samiec;2;o165
+9;jamnik szorstkow³osy;3;samica;1;o192
+10;szpic w³oski;5;samiec;1;o064
+11;jamnik d³ugow³osy;3;samica;0;o105
+12;dalmatyñczyk;1;samica;1;o188
+13;owczarek podhalañski;1;samica;2;o174
+14;wy¿e³ niemiecki d³ugow³osy;5;samica;3;o014
+15;cocker spaniel angielski;1;samiec;2;o177
+16;bernardyn krótkow³osy;1;samiec;2;o074
+17;buldog angielski;2;samica;0;o170
+18;buldog francuski;3;samiec;3;o130
+19;alaskan malamute;2;samica;4;o068
+20;bernardyn krótkow³osy;2;samica;3;o038
+21;chart hiszpañski;1;samiec;4;o050
+22;szpic miniaturowy;4;samiec;1;o010
+23;komondor;3;samica;1;o105
+24;szpic niemiecki;5;samiec;3;o168
+25;owczarek szetlandzki;4;samica;4;o062
+26;chart perski;1;samica;2;o185
+27;terier szkocki;1;samica;3;o104
+28;chart hiszpañski;1;samica;2;o155
+29;terier szkocki;2;samiec;1;o096
+30;bernardyn d³ugow³osy;3;samica;3;o087
+31;wy¿e³ niemiecki szorstkow³osy;3;samiec;2;o056
+32;dalmatyñczyk;3;samica;4;o023
+33;owczarek szkocki d³ugow³osy;5;samica;4;o182
+34;wy¿e³ w³oski szorstkow³osy;1;samica;0;o178
+35;jamnik krótkow³osy;4;samiec;2;o198
+36;owczarek kaukaski;4;samica;4;o095
+37;komondor;4;samiec;4;o109
+38;owczarek szetlandzki;4;samiec;1;o143
+39;doberman;3;samiec;2;o014
+40;owczarek holenderski;5;samica;2;o057
+41;terier irlandzki;4;samica;3;o162
+42;sznaucer miniaturowy;4;samiec;2;o007
+43;owczarek kataloñski;5;samica;4;o077
+44;owczarek kaukaski;1;samica;0;o111
+45;pekiñczyk;1;samica;3;o104
+46;chart rosyjski;2;samica;2;o098
+47;chart perski;4;samica;1;o166
+48;owczarek niemiecki;3;samica;1;o044
+49;szpic w³oski;2;samica;1;o125
+50;szpic w³oski;5;samiec;1;o138
+51;wy¿e³ niemiecki krótkow³osy;1;samiec;4;o070
+52;szpic miniaturowy;3;samiec;1;o130
+53;alaskan malamute;3;samica;4;o137
+54;pudel miniaturowy;1;samiec;3;o004
+55;chart rosyjski;1;samica;0;o111
+56;wy¿e³ niemiecki d³ugow³osy;5;samiec;4;o078
+57;bernardyn d³ugow³osy;3;samiec;1;o020
+58;wy¿e³ w³oski szorstkow³osy;2;samiec;1;o145
+59;dog niemiecki;1;samica;0;o160
+60;bernardyn d³ugow³osy;1;samiec;0;o082
+61;dog argentyñski;5;samica;1;o012
+62;owczarek kraski;4;samiec;1;o064
+63;wy¿e³ w³oski szorstkow³osy;3;samica;3;o086
+64;labrador retriever;3;samiec;3;o086
+65;owczarek szkocki krótkow³osy;5;samiec;3;o021
+66;chart polski;4;samica;3;o018
+67;chart afgañski;5;samiec;0;o028
+68;dog kanaryjski;5;samica;2;o134
+69;buldog francuski;5;samica;0;o022
+70;pudel miniaturowy;1;samiec;3;o065
+71;chart szkocki;5;samica;0;o182
+72;chart perski;2;samiec;3;o010
+73;chart szkocki;1;samica;3;o022
+74;rottweiler;5;samica;2;o043
+75;owczarek kaukaski;4;samica;3;o087
+76;owczarek szkocki krótkow³osy;1;samiec;1;o050
+77;doberman;5;samica;1;o167
+78;pudel miniaturowy;2;samica;0;o163
+79;sznaucer miniaturowy;2;samiec;3;o149
+80;chart hiszpañski;2;samica;0;o171
+81;chart hiszpañski;3;samiec;0;o037
+82;sznaucer miniaturowy;1;samiec;0;o025
+83;mops;5;samica;2;o138
+84;dog niemiecki;4;samica;4;o066
+85;owczarek szkocki d³ugow³osy;3;samiec;3;o166
+86;jamnik krótkow³osy;1;samiec;0;o068
+87;wy¿e³ niemiecki d³ugow³osy;2;samiec;0;o013
+88;szpic niemiecki;2;samica;0;o062
+89;labrador retriever;3;samica;4;o121
+90;szpic w³oski;2;samiec;4;o124
+91;buldog angielski;3;samica;4;o175
+92;jamnik krótkow³osy;2;samiec;4;o091
+93;terier szkocki;4;samica;0;o010
+94;doberman;3;samica;4;o001
+95;dog argentyñski;5;samica;4;o116
+96;sznaucer olbrzym;5;samiec;4;o088
+97;alaskan malamute;2;samiec;2;o024
+98;terier australijski;1;samiec;0;o021
+99;buldog francuski;2;samiec;0;o120
+100;terier walijski;3;samiec;1;o075
+101;chihuahua;2;samica;4;o011
+102;bernardyn krótkow³osy;4;samica;3;o059
+103;foksterier szorstkow³osy;4;samiec;1;o020
+104;rottweiler;1;samica;4;o118
+105;szpic fiñski;3;samiec;0;o030
+106;dog argentyñski;4;samiec;2;o083
+107;bosker;1;samiec;4;o044
+108;owczarek kaukaski;1;samiec;0;o053
+109;cocker spaniel angielski;1;samica;1;o064
+110;buldog angielski;5;samiec;0;o100
+111;labrador retriever;1;samiec;3;o028
+112;szpic w³oski;4;samica;4;o007
+113;mops;3;samica;2;o034
+114;terier czeski;2;samiec;0;o166
+115;seter szkocki;3;samica;2;o069
+116;bernardyn d³ugow³osy;2;samica;0;o051
+117;dog argentyñski;1;samiec;1;o112
+118;doberman;1;samiec;4;o073
+119;terier szkocki;3;samica;4;o103
+120;szpic miniaturowy;3;samiec;2;o071
+121;labrador retriever;3;samiec;4;o091
+122;wy¿e³ niemiecki szorstkow³osy;4;samiec;0;o086
+123;chart szkocki;5;samica;3;o103
+124;dog argentyñski;2;samiec;4;o111
+125;buldog angielski;4;samiec;2;o142
+126;seter szkocki;3;samica;4;o186
+127;dog argentyñski;2;samiec;4;o040
+128;bosker;2;samica;0;o040
+129;bulterier;2;samiec;4;o107
+130;bernardyn krótkow³osy;3;samica;0;o032
+131;alaskan malamute;2;samiec;2;o008
+132;wy¿e³ w³oski krótkow³osy;1;samica;3;o057
+133;terier tybetañski;4;samica;3;o199
+134;chihuahua;2;samica;2;o111
+135;bulterier;3;samiec;4;o171
+136;bernardyn d³ugow³osy;4;samiec;0;o084
+137;jamnik szorstkow³osy;3;samiec;0;o103
+138;owczarek szkocki krótkow³osy;2;samica;2;o142
+139;dog kanaryjski;5;samiec;4;o052
+140;owczarek kraski;2;samica;2;o111
+141;jamnik d³ugow³osy;5;samiec;4;o102
+142;pudel du¿y;1;samica;0;o065
+143;chart perski;4;samiec;3;o008
+144;chart wêgierski;4;samica;0;o129
+145;wy¿e³ w³oski krótkow³osy;5;samica;1;o157
+146;wy¿e³ w³oski szorstkow³osy;4;samica;3;o186
+147;terier walijski;2;samiec;0;o193
+148;chart rosyjski;2;samica;0;o164
+149;owczarek kaukaski;4;samiec;4;o114
+150;owczarek œrodkowoazjatycki;1;samica;0;o048
+151;owczarek szkocki d³ugow³osy;5;samica;3;o173
+152;foksterier szorstkow³osy;3;samiec;2;o145
+153;seter irlandzki;1;samica;0;o042
+154;owczarek kaukaski;1;samica;0;o060
+155;terier australijski;2;samica;1;o113
+156;terier irlandzki;2;samica;3;o166
+157;wy¿e³ niemiecki krótkow³osy;2;samiec;2;o082
+158;owczarek szkocki d³ugow³osy;3;samiec;1;o181
+159;chart wêgierski;5;samica;0;o120
+160;labrador retriever;5;samiec;1;o084
+161;owczarek kataloñski;5;samica;0;o040
+162;jamnik d³ugow³osy;4;samiec;2;o118
+163;rottweiler;4;samiec;0;o181
+164;terier australijski;1;samiec;4;o098
+165;labrador retriever;3;samiec;0;o053
+166;terier szkocki;5;samica;4;o069
+167;mops;2;samiec;1;o173
+168;terier australijski;2;samica;1;o124
+169;alaskan malamute;3;samiec;1;o154
+170;bulterier;1;samica;3;o139
+171;labrador retriever;5;samiec;1;o011
+172;terier irlandzki;1;samica;1;o133
+173;cocker spaniel angielski;4;samiec;1;o078
+174;chart wêgierski;3;samica;0;o191
+175;terier tybetañski;3;samiec;1;o180
+176;buldog angielski;3;samica;0;o144
+177;chart afgañski;1;samica;0;o173
+178;komondor;2;samica;3;o191
+179;chart szkocki;1;samiec;4;o008
+180;chart hiszpañski;3;samiec;1;o088
+181;owczarek holenderski;4;samica;3;o025
+182;seter szkocki;3;samica;1;o100
+183;dog kanaryjski;3;samiec;4;o003
+184;chart afgañski;2;samiec;0;o120
+185;chart perski;5;samiec;3;o041
+186;bernardyn d³ugow³osy;2;samica;3;o078
+187;bernardyn krótkow³osy;1;samiec;1;o068
+188;szpic fiñski;2;samiec;4;o084
+189;terier australijski;1;samiec;4;o179
+190;dog argentyñski;3;samica;4;o118
+191;bulterier;4;samiec;4;o085
+192;pudel œredni;4;samiec;0;o022
+193;owczarek szkocki krótkow³osy;4;samica;4;o009
+194;foksterier szorstkow³osy;3;samiec;4;o015
+195;jamnik szorstkow³osy;2;samica;0;o087
+196;dog argentyñski;5;samiec;4;o103
+197;dog argentyñski;1;samiec;0;o052
+198;owczarek kaukaski;3;samiec;1;o147
+199;chart hiszpañski;1;samiec;4;o049
+200;labrador retriever;1;samica;2;o165
+201;wy¿e³ wêgierski krótkow³osy;3;samica;4;o083
+202;komondor;5;samica;3;o089
+203;chart szkocki;5;samiec;4;o029
+204;dalmatyñczyk;4;samica;2;o109
+205;cocker spaniel angielski;5;samiec;2;o049
+206;sznaucer miniaturowy;2;samica;1;o134
+207;terier irlandzki;4;samica;1;o110
+208;seter angielski;1;samica;2;o085
+209;foksterier szorstkow³osy;2;samiec;4;o044
+210;owczarek szkocki krótkow³osy;1;samica;4;o083
+211;owczarek kataloñski;2;samica;0;o157
+212;seter irlandzki;4;samiec;4;o041
+213;owczarek szkocki krótkow³osy;3;samica;2;o002
+214;szpic w³oski;2;samica;3;o140
+215;jamnik krótkow³osy;4;samica;4;o172
+216;terier walijski;3;samiec;0;o017
+217;cocker spaniel angielski;2;samica;2;o140
+218;wy¿e³ niemiecki d³ugow³osy;5;samiec;3;o163
+219;pudel miniaturowy;3;samica;3;o044
+220;owczarek szkocki d³ugow³osy;4;samiec;2;o025
+221;dog argentyñski;1;samiec;0;o072
+222;buldog angielski;2;samiec;0;o077
+223;owczarek szetlandzki;1;samiec;3;o034
+224;cocker spaniel angielski;4;samiec;2;o050
+225;bernardyn d³ugow³osy;3;samiec;3;o033
+226;terier walijski;3;samica;0;o068
+227;chart szkocki;5;samica;0;o144
+228;komondor;4;samica;4;o057
+229;seter irlandzki;4;samica;2;o078
+230;wy¿e³ w³oski krótkow³osy;3;samiec;3;o171
+231;wy¿e³ niemiecki krótkow³osy;5;samiec;4;o147
+232;owczarek kataloñski;1;samiec;4;o101
+233;labrador retriever;5;samiec;0;o044
+234;seter szkocki;1;samiec;4;o081
+235;terier australijski;2;samica;4;o132
+236;bernardyn krótkow³osy;4;samiec;4;o078
+237;pudel miniaturowy;1;samiec;3;o118
+238;foksterier krótkow³osy;5;samica;2;o181
+239;seter irlandzki;3;samiec;4;o066
+240;chart perski;5;samiec;4;o144
+241;chart polski;3;samica;3;o014
+242;owczarek kraski;4;samica;3;o049
+243;bernardyn d³ugow³osy;2;samica;3;o086
+244;chart rosyjski;3;samiec;1;o100
+245;owczarek niemiecki;1;samica;2;o027
+246;labrador retriever;2;samiec;3;o149
+247;komondor;4;samiec;0;o013
+248;terier walijski;1;samica;4;o066
+249;owczarek podhalañski;5;samica;1;o134
+250;foksterier szorstkow³osy;1;samica;2;o095
+251;szpic miniaturowy;1;samiec;0;o165
+252;sznaucer olbrzym;2;samiec;4;o069
+253;dog niemiecki;3;samiec;3;o063
+254;jamnik krótkow³osy;1;samiec;1;o013
+255;wy¿e³ w³oski szorstkow³osy;5;samiec;2;o128
+256;chart polski;4;samica;1;o113
+257;szpic w³oski;2;samica;2;o022
+258;owczarek szkocki krótkow³osy;5;samiec;2;o037
+259;alaskan malamute;5;samiec;0;o021
+260;alaskan malamute;3;samica;3;o126
+261;jamnik d³ugow³osy;1;samiec;4;o022
+262;terier szkocki;3;samiec;4;o044
+263;foksterier krótkow³osy;2;samica;1;o030
+264;terier czeski;3;samica;3;o027
+265;pekiñczyk;3;samiec;4;o200
+266;wy¿e³ wêgierski krótkow³osy;5;samica;3;o156
+267;buldog angielski;5;samica;2;o032
+268;owczarek szkocki krótkow³osy;4;samica;2;o074
+269;szpic miniaturowy;3;samiec;4;o197
+270;owczarek szkocki d³ugow³osy;3;samica;4;o096
+271;seter szkocki;1;samica;1;o130
+272;wy¿e³ niemiecki krótkow³osy;2;samiec;2;o095
+273;szpic w³oski;3;samica;2;o101
+274;buldog angielski;3;samiec;0;o118
+275;terier czeski;2;samica;4;o096
+276;owczarek niemiecki;3;samiec;3;o043
+277;sznaucer miniaturowy;4;samica;1;o082
+278;pudel miniaturowy;3;samiec;4;o191
+279;cocker spaniel amerykañski;5;samiec;3;o196
+280;alaskan malamute;4;samiec;0;o097
+281;owczarek kataloñski;4;samica;3;o192
+282;owczarek kraski;2;samica;3;o034
+283;chart rosyjski;3;samiec;4;o108
+284;chart afgañski;5;samica;0;o155
+285;wy¿e³ w³oski krótkow³osy;4;samica;0;o010
+286;wy¿e³ wêgierski szorstkow³osy;3;samica;1;o034
+287;mops;5;samiec;4;o012
+288;cocker spaniel angielski;3;samica;2;o007
+289;komondor;5;samica;0;o090
+290;bernardyn krótkow³osy;4;samiec;3;o035
+291;owczarek szkocki krótkow³osy;4;samiec;3;o160
+292;terier czeski;4;samiec;2;o086
+293;wy¿e³ wêgierski szorstkow³osy;3;samica;2;o126
+294;labrador retriever;4;samiec;0;o187
+295;owczarek szetlandzki;4;samiec;3;o027
+296;owczarek kaukaski;2;samica;0;o090
+297;sznaucer olbrzym;4;samica;3;o191
+298;terier szkocki;3;samiec;0;o037
+299;wy¿e³ w³oski krótkow³osy;5;samica;4;o109
+300;alaskan malamute;5;samica;2;o099
+301;wy¿e³ wêgierski szorstkow³osy;5;samiec;4;o171
+302;jamnik szorstkow³osy;1;samica;4;o102
+303;terier walijski;3;samiec;0;o122
+304;seter irlandzki;4;samica;4;o180
+305;chart wêgierski;4;samica;2;o046
+306;wy¿e³ niemiecki szorstkow³osy;3;samiec;3;o180
+307;cocker spaniel amerykañski;1;samica;4;o195
+308;labrador retriever;1;samica;3;o040
+309;chihuahua;1;samiec;3;o069
+310;polski owczarek nizinny;2;samiec;1;o104
+311;seter irlandzki;4;samica;3;o022
+312;wy¿e³ wêgierski szorstkow³osy;2;samiec;1;o102
+313;bernardyn d³ugow³osy;1;samica;1;o112
+314;pudel du¿y;4;samiec;4;o097
+315;terier tybetañski;1;samiec;1;o124
+316;dog niemiecki;3;samiec;4;o199
+317;wy¿e³ w³oski krótkow³osy;4;samiec;0;o040
+318;terier walijski;1;samiec;2;o094
+319;wy¿e³ w³oski szorstkow³osy;5;samica;1;o147
+320;bosker;2;samiec;1;o177
+321;pekiñczyk;2;samiec;2;o021
+322;wy¿e³ w³oski krótkow³osy;2;samica;3;o060
+323;owczarek szetlandzki;4;samiec;4;o052
+324;seter angielski;5;samiec;0;o120
+325;bosker;1;samica;3;o112
+326;pudel miniaturowy;4;samiec;2;o191
+327;owczarek holenderski;2;samiec;0;o042
+328;terier tybetañski;3;samica;0;o036
+329;buldog francuski;5;samiec;0;o057
+330;owczarek kaukaski;5;samica;2;o074
+331;pudel miniaturowy;3;samica;0;o145
+332;polski owczarek nizinny;1;samica;3;o180
+333;terier szkocki;3;samica;3;o133
+334;chart hiszpañski;1;samica;0;o129
+335;buldog francuski;2;samiec;0;o152
+336;terier tybetañski;3;samica;0;o142
+337;wy¿e³ wêgierski krótkow³osy;1;samiec;3;o107
+338;pekiñczyk;5;samica;1;o132
+339;bulterier;4;samica;4;o096
+340;owczarek szkocki d³ugow³osy;4;samiec;3;o139
+341;wy¿e³ niemiecki szorstkow³osy;2;samica;3;o118
+342;bernardyn krótkow³osy;4;samiec;1;o083
+343;seter szkocki;1;samica;4;o016
+344;bulterier;5;samica;0;o092
+345;owczarek podhalañski;3;samica;2;o016
+346;mops;5;samica;3;o144
+347;pudel miniaturowy;4;samiec;0;o133
+348;sznaucer miniaturowy;3;samiec;2;o131
+349;chart szkocki;2;samiec;2;o162
+350;wy¿e³ wêgierski szorstkow³osy;2;samiec;3;o131
+351;terier australijski;2;samica;1;o016
+352;szpic miniaturowy;2;samica;2;o169
+353;owczarek kaukaski;2;samiec;1;o138
+354;dog argentyñski;2;samica;1;o127
+355;pudel du¿y;4;samiec;3;o021
+356;komondor;4;samiec;1;o101
+357;chart hiszpañski;2;samiec;2;o080
+358;terier tybetañski;3;samica;2;o175
+359;chihuahua;1;samica;3;o049
+360;owczarek holenderski;3;samica;1;o060
+361;terier irlandzki;2;samica;1;o123
+362;cocker spaniel amerykañski;4;samiec;2;o118
+363;seter angielski;3;samica;2;o079
+364;dog argentyñski;5;samiec;0;o077
+365;jamnik d³ugow³osy;1;samiec;3;o073
+366;seter irlandzki;1;samica;2;o142
+367;mops;4;samica;4;o037
+368;buldog francuski;2;samica;4;o044
+369;owczarek szetlandzki;4;samiec;1;o118
+370;chart rosyjski;5;samiec;4;o162
+371;jamnik szorstkow³osy;4;samica;1;o012
+372;wy¿e³ niemiecki d³ugow³osy;1;samiec;0;o183
+373;sznaucer olbrzym;5;samica;1;o020
+374;wy¿e³ niemiecki szorstkow³osy;3;samiec;0;o052
+375;chart perski;2;samica;0;o068
+376;bosker;1;samiec;4;o034
+377;szpic miniaturowy;3;samiec;0;o064
+378;chart rosyjski;1;samica;2;o052
+379;bernardyn krótkow³osy;3;samica;4;o085
+380;sznaucer miniaturowy;2;samiec;2;o160
+381;chart rosyjski;3;samiec;3;o130
+382;terier szkocki;2;samiec;1;o179
+383;owczarek szkocki d³ugow³osy;5;samiec;4;o011
+384;jamnik szorstkow³osy;3;samiec;4;o135
+385;mops;4;samiec;0;o044
+386;wy¿e³ niemiecki d³ugow³osy;3;samiec;0;o089
+387;buldog francuski;1;samiec;3;o169
+388;terier walijski;5;samica;0;o097
+389;chart afgañski;4;samica;3;o024
+390;wy¿e³ niemiecki krótkow³osy;1;samica;4;o190
+391;chart rosyjski;1;samiec;3;o066
+392;chart rosyjski;2;samiec;1;o046
+393;chart polski;5;samiec;3;o085
+394;pudel œredni;2;samiec;3;o162
+395;owczarek szkocki d³ugow³osy;4;samica;1;o148
+396;terier szkocki;4;samiec;0;o077
+397;chart perski;5;samica;1;o055
+398;owczarek kataloñski;5;samica;3;o159
+399;doberman;5;samiec;4;o026
+400;owczarek szkocki krótkow³osy;1;samiec;4;o185
+401;pudel œredni;5;samica;2;o062
+402;terier szkocki;2;samiec;3;o079
+403;cocker spaniel angielski;2;samica;1;o167
+404;wy¿e³ niemiecki d³ugow³osy;4;samica;2;o176
+405;terier australijski;2;samica;4;o001
+406;owczarek niemiecki;5;samiec;3;o098
+407;seter angielski;3;samiec;4;o051
+408;pudel miniaturowy;5;samiec;3;o154
+409;chart afgañski;1;samiec;2;o045
+410;wy¿e³ wêgierski szorstkow³osy;3;samica;3;o059
+411;sznaucer olbrzym;5;samiec;4;o160
+412;chart polski;3;samica;4;o174
+413;chart szkocki;3;samiec;0;o046
+414;pudel œredni;5;samiec;2;o171
+415;dog argentyñski;1;samica;2;o189
+416;terier australijski;1;samica;4;o084
+417;foksterier szorstkow³osy;3;samica;0;o194
+418;owczarek niemiecki;1;samiec;1;o041
+419;terier australijski;5;samica;4;o191
+420;cocker spaniel amerykañski;2;samiec;2;o115
+421;owczarek szetlandzki;2;samiec;1;o134
+422;bulterier;2;samica;4;o118
+423;pudel miniaturowy;3;samica;1;o044
+424;owczarek holenderski;1;samica;3;o085
+425;bosker;4;samica;1;o131
+426;pudel du¿y;1;samiec;1;o054
+427;wy¿e³ wêgierski krótkow³osy;4;samiec;0;o002
+428;terier tybetañski;1;samiec;2;o055
+429;sznaucer olbrzym;2;samiec;0;o155
+430;pudel miniaturowy;3;samiec;2;o196
+431;buldog angielski;1;samiec;2;o132
+432;bulterier;5;samiec;4;o020
+433;wy¿e³ w³oski szorstkow³osy;2;samica;4;o017
+434;pudel œredni;2;samica;0;o124
+435;szpic niemiecki;4;samica;2;o072
+436;owczarek szetlandzki;5;samica;4;o021
+437;dog kanaryjski;1;samiec;4;o165
+438;seter irlandzki;1;samiec;1;o146
+439;terier szkocki;2;samica;0;o137
+440;dalmatyñczyk;2;samica;1;o105
+441;owczarek kaukaski;2;samiec;0;o106
+442;owczarek kraski;1;samiec;0;o033
+443;bosker;1;samiec;0;o092
+444;komondor;5;samica;1;o150
+445;foksterier krótkow³osy;2;samica;1;o156
+446;szpic miniaturowy;5;samica;0;o177
+447;jamnik szorstkow³osy;1;samiec;4;o144
+448;terier walijski;3;samica;1;o038
+449;szpic fiñski;2;samica;3;o096
+450;jamnik d³ugow³osy;5;samica;1;o082
+451;terier szkocki;2;samica;3;o128
+452;chart afgañski;1;samiec;2;o101
+453;seter angielski;2;samica;3;o192
+454;dog kanaryjski;2;samiec;1;o008
+455;dog argentyñski;3;samica;0;o124
+456;buldog angielski;2;samiec;0;o170
+457;chart perski;4;samica;1;o170
+458;owczarek szkocki d³ugow³osy;4;samiec;0;o093
+459;dog argentyñski;5;samiec;2;o024
+460;pudel miniaturowy;4;samica;0;o026
+461;chart wêgierski;1;samica;4;o100
+462;alaskan malamute;1;samiec;1;o117
+463;dog kanaryjski;3;samiec;2;o082
+464;szpic fiñski;1;samica;4;o055
+465;polski owczarek nizinny;5;samica;3;o117
+466;chart afgañski;3;samiec;1;o154
+467;chart afgañski;3;samica;0;o144
+468;bernardyn d³ugow³osy;4;samica;1;o154
+469;owczarek szkocki d³ugow³osy;5;samiec;1;o107
+470;terier tybetañski;2;samiec;3;o168
+471;pudel du¿y;2;samica;2;o164
+472;owczarek kataloñski;4;samica;2;o121
+473;dog niemiecki;5;samica;2;o048
+474;buldog angielski;2;samiec;1;o191
+475;owczarek holenderski;5;samica;3;o018
+476;chart polski;4;samiec;0;o115
+477;cocker spaniel amerykañski;1;samica;0;o052
+478;dalmatyñczyk;1;samica;3;o105
+479;owczarek holenderski;4;samiec;0;o058
+480;bulterier;1;samica;1;o173
+481;dog kanaryjski;5;samiec;0;o147
+482;wy¿e³ w³oski szorstkow³osy;3;samica;1;o146
+483;wy¿e³ niemiecki krótkow³osy;4;samica;1;o164
+484;cocker spaniel amerykañski;4;samiec;0;o036
+485;chart rosyjski;1;samiec;3;o009
+486;szpic fiñski;1;samiec;1;o067
+487;cocker spaniel amerykañski;1;samica;1;o036
+488;komondor;2;samiec;2;o104
+489;chart afgañski;1;samica;4;o192
+490;jamnik d³ugow³osy;2;samica;1;o093
+491;wy¿e³ niemiecki d³ugow³osy;4;samica;2;o075
+492;dog niemiecki;3;samica;0;o115
+493;chart szkocki;1;samica;2;o107
+494;owczarek szkocki d³ugow³osy;4;samiec;4;o101
+495;chart wêgierski;4;samica;0;o088
+496;terier szkocki;4;samica;4;o028
+497;cocker spaniel amerykañski;2;samiec;1;o191
+498;jamnik szorstkow³osy;2;samica;1;o028
+499;terier walijski;4;samica;3;o014
+500;chart afgañski;2;samiec;3;o165
+501;wy¿e³ wêgierski szorstkow³osy;4;samiec;1;o060
+502;szpic niemiecki;4;samiec;0;o032
+503;terier australijski;2;samica;3;o156
+504;labrador retriever;3;samica;2;o098
+505;owczarek kataloñski;5;samiec;2;o034
+506;chihuahua;5;samiec;4;o055
+507;chihuahua;5;samica;1;o040
+508;chart rosyjski;4;samica;0;o183
+509;wy¿e³ wêgierski szorstkow³osy;5;samica;3;o186
+510;buldog angielski;2;samica;3;o090
+511;bosker;1;samiec;1;o162
+512;foksterier krótkow³osy;1;samica;4;o048
+513;jamnik krótkow³osy;2;samiec;2;o045
+514;wy¿e³ w³oski szorstkow³osy;5;samiec;3;o074
+515;owczarek podhalañski;1;samica;1;o145
+516;owczarek kaukaski;4;samiec;3;o014
+517;buldog angielski;2;samica;1;o021
+518;owczarek kaukaski;1;samica;0;o026
+519;owczarek kataloñski;2;samica;3;o058
+520;sznaucer olbrzym;3;samica;3;o186
+521;owczarek szetlandzki;4;samica;1;o141
+522;cocker spaniel amerykañski;3;samica;1;o151
+523;terier czeski;3;samiec;4;o033
+524;dalmatyñczyk;4;samica;0;o150
+525;owczarek kraski;1;samica;2;o094
+526;owczarek podhalañski;1;samiec;0;o197
+527;terier australijski;3;samiec;3;o131
+528;pekiñczyk;3;samiec;2;o159
+529;owczarek niemiecki;2;samica;1;o005
+530;wy¿e³ niemiecki szorstkow³osy;4;samiec;0;o040
+531;chart perski;5;samiec;0;o112
+532;szpic fiñski;1;samiec;4;o171
+533;buldog francuski;5;samiec;3;o170
+534;chart hiszpañski;2;samica;0;o168
+535;chart polski;5;samica;4;o146
+536;owczarek kaukaski;1;samica;2;o038
+537;owczarek kaukaski;5;samiec;2;o048
+538;terier walijski;4;samiec;1;o058
+539;bernardyn krótkow³osy;4;samiec;1;o185
+540;owczarek kraski;2;samica;1;o062
+541;pekiñczyk;3;samiec;2;o197
+542;seter irlandzki;3;samica;3;o165
+543;bernardyn krótkow³osy;4;samica;3;o122
+544;foksterier szorstkow³osy;5;samica;1;o036
+545;komondor;5;samica;3;o173
+546;owczarek œrodkowoazjatycki;3;samica;3;o148
+547;chart perski;4;samiec;2;o121
+548;dog argentyñski;3;samiec;1;o021
+549;chart szkocki;1;samica;0;o155
+550;dog niemiecki;1;samica;4;o159
+551;rottweiler;1;samica;3;o030
+552;dog argentyñski;1;samica;3;o038
+553;chart perski;2;samiec;1;o196
+554;chart hiszpañski;1;samiec;1;o063
+555;chart afgañski;3;samiec;3;o133
+556;chart polski;3;samica;0;o039
+557;chart polski;2;samiec;4;o006
+558;terier czeski;2;samica;1;o158
+559;pudel du¿y;4;samica;2;o164
+560;pudel du¿y;2;samica;4;o085
+561;owczarek szetlandzki;5;samiec;1;o157
+562;szpic miniaturowy;5;samiec;3;o073
+563;owczarek szkocki d³ugow³osy;1;samiec;2;o192
+564;terier szkocki;3;samica;0;o190
+565;jamnik d³ugow³osy;5;samiec;0;o043
+566;foksterier szorstkow³osy;1;samica;0;o090
+567;owczarek holenderski;4;samica;4;o084
+568;owczarek szkocki d³ugow³osy;4;samica;2;o186
+569;terier szkocki;5;samiec;0;o096
+570;terier szkocki;5;samica;2;o181
+571;wy¿e³ w³oski krótkow³osy;2;samiec;4;o053
+572;jamnik krótkow³osy;2;samiec;2;o014
+573;seter szkocki;3;samiec;0;o137
+574;jamnik szorstkow³osy;2;samica;3;o081
+575;terier czeski;5;samica;2;o134
+576;bosker;3;samica;0;o131
+577;wy¿e³ niemiecki krótkow³osy;4;samiec;0;o067
+578;chart hiszpañski;4;samica;2;o175
+579;chihuahua;2;samiec;1;o192
+580;foksterier szorstkow³osy;5;samica;1;o027
+581;komondor;1;samica;2;o145
+582;terier szkocki;3;samica;1;o141
+583;seter szkocki;4;samica;1;o149
+584;szpic miniaturowy;5;samica;0;o133
+585;szpic niemiecki;1;samica;4;o069
+586;jamnik krótkow³osy;1;samica;4;o081
+587;bernardyn d³ugow³osy;5;samica;1;o026
+588;chart polski;5;samica;3;o128
+589;jamnik szorstkow³osy;4;samiec;4;o149
+590;sznaucer olbrzym;2;samica;3;o174
+591;owczarek kataloñski;1;samiec;3;o127
+592;pekiñczyk;1;samica;2;o055
+593;chart wêgierski;3;samica;3;o077
+594;owczarek kaukaski;1;samiec;1;o080
+595;chart hiszpañski;4;samica;3;o003
+596;foksterier szorstkow³osy;4;samiec;3;o015
+597;terier australijski;4;samica;2;o198
+598;terier szkocki;4;samica;3;o159
+599;seter szkocki;5;samica;2;o030
+600;dog kanaryjski;2;samica;4;o111
+601;wy¿e³ w³oski szorstkow³osy;3;samiec;3;o102
+602;cocker spaniel amerykañski;5;samica;1;o099
+603;jamnik d³ugow³osy;4;samica;4;o058
+604;jamnik krótkow³osy;1;samiec;4;o180
+605;sznaucer miniaturowy;4;samica;4;o111
+606;szpic niemiecki;1;samica;1;o091
+607;jamnik d³ugow³osy;4;samica;1;o066
+608;foksterier krótkow³osy;3;samiec;3;o123
+609;dog argentyñski;5;samiec;2;o142
+610;wy¿e³ niemiecki krótkow³osy;4;samiec;1;o172
+611;owczarek szkocki d³ugow³osy;1;samiec;1;o032
+612;owczarek kraski;4;samiec;1;o118
+613;wy¿e³ niemiecki krótkow³osy;2;samiec;4;o166
+614;foksterier szorstkow³osy;2;samiec;3;o019
+615;sznaucer miniaturowy;1;samica;1;o006
+616;pudel miniaturowy;2;samiec;3;o094
+617;jamnik szorstkow³osy;3;samiec;2;o076
+618;bosker;3;samica;3;o173
+619;owczarek œrodkowoazjatycki;4;samica;0;o098
+620;sznaucer olbrzym;5;samica;4;o077
+621;terier szkocki;3;samiec;0;o054
+622;pudel du¿y;3;samica;1;o172
+623;alaskan malamute;1;samica;4;o027
+624;pudel du¿y;4;samiec;3;o070
+625;buldog francuski;3;samica;1;o115
+626;seter irlandzki;4;samiec;3;o056
+627;bulterier;2;samiec;3;o137
+628;chart polski;3;samiec;3;o019
+629;seter irlandzki;4;samica;4;o065
+630;chart szkocki;3;samica;3;o026
+631;terier irlandzki;5;samiec;0;o105
+632;chart hiszpañski;1;samica;2;o180
+633;owczarek holenderski;5;samiec;4;o032
+634;pekiñczyk;4;samiec;0;o137
+635;dog argentyñski;2;samica;0;o185
+636;cocker spaniel amerykañski;5;samica;0;o136
+637;wy¿e³ w³oski krótkow³osy;3;samica;3;o172
+638;dog kanaryjski;2;samiec;3;o089
+639;szpic miniaturowy;4;samiec;2;o093
+640;cocker spaniel angielski;2;samica;0;o169
+641;wy¿e³ niemiecki d³ugow³osy;3;samiec;4;o101
+642;bosker;5;samiec;0;o106
+643;owczarek holenderski;2;samica;2;o101
+644;sznaucer miniaturowy;5;samica;1;o153
+645;szpic w³oski;4;samiec;1;o027
+646;wy¿e³ niemiecki d³ugow³osy;3;samiec;3;o059
+647;szpic miniaturowy;4;samiec;4;o198
+648;wy¿e³ niemiecki szorstkow³osy;1;samica;4;o033
+649;komondor;3;samica;2;o122
+650;owczarek kataloñski;1;samiec;4;o139
+651;terier australijski;2;samica;0;o033
+652;seter angielski;2;samica;2;o010
+653;bernardyn krótkow³osy;1;samica;3;o067
+654;wy¿e³ niemiecki d³ugow³osy;3;samiec;2;o020
+655;dog argentyñski;3;samica;1;o024
+656;foksterier krótkow³osy;2;samica;0;o005
+657;cocker spaniel angielski;5;samica;4;o149
+658;cocker spaniel angielski;1;samica;3;o104
+659;owczarek œrodkowoazjatycki;1;samica;0;o129
+660;dog niemiecki;3;samica;2;o058
+661;owczarek szetlandzki;3;samiec;4;o128
+662;pekiñczyk;3;samica;4;o172
+663;owczarek szkocki d³ugow³osy;2;samica;1;o182
+664;owczarek podhalañski;2;samiec;3;o185
+665;jamnik szorstkow³osy;3;samica;2;o063
+666;foksterier krótkow³osy;1;samiec;1;o093
+667;sznaucer miniaturowy;5;samica;0;o180
+668;foksterier krótkow³osy;4;samiec;1;o187
+669;wy¿e³ wêgierski krótkow³osy;2;samiec;3;o099
+670;foksterier szorstkow³osy;3;samiec;0;o175
+671;sznaucer olbrzym;4;samica;0;o198
+672;pekiñczyk;1;samica;3;o142
+673;terier irlandzki;2;samica;4;o114
+674;bulterier;4;samica;2;o045
+675;szpic w³oski;3;samiec;0;o010
+676;buldog francuski;5;samica;2;o194
+677;bernardyn krótkow³osy;5;samica;3;o077
+678;pudel œredni;3;samiec;3;o137
+679;foksterier szorstkow³osy;5;samiec;1;o075
+680;seter szkocki;2;samiec;2;o187
+681;labrador retriever;1;samica;3;o033
+682;wy¿e³ niemiecki krótkow³osy;3;samica;1;o189
+683;mops;2;samica;3;o175
+684;foksterier szorstkow³osy;5;samica;3;o131
+685;szpic fiñski;5;samiec;0;o077
+686;bulterier;2;samica;0;o057
+687;foksterier szorstkow³osy;3;samica;4;o045
+688;owczarek podhalañski;5;samiec;2;o141
+689;owczarek œrodkowoazjatycki;1;samiec;4;o113
+690;owczarek œrodkowoazjatycki;1;samica;0;o135
+691;owczarek kaukaski;5;samica;1;o032
+692;cocker spaniel amerykañski;3;samica;4;o146
+693;dog kanaryjski;1;samiec;0;o002
+694;dog kanaryjski;5;samiec;3;o178
+695;owczarek szkocki krótkow³osy;2;samiec;3;o180
+696;szpic miniaturowy;5;samica;0;o053
+697;owczarek kataloñski;5;samica;4;o195
+698;dalmatyñczyk;5;samiec;4;o163
+699;rottweiler;5;samica;1;o187
+700;owczarek podhalañski;2;samica;3;o121
+701;owczarek szetlandzki;1;samica;2;o123
+702;buldog angielski;3;samiec;3;o179
+703;buldog angielski;5;samica;3;o185
+704;terier australijski;5;samica;1;o137
+705;chart perski;2;samica;3;o103
+706;bernardyn d³ugow³osy;2;samica;4;o060
+707;chart polski;5;samica;1;o023
+708;szpic niemiecki;4;samiec;2;o021
+709;owczarek podhalañski;3;samiec;4;o016
+710;foksterier szorstkow³osy;5;samica;0;o069
+711;alaskan malamute;3;samiec;4;o025
+712;szpic w³oski;2;samica;1;o074
+713;terier australijski;3;samiec;4;o045
+714;doberman;5;samica;2;o139
+715;chihuahua;1;samica;1;o188
+716;wy¿e³ w³oski szorstkow³osy;1;samiec;2;o115
+717;bosker;1;samiec;4;o115
+718;chart wêgierski;3;samica;0;o016
+719;terier czeski;3;samiec;3;o173
+720;polski owczarek nizinny;2;samica;2;o170
+721;owczarek holenderski;2;samica;4;o009
+722;chart hiszpañski;5;samica;0;o167
+723;alaskan malamute;2;samiec;2;o081
+724;chart rosyjski;2;samica;2;o024
+725;chart wêgierski;1;samica;2;o198
+726;cocker spaniel amerykañski;2;samiec;2;o154
+727;owczarek holenderski;2;samiec;4;o142
+728;foksterier krótkow³osy;5;samica;1;o003
+729;komondor;1;samica;0;o078
+730;komondor;2;samica;1;o159
+731;wy¿e³ niemiecki d³ugow³osy;4;samiec;2;o023
+732;labrador retriever;2;samiec;3;o132
+733;chart perski;3;samica;3;o168
+734;wy¿e³ w³oski szorstkow³osy;1;samiec;4;o118
+735;terier walijski;5;samica;3;o110
+736;doberman;3;samica;0;o037
+737;foksterier szorstkow³osy;1;samiec;4;o011
+738;owczarek œrodkowoazjatycki;1;samica;1;o007
+739;dog argentyñski;5;samiec;1;o145
+740;jamnik krótkow³osy;3;samiec;1;o145
+741;owczarek holenderski;5;samica;3;o068
+742;szpic w³oski;2;samiec;2;o145
+743;chart hiszpañski;2;samiec;0;o175
+744;szpic w³oski;4;samica;1;o034
+745;chart polski;1;samica;3;o038
+746;pudel du¿y;1;samiec;2;o060
+747;foksterier krótkow³osy;3;samiec;2;o048
+748;buldog francuski;4;samiec;4;o084
+749;terier irlandzki;4;samica;3;o013
+750;seter angielski;3;samiec;3;o189
+751;polski owczarek nizinny;1;samica;3;o108
+752;chart wêgierski;3;samica;0;o083
+753;buldog angielski;3;samiec;0;o029
+754;owczarek szkocki d³ugow³osy;4;samica;0;o042
+755;chart polski;1;samica;1;o027
+756;owczarek kraski;1;samiec;3;o060
+757;chihuahua;4;samica;4;o059
+758;jamnik d³ugow³osy;5;samiec;0;o152
+759;bosker;5;samica;3;o122
+760;chart hiszpañski;4;samiec;2;o118
+761;chart wêgierski;3;samica;0;o136
+762;szpic miniaturowy;2;samica;1;o031
+763;sznaucer miniaturowy;1;samica;0;o144
+764;sznaucer olbrzym;3;samica;2;o052
+765;chart rosyjski;2;samiec;2;o101
+766;wy¿e³ w³oski krótkow³osy;4;samiec;1;o035
+767;mops;2;samiec;3;o019
+768;wy¿e³ niemiecki d³ugow³osy;5;samiec;4;o086
+769;owczarek niemiecki;3;samica;3;o023
+770;bosker;4;samica;1;o092
+771;owczarek szkocki krótkow³osy;3;samica;1;o144
+772;owczarek szetlandzki;4;samica;4;o180
+773;pekiñczyk;5;samica;4;o182
+774;owczarek szkocki krótkow³osy;4;samica;3;o039
+775;terier tybetañski;5;samica;4;o144
+776;wy¿e³ w³oski szorstkow³osy;1;samiec;0;o086
+777;owczarek szkocki krótkow³osy;2;samiec;2;o134
+778;owczarek kaukaski;1;samiec;1;o091
+779;wy¿e³ wêgierski krótkow³osy;5;samiec;2;o035
+780;pekiñczyk;1;samiec;4;o118
+781;chart hiszpañski;1;samica;2;o060
+782;seter angielski;1;samiec;2;o006
+783;chart perski;1;samiec;4;o085
+784;seter irlandzki;5;samica;1;o005
+785;wy¿e³ w³oski szorstkow³osy;5;samiec;2;o097
+786;pudel miniaturowy;1;samiec;3;o040
+787;komondor;2;samiec;4;o145
+788;alaskan malamute;5;samica;0;o002
+789;chart szkocki;3;samica;2;o028
+790;polski owczarek nizinny;1;samiec;3;o080
+791;wy¿e³ niemiecki d³ugow³osy;4;samica;2;o200
+792;bulterier;2;samica;0;o066
+793;owczarek niemiecki;5;samiec;2;o074
+794;chart afgañski;2;samiec;1;o146
+795;owczarek kaukaski;5;samica;0;o173
+796;wy¿e³ niemiecki szorstkow³osy;2;samiec;3;o193
+797;pekiñczyk;3;samiec;0;o075
+798;rottweiler;2;samiec;4;o188
+799;pudel œredni;4;samiec;4;o019
+800;terier australijski;3;samiec;2;o142
+801;bosker;2;samica;0;o072
+802;szpic niemiecki;2;samiec;1;o046
+803;wy¿e³ niemiecki krótkow³osy;5;samiec;2;o085
+804;seter szkocki;1;samica;3;o133
+805;dalmatyñczyk;2;samiec;1;o184
+806;pudel miniaturowy;1;samiec;3;o010
+807;polski owczarek nizinny;4;samica;2;o174
+808;terier walijski;5;samiec;2;o158
+809;chart perski;3;samica;2;o140
+810;pudel du¿y;2;samiec;0;o033
+811;wy¿e³ wêgierski krótkow³osy;1;samiec;3;o183
+812;wy¿e³ w³oski krótkow³osy;1;samica;0;o083
+813;szpic w³oski;3;samiec;0;o174
+814;bernardyn krótkow³osy;2;samiec;3;o178
+815;foksterier szorstkow³osy;3;samiec;3;o177
+816;jamnik krótkow³osy;1;samica;3;o048
+817;dog argentyñski;5;samiec;4;o011
+818;owczarek kataloñski;2;samiec;0;o101
+819;wy¿e³ w³oski krótkow³osy;2;samiec;4;o145
+820;seter angielski;1;samiec;0;o102
+821;komondor;1;samiec;0;o041
+822;labrador retriever;3;samiec;1;o131
+823;owczarek kataloñski;5;samiec;3;o180
+824;owczarek szkocki krótkow³osy;5;samica;2;o173
+825;wy¿e³ w³oski szorstkow³osy;5;samiec;2;o057
+826;chart hiszpañski;3;samica;2;o145
+827;wy¿e³ wêgierski szorstkow³osy;3;samiec;2;o033
+828;bulterier;1;samica;1;o070
+829;owczarek œrodkowoazjatycki;3;samiec;4;o082
+830;cocker spaniel amerykañski;1;samiec;4;o105
+831;foksterier krótkow³osy;5;samica;0;o091
+832;foksterier krótkow³osy;5;samiec;0;o078
+833;wy¿e³ wêgierski krótkow³osy;2;samiec;4;o057
+834;pudel miniaturowy;3;samiec;1;o177
+835;dalmatyñczyk;3;samiec;1;o185
+836;szpic niemiecki;5;samica;3;o012
+837;terier szkocki;5;samica;1;o043
+838;owczarek szkocki d³ugow³osy;2;samica;3;o066
+839;alaskan malamute;2;samiec;3;o119
+840;foksterier szorstkow³osy;3;samiec;4;o155
+841;rottweiler;3;samica;4;o037
+842;owczarek kaukaski;3;samica;2;o181
+843;wy¿e³ wêgierski krótkow³osy;2;samica;1;o086
+844;rottweiler;2;samica;1;o101
+845;pudel œredni;5;samiec;0;o104
+846;wy¿e³ w³oski krótkow³osy;1;samica;3;o019
+847;pekiñczyk;4;samiec;1;o092
+848;szpic niemiecki;3;samiec;3;o110
+849;foksterier szorstkow³osy;1;samica;0;o200
+850;wy¿e³ w³oski szorstkow³osy;5;samica;3;o035
+851;seter angielski;5;samica;4;o070
+852;owczarek szkocki d³ugow³osy;4;samiec;2;o004
+853;labrador retriever;5;samiec;1;o070
+854;labrador retriever;5;samica;4;o111
+855;terier szkocki;4;samiec;4;o183
+856;sznaucer olbrzym;4;samiec;1;o043
+857;jamnik d³ugow³osy;3;samica;0;o072
+858;bernardyn krótkow³osy;3;samiec;4;o076
+859;dalmatyñczyk;1;samica;1;o080
+860;szpic miniaturowy;3;samiec;0;o114
+861;owczarek œrodkowoazjatycki;2;samiec;3;o150
+862;szpic w³oski;2;samiec;3;o104
+863;bernardyn d³ugow³osy;1;samiec;4;o126
+864;szpic niemiecki;2;samiec;1;o185
+865;jamnik d³ugow³osy;4;samica;0;o157
+866;owczarek kaukaski;2;samiec;2;o023
+867;owczarek szkocki d³ugow³osy;4;samiec;4;o112
+868;pudel miniaturowy;2;samiec;1;o112
+869;polski owczarek nizinny;3;samica;4;o106
+870;terier szkocki;4;samica;2;o114
+871;pudel du¿y;4;samica;3;o148
+872;jamnik d³ugow³osy;1;samiec;1;o067
+873;wy¿e³ w³oski szorstkow³osy;2;samiec;3;o153
+874;dog argentyñski;1;samiec;0;o155
+875;owczarek holenderski;2;samiec;0;o112
+876;sznaucer miniaturowy;4;samica;2;o046
+877;wy¿e³ wêgierski krótkow³osy;5;samica;0;o097
+878;terier czeski;4;samica;0;o152
+879;terier szkocki;1;samica;2;o037
+880;chart szkocki;3;samiec;1;o113
+881;chart perski;1;samiec;4;o088
+882;labrador retriever;5;samica;4;o196
+883;chart afgañski;1;samiec;4;o059
+884;chart rosyjski;5;samiec;4;o187
+885;wy¿e³ wêgierski krótkow³osy;5;samica;0;o113
+886;jamnik d³ugow³osy;2;samica;4;o104
+887;bosker;2;samica;0;o115
+888;seter irlandzki;1;samiec;1;o090
+889;jamnik krótkow³osy;4;samiec;3;o007
+890;bosker;2;samiec;3;o164
+891;wy¿e³ w³oski szorstkow³osy;4;samiec;4;o109
+892;buldog francuski;3;samica;1;o053
+893;chart hiszpañski;2;samiec;0;o138
+894;chart perski;2;samiec;0;o200
+895;bernardyn krótkow³osy;3;samica;2;o097
+896;cocker spaniel amerykañski;5;samica;2;o003
+897;alaskan malamute;4;samica;0;o003
+898;wy¿e³ niemiecki d³ugow³osy;1;samiec;3;o145
+899;doberman;1;samiec;3;o069
+900;bosker;1;samiec;4;o103
+901;bulterier;3;samica;4;o121
+902;rottweiler;3;samiec;3;o094
+903;seter szkocki;4;samica;1;o104
+904;alaskan malamute;3;samiec;4;o189
+905;buldog francuski;3;samica;1;o045
+906;terier czeski;2;samica;1;o020
+907;dog argentyñski;2;samica;3;o153
+908;dog niemiecki;5;samiec;4;o114
+909;pudel œredni;3;samica;4;o118
+910;polski owczarek nizinny;4;samiec;3;o029
+911;jamnik krótkow³osy;3;samica;3;o106
+912;terier australijski;5;samiec;4;o162
+913;szpic niemiecki;2;samica;1;o031
+914;wy¿e³ w³oski krótkow³osy;4;samica;2;o160
+915;pudel miniaturowy;1;samica;2;o169
+916;owczarek kataloñski;4;samiec;1;o002
+917;seter irlandzki;1;samica;2;o157
+918;owczarek szkocki krótkow³osy;2;samica;1;o133
+919;owczarek podhalañski;3;samiec;3;o020
+920;terier szkocki;2;samica;2;o186
+921;chart rosyjski;5;samica;1;o064
+922;pudel du¿y;4;samiec;0;o078
+923;buldog angielski;5;samiec;3;o097
+924;bernardyn d³ugow³osy;1;samiec;3;o180
+925;owczarek holenderski;5;samica;0;o126
+926;wy¿e³ wêgierski szorstkow³osy;3;samica;1;o095
+927;terier szkocki;1;samiec;2;o049
+928;buldog angielski;2;samiec;3;o023
+929;seter angielski;5;samica;2;o057
+930;terier tybetañski;3;samica;2;o147
+931;komondor;5;samiec;4;o075
+932;wy¿e³ niemiecki krótkow³osy;1;samiec;0;o016
+933;bulterier;1;samica;0;o165
+934;dalmatyñczyk;1;samica;1;o048
+935;owczarek podhalañski;5;samiec;2;o108
+936;foksterier krótkow³osy;2;samiec;4;o040
+937;cocker spaniel angielski;3;samiec;1;o174
+938;seter szkocki;2;samica;0;o093
+939;pudel miniaturowy;2;samiec;2;o172
+940;chart perski;3;samiec;1;o167
+941;chart szkocki;1;samiec;3;o081
+942;wy¿e³ w³oski szorstkow³osy;2;samica;3;o199
+943;szpic niemiecki;5;samica;1;o157
+944;buldog angielski;5;samiec;3;o151
+945;dog niemiecki;3;samica;3;o055
+946;terier tybetañski;1;samiec;0;o158
+947;owczarek szkocki krótkow³osy;3;samiec;4;o008
+948;wy¿e³ wêgierski szorstkow³osy;4;samica;2;o110
+949;owczarek kraski;3;samiec;0;o159
+950;labrador retriever;3;samiec;4;o179
+951;owczarek szkocki d³ugow³osy;1;samiec;3;o047
+952;cocker spaniel amerykañski;4;samica;3;o149
+953;seter angielski;4;samiec;4;o133
+954;chart hiszpañski;5;samica;3;o130
+955;cocker spaniel amerykañski;2;samiec;4;o120
+956;labrador retriever;5;samica;1;o062
+957;komondor;1;samica;3;o057
+958;dog kanaryjski;2;samica;2;o098
+959;owczarek szetlandzki;4;samica;3;o193
+960;terier czeski;4;samica;4;o038
+961;mops;2;samica;4;o148
+962;terier czeski;1;samiec;3;o053
+963;chart afgañski;4;samica;1;o004
+964;buldog francuski;3;samica;3;o019
+965;jamnik krótkow³osy;2;samica;3;o141
+966;komondor;3;samiec;0;o113
+967;wy¿e³ wêgierski krótkow³osy;1;samiec;0;o142
+968;foksterier szorstkow³osy;2;samica;3;o135
+969;pudel œredni;2;samica;1;o137
+970;wy¿e³ wêgierski krótkow³osy;2;samiec;0;o064
+971;jamnik krótkow³osy;2;samica;2;o123
+972;sznaucer olbrzym;5;samiec;1;o053
+973;seter szkocki;1;samiec;2;o138
+974;dalmatyñczyk;4;samica;4;o019
+975;chart hiszpañski;1;samiec;2;o151
+976;owczarek szetlandzki;5;samica;2;o068
+977;chart szkocki;2;samiec;4;o195
+978;dog kanaryjski;1;samiec;0;o058
+979;owczarek kataloñski;3;samica;1;o179
+980;buldog francuski;5;samiec;0;o046
+981;seter irlandzki;4;samiec;1;o039
+982;terier australijski;1;samica;2;o169
+983;dalmatyñczyk;5;samiec;3;o026
+984;bulterier;5;samiec;0;o053
+985;wy¿e³ wêgierski szorstkow³osy;5;samica;2;o186
+986;pekiñczyk;1;samica;0;o051
+987;bosker;1;samiec;0;o043
+988;wy¿e³ wêgierski krótkow³osy;3;samica;1;o155
+989;labrador retriever;2;samiec;4;o092
+990;owczarek szkocki d³ugow³osy;1;samiec;3;o118
+991;rottweiler;2;samica;1;o038
+992;terier szkocki;2;samica;2;o053
+993;pudel œredni;5;samiec;2;o185
+994;bernardyn d³ugow³osy;4;samiec;0;o139
+995;mops;1;samiec;2;o023
+996;bulterier;4;samica;2;o116
+997;chart rosyjski;5;samica;4;o176
+998;doberman;4;samiec;1;o003
+999;bulterier;3;samica;1;o073
+1000;chart perski;4;samiec;0;o117

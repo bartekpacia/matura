@@ -1,0 +1,410 @@
+ozn	powiat	siedziba	rodzaj
+CAL	aleksandrowski	Aleksandrow Kujawski	z
+BAU	augustowski	Augustow	z
+NBA	bartoszycki	Bartoszyce	z
+SBE	bedzinski	Bedzin	z
+EBE	belchatowski	Belchatow	z
+LB	Biala Podlaska	Biala Podlaska	g
+WBR	bialobrzeski	Bialobrzegi	z
+ZBI	bialogardzki	Bialogard	z
+BIA	bialostocki	Bialystok	z
+LBI	bialski	Biala Podlaska	z
+BI	Bialystok	Bialystok	g
+BBI	bielski	Bielsk Podlaski	z
+SBI	bielski	Bielsko-Biala	z
+SB	Bielsko-Biala	Bielsko-Biala	g
+SBL	bierunsko-ledzinski	Bierun	z
+RBI	bieszczadzki	Ustrzyki Dolne	z
+LBL	bilgorajski	Bilgoraj	z
+KBC	bochenski	Bochnia	z
+DBL	boleslawiecki	Boleslawiec	z
+NBR	braniewski	Braniewo	z
+CBR	brodnicki	Brodnica	z
+OB	brzeski	Brzeg	z
+KBR	brzeski	Brzesko	z
+EBR	brzezinski	Brzeziny	z
+RBR	brzozowski	Brzozow	z
+TBU	buski	Busko Zdroj	z
+CBY	bydgoski	Bydgoszcz	z
+CB	Bydgoszcz	Bydgoszcz	g
+SY	Bytom	Bytom	g
+GBY	bytowski	Bytow	z
+LC	Chelm	Chelm	g
+CCH	chelminski	Chelmno	z
+LCH	chelmski	Chelm	z
+PCH	chodzieski	Chodziez	z
+GCH	chojnicki	Chojnice	z
+SH	Chorzow	Chorzow	g
+ZCH	choszczenski	Choszczno	z
+KCH	chrzanowski	Chrzanow	z
+WCI	ciechanowski	Ciechanow	z
+SCI	cieszynski	Cieszyn	z
+PCT	czarnkowsko-trzcianecki	Czarnkow	z
+SC	Czestochowa	Czestochowa	g
+SCZ	czestochowski	Czestochowa	z
+GCZ	czluchowski	Czluchow	z
+SD	Dabrowa Gornicza	Dabrowa Gornicza	g
+KDA	dabrowski	Dabrowa Tarnowska	z
+RDE	debicki	Debica	z
+ZDR	drawski	Drawsko Pomorskie	z
+NDZ	dzialdowski	Dzialdowo	z
+DDZ	dzierzoniowski	Dzierzoniow	z
+NE	Elblag	Elblag	g
+NEB	elblaski	Elblag	z
+NEL	elcki	Elk	z
+WG	garwolinski	Garwolin	z
+GD	Gdansk	Gdansk	g
+GDA	gdanski	Pruszcz Gdanski	z
+GA	Gdynia	Gdynia	g
+NGI	gizycki	Gizycko	z
+SG	Gliwice	Gliwice	g
+SGL	gliwicki	Gliwice	z
+DGL	glogowski	Glogow	z
+OGL	glubczycki	Glubczyce	z
+PGN	gnieznienski	Gniezno	z
+NGO	goldapski	Goldap	z
+ZGL	goleniowski	Goleniow	z
+CGD	golubsko-dobrzynski	Golub-Dobrzyn	z
+KGR	gorlicki	Gorlice	z
+DGR	gorowski	Gora	z
+FG	Gorzow	Gorzow	g
+FGW	gorzowski	Gorzow Wielkopolski	z
+WGS	gostyninski	Gostynin	z
+PGS	gostynski	Gostyn	z
+BGR	grajewski	Grajewo	z
+WGM	grodziski	Grodzisk Mazowiecki	z
+PGO	grodziski	Grodzisk Wielkopolski	z
+WGR	grojecki	Grojec	z
+CG	Grudziadz	Grudziadz	g
+CGR	grudziadzki	Grudziadz	z
+ZGY	gryficki	Gryfice	z
+ZGR	gryfinski	Gryfino	z
+BHA	hajnowski	Hajnowka	z
+LHR	hrubieszowski	Hrubieszow	z
+NIL	ilawski	Ilawa	z
+CIN	inowroclawski	Inowroclaw	z
+LJA	janowski	Janow Lubelski	z
+PJA	jarocinski	Jarocin	z
+RJA	jaroslawski	Jaroslaw	z
+RJS	jasielski	Jaslo	z
+SJZ	Jastrzebie-Zdroj	Jastrzebie-Zdroj	g
+DJA	jaworski	Jawor	z
+SJ	Jaworzno	Jaworzno	g
+TJE	jedrzejowski	Jedrzejow	z
+DJ	Jelenia Gora	Jelenia Gora	g
+DJE	jeleniogorski	Jelenia Gora	z
+PKA	kaliski	Kalisz	z
+PK	Kalisz	Kalisz	g
+DKA	kamiennogorski	Kamienna Gora	z
+ZKA	kamienski	Kamien Pomorski	z
+GKA	kartuski	Kartuzy	z
+SK	Katowice	Katowice	g
+TKA	kazimierski	Kazimierza Wielka	z
+OK	kedzierzynsko-kozielski	Kedzierzyn-Kozle	z
+PKE	kepinski	Kepno	z
+NKE	ketrzynski	Ketrzyn	z
+TK	Kielce	Kielce	g
+TKI	kielecki	Kielce	z
+SKL	klobucki	Klobuck	z
+DKL	klodzki	Klodzko	z
+OKL	kluczborski	Kluczbork	z
+RKL	kolbuszowski	Kolbuszowa	z
+BKL	kolnenski	Kolno	z
+ZKL	kolobrzeski	Kolobrzeg	z
+PKL	kolski	Kolo	z
+TKN	konecki	Konskie	z
+PKO	Konin	Konin	g
+PN	Konin	Konin	g
+PKN	koninski	Konin	z
+PKS	koscianski	Koscian	z
+GKS	koscierski	Koscierzyna	z
+ZK	Koszalin	Koszalin	g
+ZKO	koszalinski	Koszalin	z
+WKZ	kozienicki	Kozienice	z
+KR	Krakow	Krakow	g
+KRA	krakowski	Krakow	z
+OKR	krapkowicki	Krapkowice	z
+LKR	krasnicki	Krasnik	z
+LKS	krasnostawski	Krasnystaw	z
+RKR	krosnienski	Krosno	z
+FKR	krosnienski	Krosno Odrzanskie	z
+RK	Krosno	Krosno	g
+PKR	krotoszynski	Krotoszyn	z
+EKU	kutnowski	Kutno	z
+GKW	kwidzynski	Kwidzyn	z
+RLA	lancucki	Lancut	z
+ELA	laski	Lask	z
+GLE	leborski	Lebork	z
+ELE	leczycki	Leczyca	z
+LLE	leczynski	Leczna	z
+WL	legionowski	Legionowo	z
+DL	Legnica	Legnica	g
+DLE	legnicki	Legnica	z
+RLS	leski	Lesko	z
+PLE	leszczynski	Leszno	z
+PL	Leszno	Leszno	g
+RLE	lezajski	Lezajsk	z
+NLI	lidzbarski	Lidzbark Warminski	z
+KLI	limanowski	Limanowa	z
+CLI	lipnowski	Lipno	z
+WLI	lipski	Lipsko	z
+ZLO	lobeski	Lobez	z
+EL	Lodz	Lodz	g
+ELW	lodzki wschodni	Lodz	z
+BL	Lomza	Lomza	g
+BLM	lomzynski	Lomza	z
+WLS	losicki	Losice	z
+ELC	lowicki	Lowicz	z
+RLU	lubaczowski	Lubaczow	z
+DLB	lubanski	Luban	z
+LLB	lubartowski	Lubartow	z
+LUB	lubelski	Lublin	z
+DLU	lubinski	Lubin	z
+LU	Lublin	Lublin	g
+SLU	lubliniecki	Lubliniec	z
+LLU	lukowski	Lukow	z
+DLW	lwowecki	Lwowek slaski	z
+WMA	makowski	Makow Mazowiecki	z
+GMB	malborski	Malbork	z
+KMI	miechowski	Miechow	z
+PMI	miedzychodzki	Miedzychod	z
+FMI	miedzyrzecki	Miedzyrzecz	z
+RMI	mielecki	Mielec	z
+SMI	mikolowski	Mikolow	z
+DMI	milicki	Milicz	z
+WM	minski	Minsk Mazowiecki	z
+WML	mlawski	Mlawa	z
+CMG	mogilenski	Mogilno	z
+BMN	moniecki	Monki	z
+NMR	mragowski	Mragowo	z
+KMY	myslenicki	Myslenice	z
+ZMY	mysliborski	Mysliborz	z
+SM	Myslowice	Myslowice	g
+SMY	myszkowski	Myszkow	z
+CNA	nakielski	Naklo n. Notecia	z
+ONA	namyslowski	Namyslow	z
+NNI	nidzicki	Nidzica	z
+RNI	nizanski	Nisko	z
+GND	nowodworski	Nowy Dwor Gdanski	z
+WND	nowodworski	Nowy Dwor Mazowiecki	z
+NNM	nowomiejski	Nowe Miasto Lubawskie	z
+KNS	nowosadecki	Nowy Sacz	z
+FNW	nowosolski	Nowa Sol	z
+KNT	nowotarski	Nowy Targ	z
+PNT	nowotomyski	Nowy Tomysl	z
+KN	Nowy Sacz	Nowy Sacz	g
+ONY	nyski	Nysa	z
+POB	obornicki	Oborniki	z
+DOA	olawski	Olawa	z
+NOE	olecki	Olecko	z
+NOG	olecko-goldapski	Olecko	z
+OOL	oleski	Olesno	z
+DOL	olesnicki	Olesnica	z
+KOL	olkuski	Olkusz	z
+NO	Olsztyn	Olsztyn	g
+NOL	olsztynski	Olsztyn	z
+TOP	opatowski	Opatow	z
+EOP	opoczynski	Opoczno	z
+OP	Opole	Opole	g
+OPO	opolski	Opole	z
+LOP	opolski	Opole Lubelskie	z
+NOS	ostrodzki	Ostroda	z
+WOS	ostrolecki	Ostroleka	z
+WO	Ostroleka	Ostroleka	g
+TOS	ostrowiecki	Ostrow swietokrzyski	z
+WOR	ostrowski	Ostrow Mazowiecka	z
+POS	ostrowski	Ostrow Wielkopolski	z
+POT	ostrzeszowski	Ostrzeszow	z
+KOS	oswiecimski	Oswiecim	z
+WOT	otwocki	Otwock	z
+EPA	pabianicki	Pabianice	z
+EPJ	pajeczanski	Pajeczno	z
+LPA	parczewski	Parczew	z
+WPI	piaseczynski	Piaseczno	z
+SPI	Piekary Slaskie	Piekary Slaskie	g
+PP	pilski	Pila	z
+TPI	pinczowski	Pinczow	z
+EP	Piotrkow Trybunalski	Piotrkow Trybunalski	g
+EPI	piotrkowski	Piotrkow Trybunalski	z
+NPI	piski	Pisz	z
+PPL	pleszewski	Pleszew	z
+WP	Plock	Plock	g
+WPL	plocki	Plock	z
+WPN	plonski	Plonsk	z
+EPD	poddebicki	Poddebice	z
+ZPL	policki	Police	z
+DPL	polkowicki	Polkowice	z
+PO	Poznan	Poznan	g
+PZ	poznanski	Poznan	z
+KPR	proszowicki	Proszowice	z
+OPR	prudnicki	Prudnik	z
+WPR	pruszkowski	Pruszkow	z
+WPZ	przasnyski	Przasnysz	z
+RPR	przemyski	Przemysl	z
+RP	Przemysl	Przemysl	g
+RPZ	przeworski	Przeworsk	z
+WPY	przysuski	Przysucha	z
+SPS	pszczynski	Pszczyna	z
+GPU	pucki	Puck	z
+LPU	pulawski	Pulawy	z
+WPU	pultuski	Pultusk	z
+ZPY	pyrzycki	Pyrzyce	z
+SRC	raciborski	Raciborz	z
+WR	Radom	Radom	g
+WRA	radomski	Radom	z
+ERA	radomszczanski	Radomsko	z
+CRA	radziejowski	Radziejow	z
+LRA	radzynski	Radzyn Podlaski	z
+PRA	rawicki	Rawicz	z
+ERW	rawski	Rawa Mazowiecka	z
+RRS	ropczycko-sedziszowski	Ropczyce	z
+SL	Ruda Slaska	Ruda Slaska	g
+SRS	Ruda Slaska	Ruda Slaska	g
+SRB	rybnicki	Rybnik	z
+SR	Rybnik	Rybnik	g
+LRY	rycki	Ryki	z
+CRY	rypinski	Rypin	z
+RZ	Rzeszow	Rzeszow	g
+RZE	rzeszowski	Rzeszow	z
+TSA	sandomierski	Sandomierz	z
+RSA	sanocki	Sanok	z
+BSE	sejnenski	Sejny	z
+CSE	sepolenski	Sepolno Krajenskie	z
+WS	Siedlce	Siedlce	g
+WSI	siedlecki	Siedlce	z
+SI	Siemianowice slaskie	Siemianowice slaskie	g
+BSI	siemiatycki	Siemiatycze	z
+ESI	sieradzki	Sieradz	z
+WSE	sierpecki	Sierpc	z
+TSK	skarzyski	Skarzysko-Kamienna	z
+ES	Skierniewice	Skierniewice	g
+ESK	skierniewicki	Skierniewice	z
+ZSL	slawienski	Slawno	z
+FSL	slubicki	Slubice	z
+PSL	slupecki	Slupca	z
+GS	Slupsk	Slupsk	g
+GSL	slupski	Slupsk	z
+WSC	sochaczewski	Sochaczew	z
+WSK	sokolowski	Sokolow Podlaski	z
+BSK	sokolski	Sokolka	z
+GSP	Sopot	Sopot	g
+SO	Sosnowiec	Sosnowiec	g
+DSR	sredzki	Sroda Slaska	z
+PSR	sredzki	Sroda Wielkopolska	z
+PSE	sremski	srem	z
+RST	stalowowolski	Stalowa Wola	z
+TST	starachowicki	Starachowice	z
+ZST	stargardzki	Stargard Szczecinski	z
+GST	starogardzki	Starogard Gdanski	z
+TSZ	staszowski	Staszow	z
+OST	strzelecki	Strzelce Opolskie	z
+FSD	strzelecko-drezdenecki	Strzelce Krajenskie	z
+DST	strzelinski	Strzelin	z
+RSR	strzyzowski	Strzyzow	z
+FSU	sulecinski	Sulecin	z
+KSU	suski	Sucha Beskidzka	z
+BS	Suwalki	Suwalki	g
+BSU	suwalski	Suwalki	z
+DSW	swidnicki	Swidnica	z
+LSW	swidnicki	Swidnik	z
+ZSD	swidwinski	Swidwin	z
+FSW	swiebodzinski	Swiebodzin	z
+CSW	swiecki	Swiecie	z
+SW	swietochlowice	Swietochlowice	g
+ZSW	Swinoujscie	Swinoujscie	g
+PSZ	szamotulski	Szamotuly	z
+ZS	Szczecin	Szczecin	g
+ZSZ	szczecinecki	Szczecinek	z
+NSZ	szczycienski	Szczytno	z
+GSZ	sztumski	Sztum	z
+WSZ	szydlowiecki	Szydlowiec	z
+RT	Tarnobrzeg	Tarnobrzeg	g
+RTA	tarnobrzeski	Tarnobrzeg	z
+STA	tarnogorski	Tarnowskie Gory	z
+KT	Tarnow	Tarnow	g
+KTA	tarnowski	Tarnow	z
+KTT	tatrzanski	Zakopane	z
+GTC	tczewski	Tczew	z
+LTM	tomaszowski	Tomaszow Lubelski	z
+ETM	tomaszowski	Tomaszow Mazowiecki	z
+CT	Torun	Torun	g
+CTR	torunski	Torun	z
+DTR	trzebnicki	Trzebnica	z
+CTU	tucholski	Tuchola	z
+PTU	turecki	Turek	z
+ST	Tychy	Tychy	g
+STY	tyski	Tychy	z
+CWA	wabrzeski	Wabrzezno	z
+KWA	wadowicki	Wadowice	z
+PWA	wagrowiecki	Wagrowiec	z
+DB	Walbrzych	Walbrzych	g
+DBA	walbrzyski	Walbrzych	z
+ZWA	walecki	Walcz	z
+WB	Warszawa	Bemowo	s
+WA	Warszawa	Bialoleka	s
+WD	Warszawa	Bielany	s
+WE	Warszawa	Mokotow	s
+WU	Warszawa	Ochota	s
+WH	Warszawa	Praga Polnoc	s
+WF	Warszawa	Praga Poludnie	s
+WI	Warszawa	Srodmiescie	s
+WJ	Warszawa	Targowek	s
+WK	Warszawa	Ursus	s
+WN	Warszawa	Ursynow	s
+WT	Warszawa	Wawer	s
+WX...y	Warszawa	Wesola	s
+WW...G	Warszawa	Wilanow	s
+WW...H	Warszawa	Wilanow	s
+WW...J	Warszawa	Wilanow	s
+WW...W	Warszawa	Wilanow	s
+WW...L	Warszawa	Wlochy	s
+WW...M	Warszawa	Wlochy	s
+WW...N	Warszawa	Wlochy	s
+WW...R	Warszawa	Wlochy	s
+WW...S	Warszawa	Wlochy	s
+WW...U	Warszawa	Wlochy	s
+WW...V	Warszawa	Wlochy	s
+WY	Warszawa	Wola	s
+WX	Warszawa	Zoliborz	s
+WZ	warszawski zachodni	Ozarow Mazowiecki	z
+NWE	wegorzewski	Wegorzewo	z
+WWE	wegrowski	Wegrow	z
+GWE	wejherowski	Wejherowo	z
+KWI	wielicki	Wieliczka	z
+EWI	wielunski	Wielun	z
+EWE	wieruszowski	Wieruszow	z
+CW	Wloclawek	Wloclawek	g
+CWL	wloclawski	Wloclawek	z
+LWL	wlodawski	Wlodawa	z
+TLW	wloszczowski	Wloszczowa	z
+SWD	wodzislawski	Wodzislaw slaski	z
+WWL	wolominski	Wolomin	z
+DWL	wolowski	Wolow	z
+PWL	wolsztynski	Wolsztyn	z
+DW	Wroclaw	Wroclaw	g
+DWR	wroclawski	Wroclaw	z
+PWR	wrzesinski	Wrzesnia	z
+FWS	wschowski	Wschowa	z
+BWM	wysokomazowiecki	Wysokie Mazowieckie	z
+WWY	wyszkowski	Wyszkow	z
+DZA	zabkowicki	Zabkowice Slaskie	z
+SZ	Zabrze	Zabrze	g
+FZG	zaganski	Zagan	z
+BZA	zambrowski	Zambrow	z
+LZA	zamojski	Zamosc	z
+LZ	Zamosc	Zamosc	g
+FZA	zarski	Zary	z
+SZA	zawiercianski	Zawiercie	z
+EZD	zdunskowolski	Zdunska Wola	z
+EZG	zgierski	Zgierz	z
+DZG	zgorzelecki	Zgorzelec	z
+FZ	Zielona Gora	Zielona Gora	g
+FZI	zielonogorski	Zielona Gora	z
+DZL	zlotoryjski	Zlotoryja	z
+PZL	zlotowski	Zlotow	z
+CZN	zninski	Znin	z
+SZO	Zory	Zory	g
+WZU	zurominski	Zuromin	z
+WZW	zwolenski	Zwolen	z
+WZY	zyrardowski	Zyrardow	z
+SZY	zywiecki	Zywiec	z
