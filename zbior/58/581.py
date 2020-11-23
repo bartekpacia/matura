@@ -11,7 +11,7 @@ def parse(lines, base: int):
   for line in lines:
     podzielona_linia = line.split()
 
-    data = int(podzielona_linia[0], base)
+    _ = int(podzielona_linia[0], base)
     temp = int(podzielona_linia[1], base)
 
     if temp < min_temp:
