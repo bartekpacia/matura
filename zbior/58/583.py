@@ -25,11 +25,10 @@ def znajdz_dni_rekordowe(dane: List[int]) -> List[bool]:
   max_temp = dane[0]
   result[0] = True # zgodnie z treścią zadania, pierwsza wartość też jest rekordem
   for i in range(len(dane)):
-    for j in range(i):
-      temp2 = dane[j]
+      temp = dane[i]
 
-      if temp2 > max_temp:
-        max_temp = temp2
+      if temp > max_temp:
+        max_temp = temp
         result[i] = True
 
   
