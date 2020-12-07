@@ -1,0 +1,85 @@
+ID_uzytkownika	Imie	Nazwisko	Kraj	Plec
+1	Joshua	King	Stany Zjednoczone	M
+2	Leonardo	De Luca	Wlochy	M
+3	Aleksandra	Krawczyk	Polska	K
+4	Luka	Schulte	Niemcy	M
+5	Jayden	Harper	Kanada	M
+6	Serhij	Kovalenko	Ukraina	M
+7	Theo	Peeters	Belgia	M
+8	Samuel	Ramirez	Stany Zjednoczone	M
+9	Sebastian	Quispe	Peru	M
+10	Logan	MacDonald	Wielka Brytania	M
+11	Emma	Halvorsen	Norwegia	K
+12	Margaret	Scott	Kanada	K
+13	Lautero	Quiroga	Argentyna	M
+14	Bernardo	Ribeiro	Brazylia	M
+15	Fabian	Aigner	Austria	M
+16	Lovro	Gradic	Chorwacja	M
+17	Seamus	Breathnach	Irlandia	M
+18	Marie	Dubois	Francja	K
+19	Antonio	Reyes	Hiszpania	M
+20	Nela	Dvorakova	Czechy	K
+21	Anna	White	Wielka Brytania	K
+22	Frank	Dijkstra	Holandia	M
+23	Donna	Baker	Kanada	K
+24	Andreas	Jakobsson	Szwecja	M
+25	Said	Koudri	Algieria	M
+26	Joshua	Nelson	Stany Zjednoczone	M
+27	Miguel	Rocha	Brazylia	M
+28	Marlene	Smith	Stany Zjednoczone	K
+29	Sophia	Azevedo	Brazylia	K
+30	Cristian	Munteanu	Rumunia	M
+31	Fiodor	Golukin	Rosja	M
+32	Valentina	Rossi	Argentyna	K
+33	Alva	Wilhelmsson	Szwecja	K
+34	Hugo	Lambert	Belgia	M
+35	Hikari	Takeuchi	Japonia	M
+36	Milan	Petrovic	Serbia	M
+37	Maciej	Malinowski	Polska	M
+38	Sara	Hendriks	Holandia	K
+39	Ben	Ziegler	Niemcy	K
+40	Paula	Navarro	Hiszpania	K
+41	Elizabeth	Adams	Stany Zjednoczone	K
+42	Sandor	Takacs	Wegry	M
+43	Mehmet	Demir	Turcja	M
+44	Laura	Ravelli	Wlochy	K
+45	Siiri	Salo	Finlandia	K
+46	Laura	Mello	Brazylia	K
+47	Mia	Hoffmann	Niemcy	K
+48	Markel	Goikoetxe	Hiszpania	M
+49	Ximena	dos Santos	Meksyk	K
+50	Martina	Acosta	Argentyna	K
+51	Ioannis	Petridis	Grecja	M
+52	Anton	Ivanov	Rosja	M
+53	Janusz	Lewandowski	Polska	M
+54	Sabina	Kaczmarek	Polska	K
+55	Noah	Mitchell	Stany Zjednoczone	M
+56	Bram	De Vries	Holandia	M
+57	Hakan	Yilmaz	Turcja	M
+58	Maria	Delgado	Hiszpania	K
+59	Rebecca	Allen	Stany Zjednoczone	K
+60	Ida	Lehtinen	Finlandia	K
+61	Nathan	Mercier	Francja	M
+62	Filip	Kralj	Slowenia	M
+63	Keiji	Fukuda	Japonia	M
+64	Matthias	Becker	Niemcy	M
+65	Nik	Vidmar	Slowenia	M
+66	Miguel	Barbosa	Portugalia	M
+67	Artjoms	Klavins	Lotwa	M
+68	Alfie	Griffiths	Wielka Brytania	M
+69	Grace	Doherty	Irlandia	K
+70	Jade	Fournier	Francja	K
+71	Davit	Khachatryan	Armenia	M
+72	Marie	Bonnet	Francja	K
+73	Avi	Cohen	Izrael	M
+74	Luka	Wagner	Niemcy	M
+75	Elise	Wouters	Belgia	K
+76	Allan	Smith	Wielka Brytania	M
+77	Jiri	Novotny	Czechy	M
+78	Zoe	Gauthier	Kanada	K
+79	Oscar	Roberts	Wielka Brytania	M
+80	Aiden	Young	Stany Zjednoczone	M
+81	Frederik	Madsen	Dania	M
+82	Melissa	Walker	Wielka Brytania	K
+83	Irina	Ulianova	Rosja	K
+84	Kenzaburo	Ishikawa	Japonia	M

@@ -1,0 +1,152 @@
+ID_sprzetu	Nazwa_sprzetu	Koszt_wynajecia	Kaucja
+1	Agregat hydrauliczny ATLAS 	100	1200
+2	Agregat jednofazowy-moc: 2,8-3,2 kW	65	1000
+3	Agregat jednofazowy moc: 1,6-2,4 kW 230V	50	1000
+4	Agregat pradotworczy - moc: 160 kW (200 kVA) 230V i 400V	800	2000
+5	Agregat pradotworczy - moc: 240 kW (300 kVA) 230V i 400V	1150	2500
+6	Agregat pradotworczy FOGO 7000	70	1200
+7	Agregat pradotworczy trojfazowy ze stabilizacja HONDA ECT 7000	130	1200
+8	Agregat spawalniczy EISEMANN 6.500 VA, moc jednofazowa 3,5 kW, napiecie znamionowe: 400/230 V 50 Hz	120	600
+9	Agregat trojfazowy - moc: 120 kW (150 kVA) ATLAS 400 V	790	3000
+10	Agregat trojfazowy - moc: 200 kW (250 kWA) 230V i 400V	1050	5000
+11	Agregat trojfazowy - moc: 30 kW (35 kVA) ATLAS 230/400 V	310	1550
+12	Agregat trojfazowy - moc: 36-38,4 kW ATLAS 230/400 V jednoosiowy	360	1800
+13	Agregat trojfazowy - moc: 400 kW (500 kVA) 230V i 400V	2160	10000
+14	Agregat trojfazowy - moc: 80 kW (100 kVA) ATLAS 400 V	500	2500
+15	Agregat trojfazowy spalinowy moc: 12 kW (15 kVA) 230/400V	130	650
+16	Agregat trojfazowy spalinowy moc: 5,2-5,6 kVA (6,5-7 kAV) 230/400 V	90	450
+17	Agregat trojfazowy spalinowy moc: 8 kW (10 kVA) 230/400 V	110	550
+18	Agregat trojfazowy turbo diesel moc: 16 kW (20 kVA) HIMOINSA: HYW 20 230/400 V	220	1100
+19	Betoniarka  250 l, zasilanie 230 V, moc 0,35 kW	50	400
+20	Betoniarka 100 Pojemnosc 100 l, zasilanie 230 V, moc 0,35 kW	26	300
+21	Betoniarka 120 l, zasilanie 230 V, moc 0,35 kW	20	300
+22	Betoniarka 150  Pojemnosc: 150 l, zasilanie 230 V, moc: 0,75 kW	32	300
+23	Betoniarka 160 l, zasilanie 230 V, moc 0,75 kW	50	400
+24	Betoniarka 250 Pojemnosc: 250 l, zasilanie: 400 V, moc: 1,5 kW	41	500
+25	Betoniarka 50 Pojemnosc 50 l, zasilanie 230 V, moc:0,37 kW	21	500
+26	Bruzdownica HILTI-DC-EX125	20	200
+27	Bruzdownica HILTI-DC-EX230	40	400
+28	Bruzdownica zasilanie elektryczne: 230V, glebokosc ciecia: do 65 mm	45	300
+29	Cykliniarka tasmowa Zasilanie elektryczne: 230/400 V, moc: 4 kW, predkosc: 2400/min	100	500
+30	Drabina aluminiowa 1-czesciowa	35	150
+31	Drabina aluminiowa 2-czesciowa	40	200
+32	Drabina aluminiowa 3 -czesciowa	50	300
+33	Frezarka do betonu SCHWAMBORN wydajnosc frezowania: 28-45 m2/h	113	1000
+34	Frezarka do betonu SCHWAMBORN wydajnosc frezowania: 35-55 m2/h 400 V	142	1000
+35	Frezarka do betonu VON ARX frezowania: 45-65 m2/h, silnik: Diesel	294	2000
+36	Gietarka	40	300
+37	Gilotyna do kostki brukowej	40	500
+38	Glebogryzarka spalinowa HECHT 6,5KM	100	1500
+39	Glebogryzarka VIKING BH 585	100	1200
+40	Gwintownica elektryczna 230 V do 4"	30	300
+41	Kompresor  100litrowy ADLER	60	500
+42	Kompresor HC24 SCHEPPACH	50	400
+43	Kosa spalinowa Husqvarna 225R	80	600
+44	Kosa spalinowa STIHL FS 90	75	400
+45	Kosiarka elektryczna STIGA	60	400
+46	Kosiarka spalinowa VIKING MS 585	70	400
+47	Kosz do 1m3	30	400
+48	Kosz do 2m3	40	400
+49	Kosz do 3m3	50	400
+50	Mlot udarowo-obrotowy BOSCH GBH5-38D	90	400
+51	Mlot udarowo-obrotowy HILTI Moc: 900 W, zasilanie elektryczne: 230 V, liczba udarow: 3.720/min	54	600
+52	Mlot udarowo-obrotowy HILTI TE2M	30	500
+53	Mlot udarowo-obrotowy HITACHI Moc: 950 W, zasilanie elektryczne: 230 V, ilosc udarow: 2.650/min	63	600
+54	Mlot udarowo-obrotowy MAKITA HR 5001C	90	1000
+55	Mlot udarowy HILTI-TE706AVR	90	1000
+56	Mlot wyburzeniowy BOSCH GSH 16-28	130	1000
+57	Mlot wyburzeniowy HILTI Moc: 1,2 kW, zasilanie elektryczne: 230 V, liczba udarow: 2290-2760/min	63	600
+58	Mlot wyburzeniowy HILTI Moc: 1,6 kW, zasilanie elektryczne: 230 V, ilosc udarow: 2.200/min	94	1000
+59	Mlot wyburzeniowy HILTI-TE 1000 AVR	120	2000
+60	Mlot wyburzeniowy HITACHI Moc: 2,2 kW, zasilanie elektryczne: 230 V, ilosc udarow: 850/min	108	1000
+61	Mlotowiertarka HILTI zasilanie elektryczne: 230 V, liczba obrotow pod obciazeniem: 940/min	40	450
+62	Mlotowiertarka HILTI zasilanie elektryczne: 230 V, liczba udarow pod obciazeniem: 880/min	40	450
+63	Mlotowiertarka METABO Moc: do 800 W, zasilanie elektryczne: 230 V, liczba obrotow pod obciazeniem: do 830 obr./min, masa	40	450
+64	Myjka cisnieniowa KARCHER K 7400	100	400
+65	Myjka wysokocisnieniowa z podgrzewaniem wody KARCHER HDS 5/15	120	1000
+66	Nagrzewnica elektryczna Master B 3,3 EPB	25	320
+67	Nagrzewnica olejowa z termostatem 20KW	40	800
+68	Nagrzewnica propan-butan BLP 53 M Master	50	1000
+69	Nozyce do blachy prostej i falistej GE-59G402	30	350
+70	Nozyce do zywoplotu	20	120
+71	Nozyce spalinowe do zywoplotu STIHL HS 45	90	500
+72	Odkurzacz przemyslowy 30 litrow praca na sucho/na mokro	30	800
+73	Opalarka elektryczna MAKITA	20	200
+74	Opryskiwacz spalinowy STIHL SR450	85	400
+75	Osuszacz budowlany MASTER Desa DH721 (20l/doba)	95	400
+76	Osuszacz powietrza 30 L EQUATION	45	700
+77	Palnik gazowy	40	350
+78	Pila spalinowa STIHL MS 230	90	400
+79	Pilarka budowlana ELECTRA BECKUM Moc: 5,5 kW, zasilanie elektryczne 400 V, maks. glebokosc ciecia: 140 mm srednica tarczy: 450 mm	50	600
+80	Pilarka reczna BOSCH	50	200
+81	Pilarka reczna HILTI Moc: 1,1 kW, zasilanie elektryczne: 230 V, glebokosc ciecia: 10-55 mm  srednica tarczy: 160 mm	25	300
+82	Pilarka reczna HITACHI Moc: 1,1 kW, zasilanie elektryczne: 230 V, glebokosc ciecia: 10-55 mm srednica tarczy 235 mm	40	500
+83	Pilarka tarczowa MAKITA	450	500
+84	Pila do betonu komorkowego ELU	20	400
+85	Pila lañcuchowa MAKITA DCS401	50	500
+86	Pila lañcuchowa UC-4001A	30	450
+87	Pily reczne	15	150
+88	Pistolet-osadzak Molly Koelner AT-88M DIY	10	40
+89	Pojemnik do transportowania betonu o prostym zasypie 300kg	53	400
+90	Pompa elektryczna do wody brudnej	50	200
+91	Prostownica do drutu odgromowego	50	500
+92	Przecinarka do plytek elektryczna	30	400
+93	Przecinarka stolikowa Norton clipper CM 41 Compact	32	600
+94	Przecinarki do glazury, ceramiki	40	600
+95	Przyczepka samochodowa 750 kg.	30	800
+96	Rozdrabniacz do galezi	50	600
+97	Rusztowanie elewacyjne PLATEC SL 70	60	1200
+98	Rusztowanie warszawskie 10 szt.	20	200
+99	Rusztowanie aluminiowe wys. 5m	60	1200
+100	Rusztowanie elewacyjne wys. 8m	80	1200
+101	Spawarka KEMPI Minarc 150	70	400
+102	Spawarka KEMPPI: MASRET 1400, 1600 - prad spawania 140 A 230 V	55	600
+103	Spawarka KEMPPI: MASTER 2200- prad spawania: 220 A 400 V	66	700
+104	Spawarka KEMPPI: MASTER 2500, 2800 - prad spawania 250-280 A 400 V	99	1000
+105	Spawarka NORDICA	20	600
+106	Sprezarka tlokowa METABO	200	2500
+107	Stopa wibracyjna BELLE 69kg.	120	1200
+108	Szlifierka do gladzi gipsowych Zasilanie: 230 V, pobor mocy: 550 W, obroty: 650 – 1600 obr / min	63	600
+109	Szlifierka katowa  BOSCH 130	45	200
+110	Szlifierka katowa BOSCH GWS26-230JBV	50	300
+111	Szlifierka katowa HILTI Moc: 1,4 kW, zasilanie elektryczne: 230 V, maks. srednica tarczy: 125 mm	25	300
+112	Szlifierka katowa HILTI Moc: 2,2 kW, zasilanie elektryczne: 230V, srednica tarczy: 230 mm, maks. glebokosci ciecia: 60 mm	30	400
+113	Szlifierka katowa HILTI-DCG125	20	300
+114	Szlifierka katowa HILTI-DCG230	30	400
+115	Szlifierka obrotowa podloza Zasilanie elektryczne: 230 V, moc: 2 kM, liczba obrotow: 140/min	55	600
+116	swider glebowy spalinowy STIHL BT 121 -srednica wiertel do 200 mm	130	800
+117	Ubijak do ziemi ROBIN	50	450
+118	Walec ogrodowy	35	200
+119	Wciagarka budowlana 500 KG	40	1200
+120	Wertykulator spalinowy VIKING  LB 540	100	500
+121	Wibrator do betonu 1,5KW/6M/45	80	800
+122	Wiertarka udarowa BOSCH GBH 2-26DFR	50	300
+123	Wiertarka akumulatorowa Black&Decker EPC14CA	20	170
+124	Wiertarka katowa 90st. SP-1510AH-KL	60	900
+125	Wiertarka magnetyczna ME5000 EVOLUTION	150	3500
+126	Wiertarka udarowa BOSCH PSB 650 RE	30	300
+127	Wiertarko-wkretarka akum. BOSCH GSR 14,4	35	200
+128	Wiertla do betonu Hellager	40	150
+129	Wiertnica HILTI: DD 200 Moc: 2,6 kW, zasilanie elektryczne: 230 V, zakres srednic wiercenia: 25-400 mm	130	1200
+130	Wkretarka akumulatorowa HILTI	30	270
+131	Wkretarka elektryczna MAKITA	20	180
+132	Wkretarka HITACHI: W6VA3 Moc: 600W, Zasilanie elektryczne: 230 V, srednica wkretow do drewna i srub gwintowanych: 6 mm	15	150
+133	Wozek paleciak	20	180
+134	Wyciag dekarski GEDA LIFT 200	150	1350
+135	Wykaszarka spalinowa STIHL	60	300
+136	Wyrzynarka BOSCH Zasilanie elektryczne: 230 V, glebokosc wyrzynania: drewno 65 mm, stal 10 mm, min. promieñ wyrzynania: 25 mm	22	400
+137	Wyrzynarka HILTI moc 750 W Zasilanie elektryczne: 230 V, glebokosc wyrzynania: drewno 120 mm, aluminium 25 mm	30	400
+138	Wyrzynarka MAKITA	20	200
+139	Zageszczarka AMMAN 18-50	100	900
+140	Zageszczarka AMMAN 30-20	160	1440
+141	Zageszczarka BOMAG 30-38	120	1080
+142	Zageszczarka HONDA 90	100	500
+143	Zageszczarka KAMA 175 kg.	120	1200
+144	Zageszczarka KAMA 275 kg.	140	1300
+145	Zakretarka akumulatorowa HILTI Moc: 600 W, zasilanie elektryczne: 230 V, srednica wiercenia w drewnie do 20 mm, w stali do 13 mm	25	250
+146	Zamrazarka do rur Rothenberger ROFROST TURBO II	400	6000
+147	Zgrzewarka do rur od fi 16 do fi 63	30	270
+148	Zgrzewarka do rur PP	25	250
+149	Zgrzewarka mufowa Zasilanie elektryczne: 230 V, moc: 800 W, rury z tworzyw sztucznych i ksztaltki: 16-63 mm	45	500
+150	Zsyp do gruzu	20	600
+151	Zszywacz elektryczny Nexxt Series 5532	15	150

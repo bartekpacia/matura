@@ -1,0 +1,17 @@
+id_wojewodztwa	nazwa_wojewodztwa
+02	dolnoslaskie
+04	kujawsko-pomorskie
+06	lubelskie
+08	lubuskie
+10	lodzkie
+12	malopolskie
+14	mazowieckie
+16	opolskie
+18	podkarpackie
+20	podlaskie
+22	pomorskie
+24	slaskie
+26	swietokrzyskie
+28	warminsko-mazurskie
+30	wielkopolskie
+32	zachodniopomorskie

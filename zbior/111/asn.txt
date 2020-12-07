@@ -1,0 +1,271 @@
+ASN	ID_kraju	region	siec
+174	us	arin	COGENT-174 - Cogent Communications
+209	us	arin	ASN-QWEST - Qwest Communications Company, LLC
+1267	it	ripencc	ASN-INFOSTRADA WIND Telecomunicazioni S.p.A.
+1680	il	ripencc	NV-ASN 013 NetVision Ltd.
+1764	at	ripencc	NEXTLAYER-AS next layer Telekommunikationsdienstleistungs- GmbH
+1836	ch	ripencc	GREEN green.ch AG Autonomous System
+2042	my	apnic	ERX-JARING JARING Communications Sdn Bhd
+2514	jp	apnic	INFOSPHERE NTT PC Communications, Inc
+2607	sk	ripencc	SANET Slovak Academic Network
+2914	us	arin	NTT-COMMUNICATIONS-2914 - NTT America, Inc
+3188	tr	ripencc	ALASTYR Alastyr Telekomunikasyon Internet Bilgisayar Hizmetleri Sanayi Ticaret Limited Sirketi
+3216	ru	ripencc	SOVAM-AS OJSC _Vimpelcom_
+3303	ch	ripencc	SWISSCOM Swisscom (Switzerland) Ltd
+3320	de	ripencc	DTAG Deutsche Telekom AG
+3549	us	arin	LVLT-3549 - Level 3 Communications, Inc
+3595	us	arin	GNAXNET-AS - Global Net Access, LLC
+3758	sg	apnic	ERX-SINGNET SingNet
+3786	us	arin	DIALOG-AS - PROQUEST LLC
+3842	us	arin	RAMNODE - RamNode LLC
+4134	cn	apnic	CHINANET-BACKBONE No.31,Jin-rong Street
+4685	jp	apnic	ASAHI-NET Asahi Net
+4713	jp	apnic	OCN NTT Communications Corporation
+4780	tw	apnic	SEEDNET Digital United Inc
+4837	cn	apnic	CHINA169-BACKBONE CNCGROUP China169 Backbone
+4906	us	arin	FDS-01 - Frontline Data Services, Inc
+5396	it	ripencc	MC-LINK MC-link Spa
+5577	lu	ripencc	ROOT root SA
+5588	cz	ripencc	GTSCE T-Mobile Czech Republic a.s.
+5602	it	ripencc	KPNQwest Italia S.p.a,
+6724	de	ripencc	STRATO STRATO AG
+6799	gr	ripencc	OTENET-GR Ote SA (Hellenic Telecommunications Organisation)
+6830	at	ripencc	LGI-UPC Liberty Global Operations B.V.
+6939	us	arin	HURRICANE - Hurricane Electric, Inc
+7162	br	lacnic	Universo Online S.A.
+7393	us	arin	CYBERCON - CYBERCON, INC.
+7506	jp	apnic	INTERQ GMO Internet,Inc
+7557	kr	apnic	KTNET-AS Korea Trade Network
+7643	vn	apnic	VNPT-AS-VN Vietnam Posts and Telecommunications (VNPT)
+8001	us	arin	NET-ACCESS-CORP - Net Access Corporation
+8100	us	arin	ASN-QUADRANET-GLOBAL - QuadraNet, Inc
+8218	fr	ripencc	NEO-ASN Neo Telecoms S.A.S.
+8419	gb	ripencc	HOTCHILLI HotChilli Internet Limited
+8426	gb	ripencc	CLARANET-AS ClaraNET LTD
+8560	de	ripencc	ONEANDONE-AS 1&1 Internet AG
+8612	it	ripencc	TISCALI-IT Tiscali Italia S.P.A.
+8685	tr	ripencc	DORUKNET Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.
+8912	gb	ripencc	NETBENEFIT Peer 1 Network Enterprises Limited
+8972	de	ripencc	PLUSSERVER-AS PlusServer AG
+9115	gb	ripencc	INFB-AS9115 Internet Names For Business
+9116	il	ripencc	GOLDENLINES-ASN 012 Smile Communications Ltd.
+9121	tr	ripencc	TTNET Turk Telekomunikasyon Anonim Sirketi
+9123	ru	ripencc	TIMEWEB-AS OOO TimeWeb
+9198	kz	ripencc	KAZTELECOM-AS JSC Kazakhtelecom
+9280	au	apnic	CIA-AS Bucan Holdings Pty Ltd
+9293	hk	apnic	HKNET-VIPNET NTT Com Asia Limited
+9318	kr	apnic	HANARO-AS Hanaro Telecom Inc.
+9597	jp	apnic	CPI-NET KDDI Web Communications Inc.
+9625	jp	apnic	PACIFIC-INTERNET-INDIA-ASN Pacific Internet India Pvt. Ltd.
+9808	cn	apnic	CMNET-GD Guangdong Mobile Communication Co.Ltd.
+9892	sg	apnic	ICONZ-WEBVISIONS-AP Iconz-Webvisions Pte. Ltd.
+10620	co	lacnic	Telmex Colombia S.A.
+11022	us	arin	ALABANZA-BALT - Alabanza, Inc.
+11181	ca	arin	VAXXINE - Vaxxine Computer Systems Inc.
+11305	us	arin	P1DH-1-ASN - Peer 1 Dedicated Hosting
+11486	us	arin	COLO-PREM-VZB - Verizon Online LLC
+12140	br	lacnic	Lanis Ltda
+12179	us	arin	INTERNAP-2BLK - Internap Network Services Corporation
+12322	fr	ripencc	PROXAD Free SAS
+12350	ch	ripencc	VTX-NETWORK VTX Services SA
+12586	de	ripencc	ASGHOSTNET GHOSTnet GmbH
+12824	pl	ripencc	HOMEPL-AS home.pl sp.z.o.o.
+12860	es	ripencc	AXARNET-NETWORK Axarnet Comunicaciones SL
+12989	nl	ripencc	HWNG Eweka Internet Services B.V.
+13037	gb	ripencc	ZEN-AS Zen Internet Ltd
+13188	ua	ripencc	BANKINFORM-AS CONTENT DELIVERY NETWORK LTD
+13237	de	ripencc	LAMBDANET-AS euNetworks Managed Services GmbH
+13287	es	ripencc	NIXVAL NIXVAL Data Center
+13335	us	arin	CLOUDFLARENET - CloudFlare, Inc.
+13768	us	arin	PEER1 - Peer 1 Network (USA) Inc.
+14112	ca	arin	NET-SECURENET-MTL - SecureNet Information Services Inc.
+14259	cl	lacnic	Gtd Internet S.A.
+14502	ca	arin	TRAVEL-NET - Travel-Net Communications Inc.
+14576	us	arin	HOSTING-SOLUTIONS - Hosting Solution Ltd.
+15133	us	arin	EDGECAST - EdgeCast Networks, Inc.
+15244	us	arin	ADDD2NET-COM-INC-DBA-LUNARPAGES - Lunar Pages
+15418	gb	ripencc	FASTHOSTS-INTERNET Fasthosts Internet Ltd. Gloucester
+15557	fr	ripencc	LDCOMNET Societe Francaise du Radiotelephone S.A.
+15626	ua	ripencc	ITLAS ITL Company
+15657	de	ripencc	SPEEDBONE-AS Speedbone Internet & Connectivity GmbH
+15699	es	ripencc	AS_ADAM OGIC Informatica S.L.
+15830	gb	ripencc	TELECITY-LON TELECITYGROUP INTERNATIONAL LIMITED
+16097	de	ripencc	HLKOMM HL komm Telekommunikations GmbH
+16206	es	ripencc	ABRARED NEO-SKY 2002 Autonomous System 1
+16243	nl	ripencc	VIRTU-AS Virtu Secure Webservices B.V.
+16257	it	ripencc	REGDOM Servizi Internet Srl
+16265	nl	ripencc	LEASEWEB-NETWORK LeaseWeb B.V.
+16276	fr	ripencc	OVH OVH SAS
+16322	ir	ripencc	PARSONLINE Pars Online PJS
+16371	es	ripencc	ACENS_AS acens Technologies, S.L.
+16509	us	apnic	AMAZON-02 - Amazon.com, Inc.
+16735	br	lacnic	ALGAR TELECOM S/A
+17054	us	arin	AS17054 - CONTINENTAL BROADBAND PENNSYLVANIA, INC.
+17216	us	arin	DC74-AS - DC74 LLC
+18229	in	apnic	CTRLS-AS-IN CtrlS Datacenters Ltd.
+18450	us	arin	WEBNX - WebNX, Inc.
+18886	us	arin	INLINE-NET - Inline Connections
+18978	us	arin	ENZUINC-US - Enzu Inc.
+19710	us	arin	DINO-SOL - Dino Solutions, Inc.
+19905	us	arin	NEUSTAR-AS6 - NeuStar, Inc.
+20013	us	arin	CYRUSONE - CyrusOne LLC
+20021	us	arin	LNH-INC - HostMySite
+20401	us	arin	HOSTWAY-1 - Hostway Corporation
+20454	us	arin	SSASN2 - SECURED SERVERS LLC
+20473	us	arin	AS-CHOOPA - Choopa, LLC
+20500	gb	ripencc	GRIFFIN MDNX Enterprise Services Ltd
+20718	es	ripencc	AS_ARSYS-EURO-1 arsys.es
+20738	gb	ripencc	AS20738 Webfusion Internet Solutions
+20773	de	ripencc	HOSTEUROPE-AS Host Europe GmbH
+20857	nl	ripencc	TRANSIP-AS TransIP B.V.
+20860	gb	ripencc	IOMART-AS Iomart
+20940	us	arin	AKAMAI-ASN1 Akamai International B.V.
+21155	nl	ripencc	ASN-PROSERVE ProServe B.V.
+21788	us	arin	NOC - Backlog Capital, LLC
+21840	us	arin	SAGONET-TPA - Sago Networks
+21844	us	arin	THEPLANET-AS - SoftLayer Technologies Inc.
+22653	us	arin	GLOBALCOMPASS - Cyber Wurx LLC
+22878	us	arin	ASACENET1 - ACENET, INC.
+23352	us	arin	SERVERCENTRAL - Server Central Network
+23637	jp	apnic	BI-CDN-IX Bit-isle Co.,Ltd.
+23641	jp	apnic	NSCS-NET NS Computer Service Corporation
+23974	th	apnic	MOE-EDNET-AS-AP Ministry of education
+24768	pt	ripencc	ALMOUROLTEC ALMOUROLTEC SERVICOS DE INFORMATICA E INTERNET LDA
+24940	de	ripencc	HETZNER-AS Hetzner Online AG
+24951	ch	ripencc	EVERYWARE-NET EveryWare LTD.
+24961	de	ripencc	MYLOC-AS myLoc managed IT AG
+24989	de	ripencc	IXEUROPE-DE-FRANKFURT-ASN Equinix GmbH
+25137	pt	ripencc	NFSI NFSi Telecom, Lda.
+25151	nl	ripencc	CYSO-AS Cyso Hosting B.V., Alkmaar, The Netherlands
+25229	ua	ripencc	VOLIA-AS Kyivski Telekomunikatsiyni Merezhi LLC
+25525	nl	ripencc	REASONNET-AS Reasonnet IP Networks B.V.
+25568	ke	afrinic	KENYAWEB
+25577	gb	ripencc	C4L-AS Connexions4London Ltd
+25582	gb	ripencc	ASN-LINIX LINIX Ltd
+25653	us	arin	FORTRESSITX - FortressITX
+25745	us	arin	ALENTUS - Alentus Corporation
+26277	us	arin	PREMIANET - Las Vegas NV Datacenter
+26347	us	arin	DREAMHOST-AS - New Dream Network, LLC
+26496	us	arin	AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC
+27715	br	lacnic	Locaweb Serviços de Internet S/A
+27823	ar	lacnic	Dattatec.com
+27897	cl	lacnic	SEGIC USACH LTDA
+28299	br	lacnic	IPV6 Internet Ltda
+29169	fr	ripencc	GANDI-AS Gandi SAS
+29182	lu	ripencc	ISPSYSTEM-AS ISPsystem, cjsc
+29521	nl	ripencc	CIDR-AS Movenix International Inc.
+29550	gb	ripencc	SIMPLYTRANSIT Simply Transit Ltd
+30058	us	arin	FDCSERVERS - FDCservers.net
+30217	us	arin	DESYNC - Desync Networks
+30266	us	arin	A1COLO-COM - A1COLO.COM
+30447	us	arin	INFB2-AS - InternetNamesForBusiness.com
+30496	us	arin	COLO4 - Colo4, LLC
+30968	ru	ripencc	INFOBOX-AS Infobox.ru Autonomous System
+31034	it	ripencc	ARUBA-ASN Aruba S.p.A.
+31103	de	ripencc	KEYWEB-AS Keyweb AG
+31514	ru	ripencc	INF-NET-AS LLC Multiscan
+31815	us	arin	MEDIATEMPLE - Media Temple, Inc.
+32244	us	arin	LIQUID-WEB-INC - Liquid Web, Inc.
+32392	us	arin	OPENTRANSFER-ECOMMERCE - Ecommerce Corporation
+32475	us	arin	SINGLEHOP-INC - SingleHop
+32613	ca	arin	IWEB-AS - iWeb Technologies Inc.
+32748	us	arin	STEADFAST - Steadfast Networks
+33070	us	arin	RMH-14 - Rackspace Hosting
+33139	ca	arin	CANACA-210 - Canaca-com Inc.
+33182	us	arin	DIMENOC - HostDime.com, Inc.
+33494	us	arin	IHNET - IHNetworks, LLC
+33968	bg	ripencc	INTERNETENGINEERINGAS Internet Engineering Limited
+34233	nl	ripencc	SUPERIOR-AS Superior B.V.
+34432	de	ripencc	PHH-AS Profihost AG
+34619	tr	ripencc	CIZGI CIZGI TELEKOMUNIKASYON ANONIM SIRKETI
+34660	gb	ripencc	IDAQ-AS Idaq Ltd
+34762	be	ripencc	COMBELL-AS Combell group NV
+34931	gb	ripencc	AWARESOFT Awareness Software Limited
+35415	nl	ripencc	WEBAZILLA Webazilla B.V.
+35818	ro	ripencc	WEBFACTOR-AS Webfactor SRL
+35916	us	arin	MULTA-ASN1 - MULTACOM CORPORATION
+36351	us	arin	SOFTLAYER - SoftLayer Technologies Inc.
+36352	us	arin	AS-COLOCROSSING - ColoCrossing
+36943	za	afrinic	webafrica
+37963	cn	apnic	CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd.
+38186	hk	apnic	FTG-AS-AP Forewin Telecom Group Limited
+39038	ee	ripencc	KERNEL-AS KERNEL AS
+39122	ie	ripencc	BLACKNIGHT-AS Blacknight Internet Solutions Ltd
+39134	ru	ripencc	UNITEDNET United Network LLC
+39392	cz	ripencc	SUPERNETWORK-AS SuperNetwork s.r.o.
+39729	it	ripencc	REGISTER-AS Register.IT S.p.A.
+39743	ro	ripencc	VOXILITY-AS Voxility S.R.L.
+40034	vg	ripencc	CONFLUENCE-NETWORK-INC - Confluence Networks Inc
+40244	us	arin	TURNKEY-INTERNET - Turnkey Internet Inc.
+40263	us	arin	FC2-INC - FC2 INC
+40676	us	arin	AS40676 - Psychz Networks
+41175	se	ripencc	INTERNETBORDER Internet Border Technologies AB
+42244	ru	ripencc	ESERVER Hosting Operator eServer.ru Ltd.
+42484	ru	ripencc	GPTEL-AS Grand Prix Telecom AS
+42655	ua	ripencc	BESTHOSTING-AS ON-LINE Ltd
+42755	nl	ripencc	RIJNDATA-AS Technotop Internet BV
+42926	tr	ripencc	RADORE Radore Veri Merkezi Hizmetleri A.S.
+43146	ru	ripencc	AGAVA3 Agava Ltd.
+43260	tr	ripencc	 ROUTERGATE DGN TEKNOLOJI BILISIM YAYINCILIK SANAYI VE LIMITED SIRKETI
+44112	ru	ripencc	SWEB-AS SpaceWeb CJSC
+44256	kz	ripencc	NEOLABS-AS Neolabs Ltd.
+44571	vg	ripencc	AKRINO-AS Akrino Inc
+44575	lv	ripencc	MWTV-AS1 mwtv
+45261	au	apnic	EATDATA-AP East Australia Transit and Data
+45538	vn	apnic	ODS-AS-VN Online data services
+46015	my	apnic	EXABYTES-AS-AP Exa Bytes Network Sdn.Bhd.
+46606	us	arin	UNIFIEDLAYER-AS-1 - Unified Layer
+46989	us	arin	CBEYOND - CBEYOND COMMUNICATIONS, LLC
+47303	pl	ripencc	REDEFINE Redefine Sp. z o.o.
+47385	ru	ripencc	HOSTING-COMPANY-AS Hosting center Ltd.
+47583	lt	ripencc	HOSTINGER-AS Hostinger International Limited
+47781	ua	ripencc	ANSUA-AS Delta-X LTD
+47869	nl	ripencc	NETROUTING-AS Netrouting
+48031	ua	ripencc	XSERVER-IP-NETWORK-AS PE Ivanov Vitaliy Sergeevich
+48172	ru	ripencc	OVERSUN Oversun Ltd
+48809	fr	ripencc	ABCONNECT AB CONNECT
+48854	dk	ripencc	ZITCOM A/S
+49364	ge	ripencc	SERVGE-AS Serv.Ge LTD
+49467	tr	ripencc	INETMAR INETMAR Internet Hizmetleri Autonomous System (izmir)
+49505	ru	ripencc	SELECTEL OOO Network of data-centers
+49544	nl	ripencc	INTERACTIVE3D i3d B.V.
+49699	bg	ripencc	ICN-BG Internet Corporated Networks Ltd.
+49792	pl	ripencc	IONIC-PL
+49981	nl	ripencc	WORLDSTREAM WorldStream
+50673	nl	ripencc	SERVERIUS-AS Serverius Holding B.V.
+51013	sk	ripencc	WEBSUPPORT-SRO-SK-AS Websupport s.r.o.
+51408	ru	ripencc	SIRIUS-AS OOO Sirius-Project
+51468	dk	ripencc	ONECOM One.com A/S
+51559	tk	ripencc	NETINTERNET Netinternet Bilgisayar ve Telekomunikasyon San. ve Tic. Ltd. Sti.
+51718	es	ripencc	HYD Hospedaje y Dominios S.L.
+52000	ru	ripencc	ALDAN-3 LTD
+52048	lv	ripencc	DATACLUB DataClub S.A.
+52368	cl	lacnic	ZAM LTDA.
+53850	us	arin	GORILLASERVERS - GorillaServers, Inc.
+53889	us	arin	MICFO - Micfo, LLC.
+54444	us	arin	AVESTA-NETWORKS-LLC - Avesta Networks LLC
+55034	us	arin	IGGCOM - IGG.COM
+55334	hk	apnic	ASIADC-HK-AP Asia Data Center Limited
+55660	id	apnic	MWN-AS-ID PT Master Web Network
+56173	sg	apnic	YAHOO-SG3 internet content provider
+56582	tk	ripencc	NETFACTOR-ASN NETFACTOR TELEKOMINIKASYON VE TEKNOLOJI HIZMETLERI SANAYI VE JSC
+57010	ru	ripencc	CLODO-AS IT House Ltd.
+57807	pl	ripencc	"TELEPULS-AS Telepuls ""Spider"" sp. z o.o. S.K.A."
+57992	ru	ripencc	GCX-SYSTEMS-AS TransPromStroy Ltd
+58001	ru	ripencc	IDEALSOLUTION-AS Ideal Solution Ltd
+58940	au	apnic	EXIGENT-AS-AP Exigent Enterprise Pty Ltd.
+59491	pl	ripencc	LIVENET-PL Livenet Sp. z o.o.
+59642	lt	ripencc	BALTICSERVERS2-AS UAB DUOMENU CENTRAS
+60117	ae	ripencc	HS Host Sailor Ltd.
+61998	hu	ripencc	SZERVERPLEXHU SzerverPlex.hu KFT.
+62638	us	arin	QUERY-FOUNDRY - Query Foundry, LLC
+132322	in	apnic	GDRPL-IN Good Domain Registry Private Limited
+132717	in	apnic	NDCTPL-IN NxtGen Datacenter & Cloud Technologies Pvt. Ltd.
+197226	pl	ripencc	SPRINT-SDC SPRINT S.A.
+197252	de	ripencc	COLOBRIDGE-AS Colobridge gmbh
+197695	ru	ripencc	AS-REGRU Domain names registrar REG.RU, Ltd
+197712	es	ripencc	CDMON 10dencehispahard, S.L.
+198047	gb	ripencc	UKWEB-EQX UK Webhosting Ltd
+199456	gb	ripencc	VLDTECH-ASN VALID TECHNOLOGY L.P.
+200130	eu	ripencc	DIGITALOCEAN-ASN-1 Digital Ocean, Inc.
+262672	br	lacnic	Digirati Informatica, servicos e telecomunicacoes

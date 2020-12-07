@@ -1,0 +1,303 @@
+id_pasazera	nazwisko	imie	adres	miejscowosc	tel
+100	Kowal	Waldemar	Wiejska 4	Kowary	507766201
+101	Tatarkiewicz	Mariusz	Legnicka 93/6	Wroclaw	852447563
+102	Dudek	Maksymilian	ZImowa 37/3	Boleslawiec	972167198
+103	Modrzewska	Renata	Swidnicka 70/6	Jaworzyna Slaska	698136717
+104	Plawgo	Karolina	Strzelecka 15/9	Zgorzelec	846827828
+105	Wilk	Aleksandra	Czerwcowa 89/1	Chojnow	912956123
+106	Stasiak	Maja	Glogowska 36/2	Jawor	229722825
+107	Herman	Malgorzata	Walbrzyska 48/8	Jaworzyna Slaska	452737649
+108	Buski	Lech	Sygietynskiego 55/9	Jelenia Gora	513436153
+109	Kretowska	Janina	Brzozowa 77/2	Brzeg	774818869
+110	Cyrankowska	Ilona	Zielona 22/3	Boleslawiec	665045231
+111	Imbierowicz	Hanna	Krowia 13	Kowary	543112095
+112	Kulka	Jacek	Wysoka 49/10	Gora	685114252
+113	Lange	Euzebiusz	Szewska 51/10	Brzeg	289345716
+114	Hanke	Jakub	Malczewskiego19/2	Jelenia Gora	591155181
+115	Stasiak	Daniel	Wroclawska 13/5	Jawor	346886589
+116	Nowakowski	Marcin	Majowa 16/9	Walbrzych	744647732
+117	Pastuszka	Kornelia	Wrzosowa 100/10	Zgorzelec	237639246
+118	Kruczek	Tadeusz	Zielona 12/7	Chojnow	184638924
+119	Wojciechowska	Felicja	Jelenia 26/5	Wroclaw	294982159
+120	Nowotko	Marceli	Wodna 54/2	Wroclaw	334159444
+121	Karlowski	Henryk	Niemala 12/23	Lubin	432986225
+122	Nowakowska	Joanna	Pawia 16/5	Glogow	623998512
+123	Kowalczyk	Anna	Lipcowa 59/8	Walbrzych	839526548
+124	Witkowski	Hubert	Orla 43/5	Lubin	567092834
+125	Stawikowska	Paulina	Kurkowa 72/6	Wroclaw	127311773
+126	Walczakowska	Krystyna	Dluga 74/7	Gora	138827222
+127	Kowal	Agata	Kiepury 59/8	Jelenia Gora	626732934
+128	Kaczorek	Patrycja	Brzozowa 17/6	Brzeg	974662263
+129	Szydlowska	Alicja	Kurkowa 10/6	Wroclaw	528261327
+130	Kowal	Zenon	Czerwcowa 94/10	Walbrzych	565517989
+131	Burkiewicz	Katarzyna	Kiepury 67/7	Jelenia Gora	252292881
+132	Bahdaj	Adam	Lipcowa 53/6	Walbrzych	536831439
+133	Skoniecka	Agata	Kurkowa 94/2	Wroclaw	246621835
+134	Hanke	Amelia	Malczewskiego 19/2	Jelenia Gora	716528125
+135	Walentowicz	Kinga	Sportowa 23/1	Polkowice	546334985
+136	Komarnicki	Dawid	Wiosenna 94/8	Brzeg	722665344
+137	Zym	Kajetan	Wodna 36/10	Wroclaw	747826655
+138	Kowalski	Ryszard	Walbrzyska 75/4	Jaworzyna Slaska	381555771
+139	Walczakowska	Mariola	Dluga 99/9	Gora	883786369
+140	Sibilska	Monika	Sygietynskiego 53/5	Jelenia Gora	341826872
+141	Gabowski	Pawel	Czerwcowa 73/3	Chojnow	685595243
+142	Piekarz	Paulina	Wrzosowa 76/7	Zgorzelec	394866278
+143	Murarz	Kamila	Graniczna 89/7	Zgorzelec	844551588
+144	Kot	Eugeniusz	Strzegomska 58/8	Jaworzyna Slaska	535897585
+145	Krupa	Tomasz	Szeroka 58/2	Gora	325756245
+146	Kruczek	Aleksandra	Aroniowa 23/3	Chojnow	211749946
+147	Gumowska	Dorota	Sokola 67	Kowary	887546111
+148	Dudek	Krzysztof	Jesienna 23/8	Boleslawiec	796573727
+149	Graba	Boleslaw	Murowa 85/5	Chojnow	665866511
+150	Makowska	Weronika	Sygietynskiego 8/2	Jelenia Gora	725427178
+151	Specjalny	Grzegorz	Sygietynskiego 2/4	Jelenia Gora	423675728
+152	Tyrka	Ewelina	Wrzosowa 22/5	Brzeg	276143353
+153	Misiek	Anna	Lipcowa 51/4	Walbrzych	762938666
+154	Dudek	Damian	Wiosenna 8/2	Boleslawiec	439642321
+155	Duch	Alicja	Wielka 12/10	Strzelin	778901231
+156	Lubiatowska	Krystyna	Szkolna 75/2	Wroclaw	342974154
+157	Pieskowski	Bonifacy	Wiejska 30/1	Chojnow	669588244
+158	Wojtas	Sylwester	Sygietynskiego 56/1	Jelenia Gora	161788833
+159	Lewaszkiewicz	Hanna	Sygietynskiego 5/2	Jelenia Gora	745854265
+160	Misz	Borys	Polna 112	Kowary	669787142
+161	Barski	Karol	Wesola 45/11	Lubin	555676912
+162	Krupa	Jan	Krotka 88/1	Gora	285399948
+163	Bartkowiak	Bartlomiej	Kolorowa 17	Kowary	733472197
+164	Benetkiewicz	Piotr	Fiolkowa 22/15	Lubin	677658741
+165	Ciborski	Maciej	Majowa 34	Kowary	566457436
+166	Gesicki	Radoslaw	Kurkowa 44/15	Brzeg	466579223
+167	Stasiak	Damian	Legnicka 15/7	Jawor	228753627
+168	Adamczyk	Oskar	Zarowska 54/5	Jaworzyna Slaska	221435595
+169	Roztocka	Monika	Grabowa 100/1	Wroclaw	879685984
+170	Grajkowska	Monika	Pulaskiego 13/2	Strzelin	556647584
+171	Kowal	Marcin	Czerwcowa 12/9	Walbrzych	573531537
+172	Juszczyk	Adela	Reymonta 60/16	Piechowice	576556901
+173	Kolasinski	Karol	Malwowa 46	Kowary	768700765
+174	Bielaszewski	Remigiusz	Jelenia 40/9	Brzeg	749731468
+175	Markowski	Piotr	Majowa 71/1	Walbrzych	539837828
+176	Jagielski	Wojciech	Sygietynskiego 40/3	Jelenia Gora	532777948
+177	Gawron	Dorota	Sygietynskiego 62/10	Jelenia Gora	676417769
+178	Kot	Jowita	Warszawska 66/7	Zgorzelec	875724755
+179	Gren	Patrycja	Kiepury 11/5	Jelenia Gora	275754869
+180	Kosicka	Kamila	Piotrkowska 40/23	Kluczbork	998785534
+181	Kupinski	Jakub	Pola 36/19	Lubin	477564112
+182	Tobera	Krystyna	Letnia 95/3	Boleslawiec	931131153
+183	Stankiewicz	Zofia	Sygietynskiego 9/5	Jelenia Gora	525125768
+184	Lajzer	Michal	Burzowa 34/5	Legnica	455688504
+185	Kwiatkowski	Marcin	Walbrzyska 59/6	Jawor	129719158
+186	Klucznik	Monika	Murowa 45/5	Chojnow	182372776
+187	Kretowski	Jan	Wiejska 85/9	Chojnow	442888164
+188	Bugajno	Kamila	Legnicka 34/8	Wroclaw	415714512
+189	Lipinski	Artur	Krawiecka 23/11	Walbrzych	776859440
+190	Specjalna	Urszula	Sygietynskiego 2/4	Jelenia Gora	684773825
+191	Malkowski	Adam	Surowa 14	Polkowice	665766952
+192	Noch	Przemyslaw	Rozana 34/12	Olawa	775659658
+193	Nowicka	Karolina	Mala 23	Lwowek	554673833
+194	Kalisz	Jacek	Jelenia 16/1	Wroclaw	392374324
+195	Kajetanowicz	Maksymilian	Majowa 82/3	Walbrzych	917819948
+196	Bilska	Eliza	Brzozowa 7/5	Brzeg	533572196
+197	Pawlak	Justyna	Szeroka 56/12	Boleslawiec	776584841
+198	Pawlowski	Jaroslaw	Kolbego 61/12	Polkowice	775965844
+199	Klucznik	Ewa	Blaszana 15/10	Dzierzoniow	159491939
+200	Plaskowski	Jacek	Prochowa 11/3	Lubin	776584855
+201	Kowalska	Augusta	Jaworowa 15	Jawor	185399372
+202	Antczak	Edyta	Czerwcowa 40/6	Walbrzych	735223964
+203	Karpik	Hanna	Drewniana 8/6	Dzierzoniow	312271637
+204	Ruminski	Krzysztof	Kozia 44	Olawa	665747586
+205	Szalewski	Wojciech	Zelazna 34/15	Legnica	776885778
+206	Krupa	Krzysztof	Szeroka 45/10	Gora	251342843
+207	Szewczyk	Maciej	Zawalna 33	Glogow	488374838
+208	Wadowska	Agnieszka	Portowa 45/21	Kielce	757864995
+209	Waga	Emilia	Milicka 14/17	Jelenia Gora	774839312
+210	Joanna	Patrycy	Wiejska 31/4	Chojnow	912788857
+211	Wroclawski	Rafal	Sygietynskiego 90/8	Jelenia Gora	831153819
+212	Wilkonska	Marta	Olchowa 76	Kalisz	776564758
+213	Bojanowska	Magdalena	Poleska 25/15	Gora	475865495
+214	Kowalski	Alfred	Lipcowa 21/3	Walbrzych	828798486
+216	Czyza	Pawel	Zachodnia 40/21	Polkowice	374855473
+217	Wysocka	Maria	Sygietynskiego 79/10	Jelenia Gora	641419594
+218	Kokoryk	Marzena	Grabowa 32/7	Wroclaw	951882685
+219	Jaworski	Eugeniusz	Sygietynskiego 62/5	Jelenia Gora	712726574
+220	Krupa	Maria	Krotka 77/8	Gora	738269372
+221	Konieczna	Agnieszka	Kurkowa 27/4	Wroclaw	928656575
+222	Misiek	Dorota	Czerwcowa 24/3	Walbrzych	245428666
+223	Kozica	Michal	Szeroka 23/4	Gora	364886275
+224	Nowakowski	Pawel	Majowa 31/4	Walbrzych	487979894
+225	Kozielczyk	Elzbieta	Grabowa 80/10	Wroclaw	129154688
+226	Grabania	Malgorzata	Grochowa 22	Lubin	756475512
+227	Kadajska	Monika	Krolewska 2/11	Kalisz	756435364
+228	Nowak	Michal	Sygietynskiego 97/2	Jelenia Gora	384792879
+229	Zubilewicz	Magdalena	Solna 86/3	Wroclaw	848464729
+230	Dudek	Ewelina	Letnia 4/10	Boleslawiec	694536961
+231	Becmer	Wojciech	Plumplacka 23/1	Lubin	575436372
+232	Siwek	Pawel	Malczewskiego 41/9	Jelenia Gora	139721717
+233	Biernacka	Izabela	Zalewska 13	Polkowice	665744511
+234	Siwek	Honorata	Malczewskiego 41/9	Jelenia Gora	674716413
+235	Blaszkiewicz	Marcin	Zamojska 12/31	Glogow	887644313
+236	Boladz	Artur	Polonijna 34	Gora	776548441
+237	Tobera	Katarzyna	Metalowa 20/1	Dzierzoniow	116152299
+238	Ciecharowska	Ilona	Okolna 44/23	Walbrzych	765744312
+239	Pawlikowska	Beata	Sygietynskiego 75/6	Jelenia Gora	879686313
+240	Stasiak	Dawid	Jaworska 62/4	Jawor	829986296
+241	Cyrankowska	Monika	Kalamburowa 9	Kalisz	556574123
+242	Justyna	Jacak	Solna 84/7	Wroclaw	881889777
+243	Dankowski	Daniel	Maslana 13/20	Piechowice	774536125
+244	Draszczyk	Alicja	Milosna 33/12	Jaworzyna Slaska	775647381
+245	Duszynska	Joanna	Biala 34	Dzierzoniow	645532627
+246	Gumowska	Anna	Odjechana 40	Piechowice	765646411
+247	Imbierowicz	Joanna	Podlaska 26/17	Walbrzych	756332179
+248	Kaminska	Jolanta	Kasprowicza 5/10	Walbrzych	756464312
+249	Karlowski	Radoslaw	Szkolna 40/7	Polkowice	885646311
+250	Krupa	Mariola	Krotka 79/6	Gora	642461865
+251	Kulka	Jagoda	Legnicka 96/2	Jawor	271833651
+252	Koronska	Sylwia	Piotrowska 12	Brzeg	756443621
+253	Lukaszewska	Katarzyna	Kaliska 34/7	Olawa	756322825
+255	Modlinska	Agnieszka	Zapolskiej 23	Kluczbork	756433531
+257	Polarek	Mariola	Patafianowa 6/17	Polkowice	543354639
+258	Ottka	Piotr	Kolejowa 12/3	Luban	868577433
+262	Pieczatowski	Witold	Zakalna 32/8	Walbrzych	646574738
+263	Trawinska	Monika	Kajakarska 30	Kowary	656473198
+264	Smoczynska	Karolina	Chocholowska 12	Kalisz	756411287
+266	Walentowicz	Hanna	Plywacka 77/6	Glogow	776582215
+269	Kwiatkowski	Grzegorz	Sygietynskiego 27/2	Jelenia Gora	296529555
+270	Tomaszewska	Beata	Jesienna 4/10	Boleslawiec	135227458
+271	Winiarska	Kinga	Kielecka 23	Wroclaw	586577412
+272	Walasz	Mariusz	Gajowa 46/5	Luban	767574382
+273	Wojciechowska	Katarzyna	Nahorska 45	Kielce	867643112
+274	Wolski	Marek	Jarnicka 45/11	Glogow	484833100
+276	Zawadzka	Monika	Foliowa 13/2	Kalisz	858471122
+279	Lis	Krystyna	Zimowa 71/9	Boleslawiec	317233161
+280	Tomaszewska	Marcela	Letnia 75/8	Boleslawiec	834184679
+281	Lange	Tomasz	Wrzosowa 70/9	Brzeg	751482592
+282	Cynkar	Maciej	Majowa 44/6	Walbrzych	576318984
+283	Wronikowska	Magdalena	Hanki 74/3	Polkowice	884775420
+284	Andracki	Bartosz	Fiolkowa 3	Kalisz	775467330
+285	Bednarczyk	Lukasz	Chudoby 11	Olawa	884110023
+286	Bogdan	Dawid	Japonska 45	Piechowice	954883901
+287	Wrobel	Ewa	Metaliczna 98/6	Dzierzoniow	283799461
+288	Janas	Marcin	Ceglana 31/3	Olawa	868557480
+290	Januszkiewicz	Szymon	Polerska 12	Chojnow	885322012
+291	Kaznowska	Agnieszka	Kajacka 87/13	Legnica	857428112
+292	Korda	Dawid	Zemska 12/7	Kielce	995338307
+295	Kosicki	Pawel	Niebieska 45	Kalisz	865749210
+296	Krankowska	Joanna	Lubuska 3/8	Wroclaw	888223021
+299	Kurasz	Malgorzata	Gigancka 18	Jelenia Gora	667667112
+300	Miler	Beata	Pudelska 53	Glogow	854780012
+301	Nielepiec	Tomasz	Smutna 65	Olawa	958443930
+303	Pietrzak	Iwona	Pakowna 54/13	Lubin	574733112
+304	Komarnicki	Adam	Murowa 77/2	Chojnow	867437641
+306	Pirogowski	Piotr	Karpowa 56	Legnica	857483930
+307	Romanska	Monika	Pulaskiego 33/1	Lwowek	985487011
+308	Sankiewicz	Przemyslaw	Chopina 34	Strzelin	754637732
+309	Sibilak	Izabela	Napierskiego 24	Jawor	768383931
+310	Kakadun	Andrzej	Majowa 13/1	Walbrzych	248367742
+311	Siemiatkowska	Anna	Mokra 12/5	Strzegom	756473229
+312	Stasiak	Nadzieja	Marcinkowska 53/1	Jawor	679555731
+313	Sowinska	Dorota	Kulkowa 45/12	Chojnow	563672801
+314	Srubka	Marta	Plutarcha 45	Wroclaw	857483011
+315	Szczupak	Anna	Blaszana 65/7	Dzierzoniow	926392183
+316	Waruszewska	Agnieszka	Lazurowa 23/7	Boleslawiec	774733311
+317	Wichrowska	Malgorzata	Plaska 31	Chojnow	747638205
+318	Wilczek	Agata	Koralowa 56/23	Kalisz	756483381
+319	Wiorowska	Agnieszka	Zjarana 24	Piechowice	856470120
+320	Kozica	Natalia	Wysoka 98/4	Gora	829231684
+321	Dziasek	Justyna	Solna 100/5	Wroclaw	474623491
+322	Roztoka	Adam	Grabowa 38/2	Wroclaw	274778212
+323	Jancewicz	Agata	Malczewskiego 54/5	Jelenia Gora	287937688
+327	Szyc	Borys	Szkolna 45/6	Wroclaw	689213196
+329	Abrich	Jan	Malczewskiego 31/1	Jelenia Gora	244713379
+330	Mroczek	Marcelina	Wiosenna 15/4	Boleslawiec	836531217
+332	Tatarkiewicz	Malgorzata	Legnicka 90/3	Wroclaw	983852978
+333	Modrzejewska	Eulalia	Wrzosowa 75/1	Brzeg	173368773
+335	Kowalski	Konstanty	Krawiecka 86/8	Brzeg	734489996
+347	Kot	Jolanta	Jaworska 25/5	Jaworzyna Slaska	448479927
+348	Dziasek	Jerzy	Solna 50/10	Wroclaw	635346439
+349	Kalisz	Ryszard	Jelenia 59/5	Wroclaw	416949495
+350	Gorchalski	Jacek	Solna 79/5	Wroclaw	535739634
+354	Kowalska	Konstancja	Szewska 9/6	Brzeg	642839414
+355	Hertman	Katarzyna	Zarowska 76/8	Jaworzyna Slaska	649883784
+356	Kwiatkowska	Patrycja	Wiosenna 87/4	Boleslawiec	113655494
+360	Milde	Tomasz	Krawiecka 64/9	Brzeg	975729975
+361	Kurczaczek	Dominika	Brzozowa 66/9	Brzeg	741574555
+362	Andrzejewicz	Jerzy	Legnicka 18/9	Wroclaw	183141988
+363	Czekaj	Krzysztof	Sygietynskiego 26/7	Jelenia Gora	487311832
+364	Lubiatowska	Bozena	Szkolna 85/5	Wroclaw	427399359
+365	Kajetanowicz	Bernard	Lipcowa 28/10	Walbrzych	465499959
+366	Kurczak	Mateusz	Marcinkowska 81/2	Jawor	557157697
+370	Andrzejewska	Kornelia	Szkolna 18/5	Wroclaw	186114699
+371	Kocicki	Maurycy	Aroniowa 92/3	Chojnow	268335854
+372	Warszawska	Adela	Dluga 61/4	Gora	949795821
+377	Zajac	Pelagia	Zimowa 5/6	Boleslawiec	234628475
+380	Piekarska	Katarzyna	Warszawska 66/4	Zgorzelec	111355594
+382	Malinowska	Anna	Kiepury 61/7	Jelenia Gora	163553351
+383	Kozielczyk	Krzysztof	Grabowa 72/7	Wroclaw	115646962
+384	Glowaj	Agnieszka	Sygietynskiego 54/3	Jelenia Gora	884266956
+385	Kaliszewski	Remigiusz	Wiosenna 44/3	Boleslawiec	555387165
+386	Kurska	Pelagia	Jelenia 51/10	Wroclaw	997523678
+387	Piekarski	Maciej	Warszawska 98/2	Zgorzelec	154445938
+388	Specjalny	Piotr	Warszawska 75/10	Zgorzelec	862836355
+391	Krukowski	Marcin	Sygietynskiego 91/4	Jelenia Gora	847638485
+393	Kukulka	Beata	Metalowa 22/10	Dzierzoniow	329668349
+394	Mazur	Maciej	Solna 62/4	Wroclaw	179973673
+395	Odolanowski	Piotr	Sygietynskiego 1/8	Jelenia Gora	624714865
+396	Kowal	Edyta	Luzycka 62/4	Zgorzelec	663537622
+399	Kwiatkowski	Bogdan	Kiepury 12/4	Jelenia Gora	732718143
+400	Siwek	Piotr	Malczewskiego 99/5	Jelenia Gora	868662389
+401	Wirowski	Marcin	Droga 90/12	Lubin	756293849
+402	Ziarkowski	Marcel	Wodna 63/5	Wroclaw	349246689
+403	Wozniak	Szymon	Szewska 3	Walbrzych	765839382
+404	Zielinski	Tomasz	Bulkowa 54/3	Glogow	756824422
+405	Zygarska	Joanna	Pilarska 17	Luban	867574094
+406	Koza	Krzysztof	Zielona 96/8	Chojnow	717953493
+407	Kaliszewski	Kacper	Jesienna 79/1	Boleslawiec	162661936
+408	Ostrowski	Grzegorz	Uhahana 45/13	Walbrzych	867373435
+409	Rutkowska	Karolina	Biurowa 23	Gora	656478330
+410	Stawikowska	Aurelia	Kurkowa 54/8	Wroclaw	973758243
+411	Jeziorski	Adrian	Brazowa 46/5	Polkowice	658884749
+412	Zabielska	Kamila	Niewielka 67	Chojnow	758579439
+414	Szargawinska	Danuta	Legnicka 21/4	Wroclaw	164252784
+415	Borowiec	Dorota	Laponska 32/1	Lubin	778473330
+416	Rawski	Mariusz	Sudecka 56/21	Walbrzych	564823204
+418	Borowski	Andrzej	Kijowa 17	Boleslawiec	768473003
+420	Kandulska	Eugenia	Podolska 11/2	Luban	658494389
+421	Herman	Edyta	Strzegomska 49/4	Jaworzyna Slaska	673282933
+423	Kalisz	Sergiusz	Jelenia 81/1	Wroclaw	471722681
+424	Stawikowski	Kazimierz	Legnicka 53/8	Wroclaw	348852848
+426	Tobera	Jowita	Metaliczna 49/9	Dzierzoniow	119163972
+430	Tatarynowicz	Edward	Legnicka 32/8	Wroclaw	391413674
+431	Grochot	Cezary	Solna 79/10	Wroclaw	751797778
+433	Wojciechowska	Helena	Szkolna 61/10	Wroclaw	933788741
+434	Antczak	Monika	Czerwcowa 4/6	Walbrzych	336486847
+435	Andrzejewicz	Jadwiga	Legnicka 85/8	Wroclaw	789577797
+436	Gerwazy	Joanna	Czerwcowa 13/10	Chojnow	244748421
+438	Bielawska	Dagmara	Jesienna 72/10	Boleslawiec	238415176
+439	Kulka	Bartosz	Wroclawska 58/9	Jawor	711727727
+442	Stasiak	Renata	Walbrzyska 88/1	Jawor	978994911
+443	Kowalska	Hanna	Swidnicka 47/3	Jaworzyna Slaska	526477559
+449	Augystynowska	Adrianna	Grabowa 41/10	Wroclaw	426719854
+450	Lis	Ewa	Zimowa 4/2	Boleslawiec	556445361
+452	Wronska	Alicja	Gorna 6/9	Dzierzoniow	667293929
+454	Kwiatkowski	Maciej	Glogowska 41/6	Jawor	161848481
+455	Kolasinka	Ewa	Legnicka 23/8	Wroclaw	948614798
+459	Ustka	Adelajda	Dluga 7/8	Gora	255417311
+462	Szustak	Ewelina	Slowianska 35/10	Zgorzelec	935645519
+464	Malinowska	Joanna	Drewniana 64/6	Dzierzoniow	138254965
+465	Drabik	Monika	Wrzosowa 68/5	Brzeg	856259957
+466	Pawlikowska	Amelia	Luzycka 17/2	Zgorzelec	446146193
+467	Kowalska	Natalia	Kiepury 16/8	Jelenia Gora	642775135
+468	Burski	Wojciech	Malczewskiego 80/10	Jelenia Gora	894566942
+470	Burski	Jakub	Sygietynskiego 81/3	Jelenia Gora	516547119
+477	Durczok	Krystian	Wrzosowa 90/2	Brzeg	735743162
+478	Piekarz	Konstanty	Strzelecka 1/10	Zgorzelec	277945724
+479	Stankiewicz	Tomasz	Malczewskiego 97/9	Jelenia Gora	284548885
+482	Ziarkowski	Grzegorz	Wodna 60/3	Wroclaw	289493156
+483	Pawlikowska	Aurelia	Graniczna 51/7	Zgorzelec	278872495
+484	Marciniak	Anna	Kurkowa 4/1	Wroclaw	736578121
+486	Biler	Patrycja	Lipcowa 26/10	Walbrzych	861723318
+487	Stawikowska	Urszula	Legnicka 61/3	Wroclaw	895838192
+488	Stasiak	Felicita	Jaworska 66/3	Jawor	156538421
+492	Kozica	Paula	Wysoka 77/3	Gora	728483948
+494	Biler	Henryk	Lipcowa 59/9	Walbrzych	344485663
+496	Pastuszka	Jolanta	Slowianska 16/8	Zgorzelec	254551277
+497	Dudek	Andrzej	Letnia 28/4	Boleslawiec	783332358
+502	Wilk	Genowefa	Czerwcowa 87/4	Walbrzych	743139146

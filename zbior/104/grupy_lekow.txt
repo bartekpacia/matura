@@ -1,0 +1,342 @@
+Id_grupy;Nazwa_grupy
+1.0;Leki blokujace receptory histaminowe H2 - stosowane doustnie
+10.0;Leki przeciwbiegunkowe - loperamid
+100.1;Sulfametoksazol w polaczeniu z trimetoprymem do stosowania doustnego - postacie stale
+100.2;Sulfametoksazol w polaczeniu z trimetoprymem do stosowania doustnego - postacie plynne
+101.1;Antybiotyki makrolidowe do stosowania doustnego - plynne postacie farmaceutyczne
+101.2;Antybiotyki makrolidowe do stosowania doustnego - stale postacie farmaceutyczne
+102.1;Antybiotyki linkozamidowe do stosowania pozajelitowego
+102.2;Antybiotyki linkozamidowe do stosowania doustnego - stale postacie farmaceutyczne
+103.2;Antybiotyki aminoglikozydowe do stosowania pozajelitowego - gentamycyna
+105.0;Chinolonowe leki przeciwbakteryjne - fluorochinolony do stosowania doustnego
+106.0;Antybiotyki peptydowe - kolistyna
+108.0;Chemioterapeutyki do stosowania doustnego - pochodne nitrofuranowe
+109.0;Leki przeciwgrzybicze do stosowania doustnego - pochodne imidazolu - ketokonazol
+11.0;Kortykosteroidy do stosowania doustnego o dzialaniu miejscowym na przewod pokarmowy - budesonid
+110.1;Leki przeciwgrzybicze do stosowania doustnego - pochodne triazolu - stale postacie farmaceutyczne
+110.2;Leki przeciwgrzybicze do stosowania doustnego - pochodne triazolu - plynne postacie farmaceutyczne
+111.1;Leki przeciwpratkowe - antybiotyki - ryfampicyna
+111.2;Leki przeciwpratkowe - produkty zlozone - izoniazyd z ryfampicyna
+112.0;Leki przeciwgrzybicze do stosowania ogolnego - pochodne triazolu - posaconazol
+113.0;Leki przeciwpratkowe - inne - pyrazynamid
+115.1;Leki przeciwwirusowe do stosowania do oczu - acyklowir
+115.2;Leki przeciwwirusowe - acyklowir - postacie do stosowania doustnego
+116.0;Leki przeciwwirusowe - walgancyklowir - postacie do stosowania doustnego
+117.1;Leki przeciwnowotworowe i immunomodulujace - leki alkilujace - cyklofosfamid
+12.1;Leki przeciwzapalne dzialajace na jelita - mesalazyna i sulfasalazyna - produkty do stosowania doustnego
+12.2;Leki przeciwzapalne dzialajace na jelita - mesalazyna - produkty do stosowania doodbytniczego - stale postacie farmaceutyczne
+12.3;Leki przeciwzapalne dzialajace na jelita - mesalazyna - produkty do stosowania doodbytniczego - plynne postacie farmaceutyczne
+120.1;Leki przeciwnowotworowe i immunomodulujace - antymetabolity - metotreksat do stosowania doustnego
+120.2;Leki przeciwnowotworowe i immunomodulujace - inne immunosupresanty - metotreksat do stosowania podskornego
+126.0;Leki przeciwnowotworowe i immunomodulujace - inne - hydroksymocznik
+127.2;Leki przeciwnowotworowe i immunomodulujace - progestogeny - medroksyprogesteron do podawania pozajelitowego
+128.0;Leki przeciwnowotworowe i immunomodulujace - progestogeny - megestrol do podawania doustnego - postacie plynne
+129.0;Leki przeciwnowotworowe i immunomodulujace - analogi hormonu uwalniajacego gonadotropine
+13.0;Enzymy trzustkowe
+130.0;Leki przeciwnowotworowe i immunomodulujace - antyestrogeny - tamoksyfen
+131.0;Leki przeciwnowotworowe i immunomodulujace - antyandrogeny o budowie niesteroidowej
+132.0;Leki przeciwnowotworowe i immunomodulujace - inhibitory enzymow - doustne inhibitory aromatazy
+133.0;Leki przeciwnowotworowe i immunomodulujace - immunostymulujace - czynniki stymulujace wzrost granulocytow
+134.0;Leki przeciwnowotworowe i immunomodulujace - leki immunosupresyjne - kwas mykofenolowy i jego pochodne
+135.1;Leki przeciwnowotworowe i immunomodulujace - leki immunosupresyjne - sirolimus
+135.2;Leki przeciwnowotworowe i immunomodulujace - leki immunosupresyjne - ewerolimus
+136.0;Leki przeciwnowotworowe i immunomodulujace - leki immunosupresyjne - leflunomid
+137.1;Leki przeciwnowotworowe i immunomodulujace - leki immunosupresyjne - inhibitory kalcyneuryny - cyklosporyna do stosowania doustnego - stale postacie farmaceutyczne
+138.2;Leki przeciwnowotworowe i immunomodulujace - leki immunosupresyjne - inhibitory kalcyneuryny - cyklosporyna do stosowania doustnego - plynne postacie farmaceutyczne
+139.0;Leki przeciwnowotworowe i immunomodulujace - leki immunosupresyjne - inhibitory kalcyneuryny - takrolimus
+14.1;Hormony trzustki - insuliny ludzkie i analogi insulin ludzkich
+14.3;Hormony trzustki - dlugodzialajace analogi insulin
+140.0;Leki przeciwnowotworowe i immunomodulujace - leki immunosupresyjne - azatiopryna
+141.1;Niesteroidowe leki przeciwzapalne do stosowania doustnego - produkty jednoskladnikowe i skojarzone z inhibitorami pompy protonowej - stale postacie farmaceutyczne
+141.2;Niesteroidowe leki przeciwzapalne do stosowania doodbytniczego
+141.3;Niesteroidowe leki przeciwzapalne do stosowania pozajelitowego
+141.4;Niesteroidowe leki przeciwzapalne do stosowania doustnego - plynne postacie farmaceutyczne
+144.0;Leki dzialajace rozkurczowo na miesnie szkieletowe - tizanidyna
+145.0;Leki stosowane w leczeniu dny - allopurynol
+146.1;Leki stosowane w chorobach kosci - bisfosfoniany doustne - kwas klodronowy
+146.2;Leki stosowane w chorobach kosci - bisfosfoniany do podawania pozajelitowego - kwas pamidronowy
+146.3;Leki stosowane w chorobach kosci - bisfosfoniany do podawania pozajelitowego - kwas zoledronowy
+147.0;Leki stosowane w chorobach kosci - bisfosfoniany doustne - kwas alendronowy i ryzendronowy
+148.0;Leki znieczulajace miejscowo - lidokaina w polaczeniu z norepinefryna - roztwor do wstrzykiwañ
+149.1;Opioidowe leki przeciwbolowe - morfina do podawania doustnego - postacie o przedluzonym uwalnianiu
+149.2;Opioidowe leki przeciwbolowe - morfina do podawania pozajelitowego
+149.3;Opioidowe leki przeciwbolowe - morfina do podawania doustnego - postacie o niemodyfikowanym uwalnianiu
+15.0;Doustne leki przeciwcukrzycowe - biguanidy o dzialaniu przeciwcukrzycowym - metformina
+150.1;Opioidowe leki przeciwbolowe - oksykodon
+150.2;Opioidowe leki przeciwbolowe - dihydrokodeina
+150.3;Opioidowe leki przeciwbolowe - metadon
+150.4;Opioidowe leki przeciwbolowe – oksykodon w polaczeniach
+152.1;Opioidowe leki przeciwbolowe - postacie do stosowania podpoliczkowego
+152.2;Opioidowe leki przeciwbolowe - postacie do stosowania donosowego
+152.3;Opioidowe leki przeciwbolowe - postacie do stosowania podjezykowego
+152.4;Opioidowe leki przeciwbolowe - postacie do stosowania przezskornego
+153.1;Opioidowe leki przeciwbolowe - tramadol - postacie do podawania doodbytniczego
+153.2;Opioidowe leki przeciwbolowe - tramadol - postacie do podawania pozajelitowego
+153.3;Opioidowe leki przeciwbolowe - tramadol - postacie do podawania doustnego - stale postacie farmaceutyczne
+153.4;Opioidowe leki przeciwbolowe - tramadol - postacie do podawania doustnego - plynne postacie farmaceutyczne
+154.0;Leki przeciwmigrenowe - ergotamina
+155.1;Leki przeciwpadaczkowe do stosowania doodbytniczego - fenobarbital - postacie do podawania doodbytniczego
+155.2;Leki przeciwpadaczkowe do stosowania doustnego - fenobarbital - postacie do podawania doustnego
+155.3;Leki przeciwpadaczkowe do stosowania doustnego - primidon
+156.0;Leki przeciwpadaczkowe do stosowania doustnego - fenytoina
+157.0;Leki przeciwpadaczkowe do stosowania doustnego - etosuksymid
+158.1;Leki przeciwpadaczkowe do stosowania doustnego - benzodiazepiny
+159.1;Leki przeciwpadaczkowe do stosowania doustnego - karbamazepina - stale postacie farmaceutyczne
+159.2;Leki przeciwpadaczkowe do stosowania doustnego - karbamazepina - plynne postacie farmaceutyczne
+16.0;Doustne leki przeciwcukrzycowe - pochodne sulfonylomocznika
+160.1;Leki przeciwpadaczkowe do stosowania doustnego - oksykarbazepina - stale postacie farmaceutyczne
+160.2;Leki przeciwpadaczkowe do stosowania doustnego - oksykarbazepina - plynne postacie farmaceutyczne
+161.1;Leki przeciwpadaczkowe do stosowania doustnego - kwas walproinowy i jego sole - postacie farmaceutyczne o normalnym uwalnianiu
+161.2;Leki przeciwpadaczkowe do stosowania doustnego - kwas walproinowy i jego sole - postacie farmaceutyczne o przedluzonym uwalnianiu
+162.1;Leki przeciwpadaczkowe do stosowania doustnego - wigabatryna - plynne postacie farmaceutyczne
+162.2;Leki przeciwpadaczkowe do stosowania doustnego - wigabatryna - stale postacie farmaceutyczne
+162.3;Leki przeciwpadaczkowe do stosowania doustnego - tiagabina - stale postacie farmaceutyczne
+163.1;Leki przeciwpadaczkowe do stosowania doustnego - lamotrygina - stale postacie farmaceutyczne
+163.2;Leki przeciwpadaczkowe do stosowania doustnego - lamotrygina - plynne postacie farmaceutyczne
+164.0;Leki przeciwpadaczkowe do stosowania doustnego - topiramat
+165.0;Leki przeciwpadaczkowe do stosowania doustnego - gabapentyna
+166.1;Leki przeciwpadaczkowe do stosowania doustnego - lewetiracetam - stale postacie farmaceutyczne
+166.2;Leki przeciwpadaczkowe do stosowania doustnego - lewetiracetam - plynne postacie farmaceutyczne
+167.0;Leki stosowane w chorobie Parkinsona - biperiden
+168.0;Leki stosowane w chorobie Parkinsona - leki doustne zawierajace lewodope z inhibitorem dekarboksylazy
+169.0;Leki stosowane w chorobie Parkinsona - amantadyna
+17.0;Doustne leki przeciwcukrzycowe - inhibitory alfaglukozydazy - akarboza
+170.0;Leki stosowane w chorobie Parkinsona - agonisci receptorow dopaminowych
+171.0;Leki stosowane w chorobie Parkinsona - selegilina
+172.2;Leki przeciwpsychotyczne - chlorpromazyna do stosowania doustnego - plynne postacie farmaceutyczne
+173.1;Leki przeciwpsychotyczne - lewomepromazyna do stosowania doustnego
+173.2;Leki przeciwpsychotyczne - lewomepromazyna do stosowania pozajelitowego
+176.0;Leki przeciwpsychotyczne - perazyna
+177.1;Leki przeciwpsychotyczne - haloperydol do podawania doustnego - plynne postacie farmaceutyczne
+177.2;Leki przeciwpsychotyczne - haloperydol do podawania doustnego - stale postacie farmaceutyczne
+177.3;Leki przeciwpsychotyczne - haloperydol do podawania pozajelitowego
+178.1;Leki przeciwpsychotyczne - klozapina i sulpiryd do stosowania doustnego - stale postacie farmaceutyczne
+178.11;Leki przeciwpsychotyczne - amisulpiryd
+178.2;Leki przeciwpsychotyczne - olanzapina do stosowania doustnego - stale postacie farmaceutyczne
+178.3;Leki przeciwpsychotyczne - kwetiapina do stosowania doustnego - stale postacie farmaceutyczne
+178.4;Leki przeciwpsychotyczne - olanzapina do stosowania pozajelitowego - postacie o przedluzonym uwalnianiu
+178.5;Leki przeciwpsychotyczne - rysperydon do stosowania doustnego
+178.6;Leki przeciwpsychotyczne - rysperydon do stosowania pozajelitowego - postacie o przedluzonym uwalnianiu
+178.7;Leki przeciwpsychotyczne - aripiprazol
+178.8;Leki przeciwpsychotyczne - sertindol
+178.9;Leki przeciwpsychotyczne - zyprasydon
+179.1;Leki przeciwpsychotyczne - flupentyksol do podawania doustnego - stale postacie farmaceutyczne
+179.2;Leki przeciwpsychotyczne - flupentyksol do podawania pozajelitowego
+179.3;Leki przeciwpsychotyczne - chlorprotyksen do podawania doustnego - stale postacie farmaceutyczne
+179.4;Leki przeciwpsychotyczne - zuklopentyksol do podawania doustnego - stale postacie farmaceutyczne
+179.5;Leki przeciwpsychotyczne - zuklopentyksol do podawania pozajelitowego
+18.1;Witamina D i jej analogi - alfakalcydol
+18.2;Witamina D i jej metabolity - colekalcyferol i kalcyfediol
+180.0;Leki przeciwpsychotyczne - Lit do podawania doustnego w postaci weglanu
+181.1;Leki przeciwlekowe - diazepam do podawania doodbytniczego (wlewki )
+181.2;Leki przeciwlekowe - diazepam do podawania doustnego
+182.0;Leki przeciwlekowe - buspiron
+183.0;Leki przeciwdepresyjne - trojpierscieniowe
+184.0;Leki przeciwdepresyjne - inhibitory wychwytu zwrotnego serotoniny
+185.0;Leki psychoanaleptyczne - metylfenidat
+185.1;Leki psychoanaleptyczne - atomoksetyna
+186.0;Leki psychoanaleptyczne - Inhibitory acetylocholinoesterazy stosowane w leczeniu choroby Alzheimera
+187.0;Leki przeciwdepresyjne - inne
+188.0;Leki parasympatykomimetyczne - bromek pirydostygminy
+189.0;Leki parasympatykomimetyczne - ambemonium
+19.0;Witaminy - nikotynamid
+191.0;Leki stosowane w leczeniu stwardnienia zanikowego-bocznego - riluzol
+192.0;Leki przeciwmalaryczne - chlorochina
+194.1;Leki przeciwrobacze - mebendazol
+194.2;Leki przeciwrobacze - pyrantel - stale postacie farmaceutyczne
+194.3;Leki przeciwrobacze - pyrantel - plynne postacie farmaceutyczne
+196.0;Kortykosteroidy do stosowania do nosa
+197.1;Wziewne leki beta-2-adrenergiczne o krotkim dzialaniu
+197.2;Doustne leki beta-2-mimetyczne o krotkim dzialaniu, przeznaczone do stosowania w leczeniu chorob ukladu oddechowego
+198.0;Wziewne leki beta-2-adrenergiczne o dlugim dzialaniu - produkty jednoskladnikowe
+199.1;Wziewne leki beta-2-adrenergiczne o dlugim dzialaniu - produkty zlozone z kortykosteroidami w niskich dawkach
+199.2;Wziewne leki beta-2-adrenergiczne o dlugim dzialaniu - produkty zlozone z kortykosteroidami w srednich dawkach
+199.3;Wziewne leki beta-2-adrenergiczne o dlugim dzialaniu - produkty zlozone z kortykosteroidami w wysokich dawkach
+2.0;Inhibitory pompy protonowej - stosowane doustnie
+20.0;Produkty do doustnej suplementacji potasu
+200.1;Wziewne kortykosteroidy - produkty jednoskladnikowe - proszki i aerozole
+200.2;Wziewne kortykosteroidy - produkty jednoskladnikowe - postacie plynne do nebulizacji w niskich dawkach
+200.3;Wziewne kortykosteroidy - produkty jednoskladnikowe - postacie plynne do nebulizacji w srednich dawkach
+200.4;Wziewne kortykosteroidy - produkty jednoskladnikowe - postacie plynne do nebulizacji w wysokich dawkach
+201.1;Wziewne leki antycholinergiczne o krotkim dzialaniu - produkty jednoskladnikowe i zlozone z lekami beta-2-adrenergicznymi o krotkim dzialaniu
+201.2;Wziewne leki antycholinergiczne o dlugim dzialaniu - produkty jednoskladnikowe
+202.0;Wziewne kromony
+203.0;Inne leki doustne stosowane w obturacyjnych chorobach drog oddechowych - teofilina - postacie o przedluzonym uwalnianiu
+204.0;Inne leki doustne stosowane w obturacyjnych chorobach drog oddechowych - antagonisci receptorow leukotrienowych
+205.1;Leki mukolityczne - karbocysteina
+205.2;Leki mukolityczne - dornaza alfa
+206.1;Leki przeciwhistaminowe o dzialaniu przeciwwymiotnym - tietyloperazyna - postacie do podawania doodbytniczego
+206.2;Leki przeciwhistaminowe o dzialaniu przeciwwymiotnym - tietyloperazyna - postacie do podawania doustnego
+207.1;Leki przeciwhistaminowe do stosowania doustnego - stale postacie farmaceutyczne
+207.2;Leki przeciwhistaminowe do stosowania doustnego - plynne postacie farmaceutyczne
+208.0;Antybiotyki aminoglikozydowe do stosowania do oczu
+209.0;Kortykosteroidy do stosowania do oczu - produkty jednoskladnikowe i zlozone
+21.0;Leki przeciwzakrzepowe z grupy antagonistow witaminy K
+210.0;Niesteroidowe leki przeciwzapalne do stosowania do oczu - diklofenak
+211.0;Leki przeciwjaskrowe - parasympatykomimetyki - pilokarpina
+212.2;Leki przeciwjaskrowe - inhibitory anhydrazy weglanowej do stosowania do oczu - produkty jednoskladnikowe i zlozone z lekami beta-adrenolitycznymi, leki alfaadrenergiczne do stosowania do oczu
+213.0;Leki przeciwjaskrowe - beta-adrenolityki do stosowania do oczu
+214.0;Leki przeciwjaskrowe - analogi prostaglandyn do stosowania do oczu - produkty jednoskladnikowe i zlozone
+214.1;Alergeny kurzu domowego - produkty do leczenia podstawowego
+214.2;Alergeny kurzu domowego - produkty do leczenia podtrzymujacego
+214.3;Alergeny pylkow roslin - produkty do leczenia podstawowego
+214.4;Alergeny pylkow roslin - produkty do leczenia podtrzymujacego
+214.5;Alergeny rozne mieszane - produkty do leczenia podstawowego
+214.6;Alergeny rozne mieszane - produkty do leczenia podtrzymujacego
+215.1;Kwas folinowy i jego sole - postacie do stosowania doustnego
+215.2;Kwas folinowy i jego sole - postacie do stosowania pozajelitowego
+218.1;Plyny i rozcieñczalniki do wstrzykiwañ - fizjologiczny roztwor chlorku sodu
+218.3;Plyny i rozcieñczalniki do wstrzykiwañ - woda do wstrzykiwañ
+22.0;Heparyny drobnoczasteczkowe i leki o dzialaniu heparyn drobnoczasteczkowych
+225.0;Leki przeciwdepresyjne - mianseryna
+226.0;Leki antycholinergiczne do stosowania do oczu
+227.0;Leki przeciwdepresyjne - inhibitory MAO -moklobemid
+23.1;Doustne leki przeciwplytkowe - klopidogrel
+23.2;Doustne leki przeciwplytkowe - tyklopidyna
+230.0;Leki przeciwnowotworowe antymetabolity - merkaptopuryna
+231.0;Leki stosowane w chorobach kosci - przeciwciala monoklonalne - denosumab
+233.0;Leki przeciwnowotworowe - leki alkilujace - chlorambucyl
+234.0;Leki przeciwnowotworowe - antymetabolity - analogi puryn - tioguanina
+235.0;Leki przeciwnowotworowe - leki alkilujace - melfalan
+236.0;Leki przeciwnowotworowe - leki alkilujace - busulfan
+237.0;Leki przeciwnowotworowe - antagonisci hormonow i leki zblizone - degareliks
+238.0;Inne leki dzialajace na uklad nerwowy - tetrabenazyna
+239.0;Leki chelatujace miedz - penicylamina
+24.1;Leki antyfibrynolityczne - kwas traneksamowy do stosowania pozajelitowego
+24.2;Leki antyfibrynolityczne - kwas traneksamowy do stosowania doustnego - postacie stale
+24.3;Leki antyfibrynolityczne - kwas traneksamowy do stosowania doustnego - postacie plynne
+240.0;Leki przeciwpratkowe - inne - etambutol
+241.0;Leki stosowane w dziedzicznym obrzeku naczynioruchowym - konestat alfa
+241.1;Leki stosowane w dziedzicznym obrzeku naczynioruchowym – ludzki inhibitor C1-esterazy
+242.0;Leki dzialajace na uklad nerwowy - pregabalina
+243.0;Leki przeciwpadaczkowe do stosowania doustnego - retygabina
+244.0;Leki przeciwpadaczkowe do stosowania doustnego – lakozamid
+25.0;Witamina K i inne leki hemostatyczne - fytomenadion
+26.0;Witamina B12 - cyjanokobalamina
+27.0;Kwas foliowy i pochodne - kwas foliowy
+28.0;Glikozydy naparstnicy
+3.1;Leki dzialajace ochronnie na sluzowke zoladka - sukralfat - stale postacie farmaceutyczne
+3.2;Leki dzialajace ochronnie na sluzowke zoladka - sukralfat - plynne postacie farmaceutyczne
+30.0;Leki przeciwarytmiczne klasy I C - propafenon
+31.0;Leki przeciwarytmiczne klasy III - amiodaron
+31.1;Inne leki kardiologiczne – iwabradyna
+32.0;Leki pobudzajace czynnosc serca - leki adrenergiczne i dopaminergiczne - epinefryna - do podawania pozajelitowego
+33.1;Leki rozszerzajace naczynia krwionosne - organiczne azotany - trojazotan glicerolu - do podawania doustnego
+33.2;Leki rozszerzajace naczynia krwionosne - organiczne azotany - trojazotan glicerolu - produkty o natychmiastowym dzialaniu
+34.1;Leki rozszerzajace naczynia krwionosne - organiczne azotany - dwuazotan i monoazotan izosorbidu do podawania doustnego - stale postacie farmaceutyczne
+35.0;Leki antyadrenergiczne dzialajace osrodkowo - klonidyna
+36.0;Leki moczopedne - tiazydowe i sulfonamidowe
+37.0;Leki moczopedne - petlowe
+38.0;Antagonisci aldosteronu - spironolakton
+39.0;Leki beta-adrenolityczne - nieselektywne - do stosowania doustnego
+40.0;Leki beta-adrenolityczne - selektywne - do stosowania doustnego
+41.0;Antagonisci wapnia - pochodne dihydropirydyny
+42.0;Antagonisci wapnia - pochodne fenyloalkiloaminy - werapamil
+43.0;Antagonisci wapnia - pochodne benzotiazepiny - diltiazem
+44.0;Inhibitory konwertazy angiotensyny - produkty jednoskladnikowe i zlozone
+45.0;Antagonisci angiotensyny II - produkty jednoskladnikowe i zlozone
+46.0;Leki wplywajace na gospodarke lipidowa - inhibitory reduktazy HMG-CoA
+47.0;Leki wplywajace na gospodarke lipidowa - fibraty
+48.0;Leki hamujace wchlanianie cholesterolu z przewodu pokarmowego
+49.0;Mikonazol w skojarzeniu z mazipredonem - do stosowania na skore
+50.0;Dermatologiczne leki przeciwgrzybicze do stosowania ogolnego - terbinafina
+51.0;Enzymy stosowane w oczyszczaniu ran
+52.0;Leki przeciwluszczycowe do stosowania ogolnego - psoraleny - metoksalen
+53.0;Leki przeciwluszczycowe do stosowania ogolnego - retynoidy - acytretyna
+55.0;Kortykosteroidy do stosowania na skore - o slabej i sredniej sile dzialania
+56.0;Kortykosteroidy do stosowania na skore - o duzej sile dzialania
+57.0;Leki antyseptyczne i dezynfekcyjne - pochodne chinoliny - chlorchinaldol
+59.0;Leki antyseptyczne i dezynfekcyjne do stosowania dopochwowego - pochodne imidazolu o dzialaniu przeciwgrzybiczym
+62.0;Leki ginekologiczne - inhibitory wydzielania prolaktyny - bromokryptyna
+63.0;Hormony plciowe - androgeny - testosteron
+65.1;Hormony plciowe - progestageny - progesteron stosowane doustnie i dopochwowo
+66.0;Hormony plciowe - progestageny - dienogest
+67.0;Hormony plciowe - progestageny - lynestrenol
+68.1;Leki hormonalne do podawania przezskornego, zawierajace estradiol lub estradiol w skojarzeniu z progestagenami
+68.2;Leki hormonalne do podawania doustnego, zawierajace estradiol lub estradiol w skojarzeniu z progestagenami
+69.0;Hormony plciowe - gonadotropiny i inne leki stymulujace owulacje
+69.1;Hormony plciowe - gonadotropiny 
+69.2;Leki stosowane w terapii hormonalnej – analogi hormonu uwalniajacego gonadotropine 
+7.1;Leki przeciwwymiotne - antagonisci receptora serotoninowego - postacie do podawania doustnego
+7.2;Leki przeciwwymiotne - antagonisci receptora serotoninowego - postacie do podawania doodbytniczego
+71.0;Hormony plciowe - antyandrogeny o budowie steroidowej
+72.0;Leki hormonalne do podawania doustnego, zawierajace cyproteron, etynyloestradiol, lewonorgestrel lub medroksyprogesteron
+73.0;Hormony plciowe - antygonadotropiny - danazol
+74.0;Leki urologiczne zmieniajace pH moczu - cytryniany do sporzadzania roztworu doustnego
+75.1;Leki urologiczne stosowane w nietrzymaniu moczu - oksybutynina
+75.2;Leki urologiczne stosowane w nietrzymaniu moczu - solifenacyna, tolterodyna
+76.0;Leki stosowane w leczeniu lagodnego przerostu gruczolu krokowego - blokujace receptory alfa-adrenergiczne
+77.0;Leki stosowane w leczeniu lagodnego przerostu gruczolu krokowego - inhibitory 5-alfa reduktazy
+78.1;Hormony przysadki i podwzgorza – antygonadotropiny uwalniajace hormony 
+78.2;Hormony przysadki i podwzgorza – doustne postacie farmaceutyczne desmopresyny
+79.0;Hormony przysadki i podwzgorza - inhibitory hormonu wzrostu
+79.1;Hormony przysadki i podwzgorza - inhibitory hormonu wzrostu - oktreotyd
+8.0;Leki przeciwwymiotne - inne - aprepitant
+80.0;Kortykosteroidy do stosowania ogolnego - mineralokortykoidy - fludrokortyzon
+81.1;Kortykosteroidy do stosowania ogolnego - glikokortykoidy do podawania pozajelitowego
+81.2;Kortykosteroidy do stosowania ogolnego - glikokortykoidy do podawania doustnego
+82.1;Kortykosteroidy do stosowania pozajelitowego - glikokortykoidy - metyloprednisolon
+82.2;Kortykosteroidy do stosowania pozajelitowego - glikokortykoidy - metyloprednisolon - postacie o przedluzonym uwalnianiu
+82.3;Kortykosteroidy do stosowania ogolnego - glikokortykoidy do podawania doustnego - metyloprednisolon
+82.4;Kortykosteroidy do stosowania ogolnego - glikokortykoidy do podawania doustnego - prednisolon
+82.5;Kortykosteroidy do stosowania ogolnego - glikokortykoidy do podawania doustnego - prednison
+82.6;Kortykosteroidy do stosowania ogolnego - glikokortykoidy do podawania doustnego - triamcynolon
+83.0;Hormony tarczycy - lewotyroksyna do stosowania doustnego
+85.0;Hormony trzustki - glukagon
+86.0;Leki wplywajace na gospodarke wapniowa - kalcytonina
+87.0;Antybiotyki tetracyklinowe - doksycyklina
+88.1;Penicyliny polsyntetyczne doustne - stale postacie farmaceutyczne
+88.2;Penicyliny polsyntetyczne doustne - plynne postacie farmaceutyczne
+88.3;Penicylina do stosowania doustnego - penicylina fenoksymetylowa - stale postacie farmaceutyczne
+88.4;Penicylina do stosowania doustnego - penicylina fenoksymetylowa - plynne postacie farmaceutyczne
+89.1;Penicyliny doustne z inhibitorami betalaktamaz - stale postacie farmaceutyczne
+89.2;Penicyliny doustne z inhibitorami betalaktamaz - plynne postacie farmaceutyczne
+89.6;Penicyliny polsyntetyczne doustne - kloksacylina
+9.0;Elektrolity do podawania doustnego
+90.1;Antybiotyki cefalosporynowe do stosowania pozajelitowego
+90.2;Antybiotyki cefalosporynowe do stosowania doustnego - stale postacie farmaceutyczne
+90.3;Antybiotyki cefalosporynowe do stosowania doustnego - plynne postacie farmaceutyczne
+217.1;Diety eliminacyjne mlekozastepcze poczatkowe przeznaczone dla niemowlat od urodzenia
+217.4;Diety eliminacyjne z MCT
+219.1;Paski diagnostyczne do oznaczania glukozy i cial ketonowych w moczu
+219.2;Paski diagnostyczne do oznaczania glukozy we krwi
+220.1;Opatrunki alginianowe i hydrowlokienne
+220.2;Opatrunki hydrokoloidowe
+220.4;Opatrunki poliuretanowe
+220.5;Opatrunki hydrozelowe
+220.8;Opatrunki z weglem aktywowanym
+220.9;Opatrunki kolagenowe
+216.1;Dieta eliminacyjna w fenyloketonurii skondensowana - przeznaczona dla niemowlat
+216.11;Dieta eliminacyjna w fenyloketonurii, skondensowana - przeznaczona dla pacjentow powyzej 8 r.z.
+216.12;Diety eliminacyjne w fenyloketonurii z dodatkowymi skladnikami energetycznymi (tluszcze i weglowodany), porcjowane - przeznaczone dla pacjentow powyzej 8 r.z
+216.3;Dieta eliminacyjna w fenyloketonurii nieskondensowana, z dlugolañcuchowymi kwasami tluszczowymi - przeznaczona dla niemowlat
+216.5;Dieta eliminacyjna w fenyloketonurii, skondensowana - przeznaczona dla pacjentow powyzej 15 r.z.
+216.6;Diety eliminacyjne w fenyloketonurii porcjowane, w postaci tabletek powlekanych – przeznaczone dla pacjentow powyzej 15 r.z.
+217.5;Dieta stosowana w mukowiscydozie
+217.3;Dieta peptydowa kompletna
+216.13;Dieta eliminacyjna w fenyloketonurii - przeznaczona dla dzieci i doroslych
+216.16;Dieta eliminacyjna w fenyloketonurii - przeznaczona dla dzieci i doroslych, w tym dla kobiet w ciazy
+216.2;Dieta eliminacyjna w fenyloketonurii - przeznaczona dla niemowlat i malych dzieci
+216.18;Diety eliminacyjne w fenyloketonurii przeznaczone do stosowania u kobiet w okresie prekoncepcji, podczas ciazy oraz w okresie laktacji
+217.8;Diety eliminacyjne mlekozastepcze - hydrolizaty bialek mleka
+216.10;Dieta eliminacyjna w fenyloketonurii zawierajaca wszystkie skladniki odzywcze, z dlugolañcuchowymi kwasami tluszczowymi - przeznaczona dla dzieci po ukoñczeniu 1 r.z.
+216.14;Diety eliminacyjne w fenyloketonurii skondensowane, porcjowane - przeznaczone dla pacjentow powyzej 8 r.z.
+216.15;Dieta eliminacyjna w fenyloketonurii z dodatkowymi skladnikami energetycznymi (tluszcze i weglowodany), porcjowana, w plynie - przeznaczona dla pacjentow powyzej 8 r.z.
+216.17;Dieta eliminacyjna w fenyloketonurii, porcjowana - przeznaczona dla pacjentow powyzej 8 r.z., w tym dla kobiet w ciazy
+216.19;Diety eliminacyjne w fenyloketonurii, skondensowane, porcjowane, w plynie, przeznaczone dla pacjentow powyzej 4 r.z., doroslych, w tym kobiet w ciazy
+216.20;Dieta eliminacyjna w fenyloketonurii gotowa do uzycia, w plynie, skondensowana, porcjowana zawierajaca DHA przeznaczona dla dzieci powyzej 3 r.z., mlodziezy, doroslych oraz kobiet w ciazy
+216.21;Dieta eliminacyjna w fenyloketonurii - skondensowany, porcjowany preparat w proszku, przeznaczony dla pacjentow powyzej 3 r. z., mlodziezy, doroslych w tym kobiet w ciazy
+216.4;Dieta eliminacyjna w fenyloketonurii nieskondensowana, z dlugolañcuchowymi kwasami tluszczowymi i prebiotykami - przeznaczona dla niemowlat i jako uzupelnienie diety u dzieci do 3 r.z.
+216.8;Dieta eliminacyjna w fenyloketonurii skondensowana - przeznaczona dla dzieci po ukoñczeniu 1 r.z.
+216.9;Diety eliminacyjne w fenyloketonurii nieskondensowane, porcjowane - przeznaczone dla dzieci w wieku od 1 do 10 r.z.
+220.10;Opatrunki przeciwbakteryjne zawierajace jony srebra pochlaniajace i zatrzymujace wysiek z rany
+220.11;Opatrunki w postaci pasty
+220.12;Opatrunki w postaci zelu
+220.3;Opatrunki regulujace poziom wilgotnosci rany z dodatkami
+220.6;Opatrunki regulujace poziom wilgotnosci rany
+220.7;Opatrunki przeciwbakteryjne zawierajace jony srebra
+220.13;Opatrunki przeciwbakteryjne zawierajace nanokrystaliczne srebro
+217.6;Dieta eliminacyjna mlekozastepcza - mieszanka elementarna dla niemowlat i dzieci
+217.7;Dieta eliminacyjna mlekozastepcza - mieszanka elementarna dla niemowlat
+217.9;Dieta eliminacyjna mlekozastepcza - mieszanka elementarna dla dzieci > 1 r.z.
+220.14;Opatrunki przeciwbakteryjne zawierajace jony srebra regulujace poziom wilgotnosci rany

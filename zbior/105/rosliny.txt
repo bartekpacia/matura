@@ -1,0 +1,256 @@
+Id_rosliny;Nazwa;Cena;Kolor_kwiatow;Okres_kwitnienia;Rozmiary_doniczki
+54;Aconitum napellus;5;ciemno-niebieskie;IX-X;13x13x13
+55;Aconitum napellus  Album ;8;biale;VII;13x13x13
+58;Adonis vernalis;30;zolte;VI-IX;13x13x13
+62;Artemisia vulgaris  Oriental Limelight ;4;szare;VII-IX;9x9x9
+64;Anemone japonica  Prinz Heinrich ;5;rozowe;VII-IX;9x9x9
+65;Anemone japonica  Wirbelwind ;10;biale;VII-IX;11x11x11
+71;Anemone nemorosa  Rosea ;5;rozowe;III-IV;9x9x9
+73;Asphodeline lutea;8;zolte;VI;9x9x12
+74;Aster pyrenaeus  Lutetia ;5;niebieskie;VII-IX;9x9x9
+75;Aster speciosus   Connecticut ;6;biale;IX-X;9x9x9
+76;Aster macrophyllus;5;biale;VII-IX;9x9x9
+77;Aster  Alma Potschke ;5;karminowe;VII-X;11x11x11
+79;Anemone canadense;5;biale;VIII-X;9x9x9
+86;Aruncus dioicus;5;biale;VI-VII;9x9x9
+87;Aquilegia vulgaris  Variegata ;6;niebiesko-kremowe;VI;9x9x9
+89;Brunnera macrophylla;5;niebieskie;IV-V;9x9x12
+90;Brunnera macrophylla  Langrest ;7;niebieskie;IV-V;9x9x12
+91;Brunnera macrophylla  Hadspen Cream ;9;niebieskie;IV-V;9x9x12
+93;Campanula Takesimana hybr.  Elizabeth ;5;biale;VI-VII;9x9x9
+98;Chelone obiqua  Alba ;7;biale;VI;9x9x9
+115;Anemone nemorosa  Virescens ;10;zielone;III-IV;9x9x9
+118;Aster lateriflorus  Lady in Black ;7;bialo-rozowe;VII-X;11x11x11
+120;Brunnera macrophylla  Betty Bowring ;15;biale;IV-V;11x11x11
+121;Brunnera macrophylla  Silver Wings ;12;niebieskie;IV-V;9x9x12
+122;Brunnera macrophylla  Jack Frost ;8;niebieskie;IV-V;11x11x11
+124;Campanula punctata  Wedding Bells ;7;liliowe;VI;9x9x9
+128;Filipendula ulmaria  Aurea ;8;kremowe;VI;9x9x9
+130;Heliopsis helianthoides  Loraine Sunshine ;8;zolte;VI;9x9x12
+134;Hypericum cerastio moserianum TRICOLOR;15;zolte;VI;11x11x11
+135;Oenothera fruticosa  Fruhlingsgold ;6;zolte;IV-V;9x9x9
+136;Ompholodes cappadocica x hybr  Starry Eyes ;10;niebieskie;IV-V;9x9x9
+137;Persicaria iicrocephala  RED DRAGON ;6;fioletowe;VI-VII;9x9x12
+141;Tradescentia x andersoniana x hybr  Sweet Kate ;8;niebieskie;VI-VIII;9x9x9
+142;Pulmonaria Rospberry Splash;7;rozowe;IV;9x9x12
+143;Viola odorata Plena;6;niebieskie;IV-V;9x9x9
+144;Viola japonica;5;niebieskie;IV;9x9x9
+146;Yucca filamentosa  Bright Edge ;20;biale;VI-VII;10x10x20
+148;Eupatorium vugosum  Chocolate ;8;kremowe;VI-VII;11x11x11
+161;Geranium macrorrhizum  Variegata ;7;rozowe;VI;11x11x11
+162;Geranium phaeum  Sambor ;6;rozowe;V-VI;9x9x12
+217;Hylomecon japonica;5;zolte;V-VI;9x9x9
+218;Iris sibirica;5;fioletowe;IV-VI;9x9x12
+230;Maclyeaya cordata;6;kremowe;VII;11x11x11
+231;Mentha sueveolens  Variegata ;4;biale;VI;9x9x9
+233;Oenothera tetragona  Fyrverkeri ;4;zolte;V-VIII;9x9x9
+235;Origanum vulgare  Aureum ;5;kremowe;VI;9x9x9
+236;Penstemon barbatus;5;czerwone;VII-IX;13x13x13
+237;Penstemon digitalis  Husker Red Strain ;5;kremowe;VI-VIII;11x11x11
+241;Phlox paniculata  Joice ;7;rozowe;VI-VII;9x9x12
+242;Polygonatum falcatum  Variegata ;7;biale;V;9x9x9
+246;Pulmonaria albocorolata  Alba ;5;biale;IV-V;13x13x13
+249;Physostegia virginiana  Variegata ;6;rozowe;VII-VIII;9x9x9
+250;Physostegia virginiana  Bouquet Rose ;4;rozowe;VI-VII;9x9x9
+251;Physostegia virginiana  Summersnow ;4;biale;VI-VII;9x9x9
+253;Ruta graveolens  Variegata ;5;zolte;V-VII;9x9x12
+254;Salvia sclarea;5;liliowe;VII-VIII;9x9x9
+255;Scrophularia auriculata   variegata ;8;buraczkowe;VI;11x11x11
+258;Sedum spectabile  Matrona ;5;rozowe;VIII-IX;9x9x12
+259;Sedum  Aizon ;5;zolte;VIII-X;9x9x9
+261;Sedum  Frosty Morn ;7;rozowe;VI-VII;9x9x12
+263;Stahys grandiflora  Superba ;6;niebiesko-fioletowe;V-VI;9x9x9
+265;Symphytum grandiflorum  Goldsmith ;5;bialo-liliowe;IV-V;11x11x11
+266;Tanacetum vulgare  Crispum ;6;zolte;VII-IX;9x9x9
+267;Tradescentia x andersoniana  Blue Stone ;4;liliowe;V-IX;9x9x9
+268;Tradescentia x andersoniana  Karminglut ;4;karminowe;V-IX;9x9x9
+269;Tradescentia x andersoniana  Eva ;4;biale;V-IX;9x9x9
+272;Tricyrtis hirta  Variegata ;9;niebieskie;VIII-IX;9x9x9
+273;Tricyrtis hirta;8;niebieskie;VIII-IX;9x9x9
+274;Tricyrtis hirta  Alba ;8;biale;VIII-IX;9x9x9
+276;Coreopsis grandiflora  Calypso ;10;zolto-czerwone;VI;9x9x9
+278;Alium Senescens ssp. Montanum;5;liliowe;IV-V;9x9x9
+279;Aruncus aethusifolius;5;biale;VI-VII;9x9x9
+291;Dendranthema articum;5;biale;VII;9x9x9
+300;Gentiana acaulis;8;niebieskie;IV-V;9x9x9
+301;Gentiana sino ornata  Weisser Traum ;15;biale;VI;11x11x11
+302;Lewisia cotyledon;6;mix  kolorow;V-VII;9x9x9
+304;Lewisia longipetala - hybr.  Littre Plum ;6;rozowe;VI;9x9x9
+306;Ompholodes verna;5;niebieskie;IV-V;9x9x9
+310;Opuntia phaeacantha var. Camanchica  Langispina ;15;zolte;IV-VI;11x11x11
+314;Primula marginata;8;rozowe;IV;9x9x9
+315;Primula florindae;5;zolte;V-VI;9x9x9
+317;Primula sieboldii;5;mix  kolorow;IV-V;9x9x9
+318;Primula denticulata;4;mix  kolorow;IV-V;9x9x9
+319;Primula japonica;4;rozowo-czerwone;IV-V;13x13x13
+320;Primula japonica;10;rozowo-czerwone;IV-V;9x9x9
+321;Primula rosea;5;rozowe;IV-V;9x9x9
+322;Primula auricula;5;mix  kolorow;IV;9x9x9
+323;Prunella grandiflora;4;niebieskie;V-VI;9x9x9
+327;Rosularia pallida syn.R.chrysantha, Umbilicus chrysanthus;4;bialo-rozowe;V-VI;9x9x9
+328;Sempervivum;10;mix  kolorow;V-VI;9x9x9
+330;Saxifraga rotundifolia;4;biale;VI-VII;9x9x9
+331;Saxifraga cotyledon;4;bialo-czerwone;VI;9x9x9
+332;Soldanella carpatica;10;niebieskie;V;9x9x9
+333;Thymus pseudolanuginosus;4;niebieskie;VI;9x9x9
+336;Viola labradorica  Purpurea ;4;niebieskie;IV-VI;9x9x9
+338;Viola japonica  Variegata ;5;niebieskie;IV;9x9x9
+339;Viola koreana;5;niebieskie;IV;9x9x9
+340;Viola;4;niebieskie;IV;9x9x9
+343;Carex Comans;5;szare;VII;9x9x9
+344;Carex buchananii;5;szare;VII;9x9x9
+345;Carex siderostycha  Variegata ;5;szare;VII;9x9x9
+346;Carex muskingumensis;5;szare;VII;9x9x12
+347;Carex muskingumensis  Variegata ;6;szare;VII;9x9x12
+349;Miscanthus sinensis  Giganteus ;10;szare;XI;13x13x13
+350;Miscanthus sinensis  Zebrinus ;10;szare;XI;10x10x20
+351;Miscanthus sinensis  Gracillimus ;10;szare;XI;11x11x11
+352;Miscanthus sinensis  Variegatus ;10;szare;XI;10x10x20
+354;Molinia caerulea  Variegata ;6;szare;VII-VIII;9x9x9
+355;Penisetum compressum;10;szare;IX-X;10x10x20
+356;Penisetum alopecuroides  Little Bunny ;7;szare;VII;9x9x9
+357;Panicum virgatum  Rotstrahlbusch ;10;czerwone;VII-VIII;9x9x12
+358;Spartina pecfinata Aureomarginata;8;szare;IX-X;11x11x11
+398;Geranium x himalayense;12;kobaltowe;VI;11x11x11
+399;Iris x versicolor Dark Aura;9;niebieskie;IV-V;9x9x12
+400;Ligularia tussilaginea Aureomaculatum;15;zolte;VI-IX;11x11x11
+405;Tricyrtis Lightning Strike;12;biale;VIII-IX;9x9x9
+417;Reynoutria sachalinensis;12;biale;VI;11x11x11
+418;Rudbeckia fulgida Goldsturm;5;zolte;VI-VIII;9x9x9
+422;Miscanthus sinensis purpurea;12;buraczkowe;IX-X;13x13x13
+426;Arabis ferdinandi-coburgi Variegata;4;biale;V;9x9x9
+428;Delosperma cooperi;5;karminowe;V-IX;9x9x9
+434;Hibiscus x moscheutos Vintage Splash Pinot Grigo;15;karminowe;VII;10x10x20
+435;Hibiscus Ketmia Mouscheutos Alba;15;biale;VII;10x10x20
+442;Brunnera Dawson White;30;niebieskie;IV-V;11x11x11
+443;Rudbeckia lacinata Goldquelle;9;zolte;VI;9x9x12
+444;Oenothera speciosa  Siskoyuâ ;5;rozowe;V-VI;9x9x9
+447;Pulmonaria Cooton Cool;10;rozowe;IV;9x9x12
+448;Polemonium  Stairway to Heaven ;15;kremowe;V;9x9x12
+457;Iris sibirica Kaboom;60;fioletowe;IV-V;9x9x12
+459;Staphyllea pinnata;30;biale;V-VI;13x13x13
+480;Aster  Golden Sunshine ;9;zolte;VII;9x9x12
+481;Campanula pyramidalis;8;biale;VII-VIII;11x11x11
+483;Pulmonaria longifolia;7;niebiesko-czerwone;IV-V;9x9x12
+489;Gentiana sino-ornata;10;niebieskie;VI;11x11x11
+490;Origanum  Bristol Cross ;6;rozowe;IV-V;9x9x9
+491;Podophyllum hexandrum;15;rozowe;IV;9x9x12
+494;Symphytum x uplandicum  Allgold ;8;biskupie;IV-V;9x9x12
+496;Aster dumosus  Jenny ;5;karminowe;V-IX;9x9x9
+497;Aster pringlei;6;biale;VII-X;9x9x12
+504;Campanula carpatica  Clips Blue ;4;niebieskie;VI-IX;9x9x9
+505;Campanula carpatica  Pearl White ;4;biale;VI-IX;9x9x9
+511;Campanula  Samantha ;8;niebiesko-fioletowe;VI-VII;9x9x9
+527;Rudbeckia nitida  Herbstsonne ;6;zolte;VI-VII;9x9x12
+536;Tellima grandiflora;4;zielone;V-VI;9x9x9
+538;Trollius chinensis ledebourrii  Goldkonigin ;5;pomaranczowe;VII-VIII;9x9x9
+543;Vinca major Elegantissima;5;niebieskie;IV-V;9x9x9
+547;Phlox paniculata  White Flame ;6;biale;VI;9x9x9
+548;Phlox paniculata  Purple Flame ;6;rozowe;VI;9x9x9
+549;Phlox paniculata  Pink Flame ;6;rozowe;VI;9x9x9
+550;Phlox paniculata  Lilac Flame ;6;rozowe;VI;9x9x9
+551;Phlox paniculata  Light Pink Flame ;6;rozowe;VI;9x9x9
+553;Campanula;10;rozowe;VI;9x9x9
+554;Achillea ptarmica The Pearl;6;biale;V;11x11x11
+555;Rodgersia podophylla;10;kremowe;V-VI;11x11x11
+557;Vinca minor  Imagine ;5;niebieskie;IV;9x9x9
+558;Meehania utriculata;5;niebieskie;IV;9x9x9
+559;Astilbe japonica Koln;12;rozowe;VI-VII;9x9x12
+560;Campanula persicifolia Coronata;7;niebieskie;VI-VII;9x9x9
+562;Calamintha grandiflora hybrida;10;rozowo-fioletowe;V-VI;11x11x11
+563;Corydalis flexuosa;9;niebieskie;V-VI;11x11x11
+564;Echinacea purpurea Pink Double Delight;10;rozowe;VI-VII;9x9x12
+565;Morina longifolia;9;bialo-rozowe;VI-VIII;9x9x12
+566;Persicaria virginiana Painters Palette;10;biale;VI-VII;11x11x11
+567;Oneothera speciosa Twilight;7;rozowe;V-VI;9x9x9
+568;Hepatica nobilis Rubra Plena;50;rozowe;IV;9x9x12
+571;Digitalis Lutea;8;zolte;VI;11x11x11
+572;Gailardia x grandiflora Fanfare;8;zolto-czerwone;VI;9x9x9
+573;Knautia macedonica Mentol Pastels;10;mix  kolorow;VII;11x11x11
+574;Liriope muscari Ingwersen;5;liliowe;VI;9x9x9
+575;Ophiopogon planiscapus Nigrescens;15;kremowe;V-VI;9x9x9
+576;Petasites jap. Giganteus;15;biale;III-IV;13x13x13
+577;Phlox stolonifera Rosea;6;rozowe;VI;9x9x9
+578;Pulmonaria rubra David Ward;12;czerwone;IV-V;9x9x12
+579;Tradescantia Satin Doll;7;biskupie;VI-VIII;9x9x9
+580;Geranium phaeum Springtime;10;fioletowe;V-VI;9x9x12
+583;Geranium sessiliflorum var. Nigricans;6;biale;IV-VI;11x11x11
+584;Lysimachia elethroides;6;biale;VII-VIII;11x11x11
+585;Achillea filipendula A. Eupatorum parke Variety;6;zolte;VIII-X;13x13x13
+586;Achillea millefolium Cerise Qunee;5;ciemno-wisniowe;VI-VIII;13x13x13
+587;Achillea millefolium Summer Pastels;4;mix  kolorow;VI-VIII;13x13x13
+588;Veronica spicata;4;niebieskie;V-VI;9x9x9
+590;Saxifraga x ubrium Aureo punctata;4;biale;VI;9x9x9
+593;Panicum virgatum Heavy Metal;10;szare;VII-VIII;9x9x12
+595;Anemone japonica Praecox;10;karminowe;VI-IX;9x9x9
+596;Santolina chamaecyparissus Yellow Buttons;5;zolte;IV-V;9x9x9
+598;Salvia nemorosa;5;mix  kolorow;VI-VII;11x11x11
+600;Aubrieta  cultorum;4;niebieskie;IV;9x9x9
+602;Aubrieta cultorum;3;mix  kolorow;IV;9x9x9
+603;Hieracium aurantiacum;5;pomaranczowe;V-VII;9x9x9
+604;Phlox subulata;4;rozowo-czerwone;IV;9x9x9
+605;Phlox subulata;4;niebieskie;IV;9x9x9
+606;Phlox  subulata;3;mix  kolorow;IV;9x9x9
+607;Ramonda mycconi;22;niebieskie;IV-V;11x11x11
+608;Saxifraga Velvet;12;biale;VI;9x9x9
+609;Viola hybryda hederacea Columbine;5;niebiesko-biale;IV-VI;11x11x11
+610;Petasites jap. Variegata;15;kremowe;III-IV;11x11x11
+612;Veronica spicata Red Fox;7;rozowo-czerwone;V-VI;11x11x11
+613;Leucanthemum x max Snow Lady;7;biale;VI-IX;9x9x12
+614;Bergenia Lunar Glow;10;rozowe;V-VI;9x9x12
+615;Brunnera macrophylla  Diane s Gold;18;niebieskie;V-VI;11x11x11
+616;Chaerophyllum hirsutum Roseum;8;rozowe;VI;11x11x11
+617;Cimicifuga Racemosa Brunette;29;rozowo-biale;VII-VIII;10x10x20
+618;Dicentra Gold Heart;8;czerwone;IV-V;9x9x12
+619;Echinacea Tangerine Dream;18;pomaranczowe;VI;9x9x12
+620;Echinacea Coral Reef;25;pomaranczowe;VI-VII;9x9x12
+621;Echinacea Harvest Moon;15;zolte;VII-IX;9x9x9
+622;Echinacea Pink poodle;25;rozowe;VI-VIII;9x9x12
+623;Eomecon caerulea;20;biale;V-VII;10x10x20
+624;Geranium hybriden Alan Mays;10;fioletowe;V-VI;9x9x12
+625;Helleborus Double Ladies;60;mix  kolorow;III-IV;10x10x20
+626;Heuchera Midnight Rose;15;kremowe;VI-VII;9x9x9
+627;Heuchera Sparkling Burgundy;15;kremowe;VI-VII;9x9x12
+628;Heucherella Alabama Sunrise;15;kremowe;VI;9x9x9
+629;Heucherella Golden Zebra;15;kremowe;VI-VII;9x9x9
+630;Heucherella Sweet Tea;15;kremowe;VI-VII;9x9x9
+631;Iris sibirica plena;50;mix  kolorow;IV-V;9x9x12
+633;Iris sibirica Dreaming Orange;8;biale;IV-VI;9x9x12
+634;Iris sibirica Kabluey;60;fioletowe;IV-VI;9x9x12
+635;Iris sibirica Neat Trick;40;fioletowe;IV-VI;9x9x12
+636;Iris sibirica Rigamarloe;60;rozowe;IV-VI;9x9x12
+637;Iris sibirica Shebang;60;rozowe;IV-VI;9x9x12
+638;Iris sibirica Silver Edge;7;fioletowe;IV-VI;9x9x12
+639;Kirengeshoma koreana;12;zolte;VI-IX;11x11x11
+640;Ligularia Osiris Fantasie;40;zolte;IX-X;9x9x12
+641;Monarda x hybrida;5;czerwone;VI-VIII;11x11x11
+642;Mukdenia Crimson Fans;18;biale;IV-V;9x9x12
+643;Ophiopogon japonica Variegata;15;kremowe;V-VI;9x9x9
+644;Opuntia Komans polyecantha;12;zolte;IV-VI;11x11x11
+645;Opuntia phaeacantha x hybr.  Rosea ;25;pomaranczowe;IV-VI;11x11x11
+646;Origanum;4;liliowe;VI;9x9x9
+647;Podophyllum peltatum;20;biale;IV-V;9x9x12
+648;Salvia pratensis;6;niebieskie;V;9x9x9
+649;Salvia pratensis;5;mix  kolorow;V;9x9x9
+650;Salvia pratensis Rose Rhapsody;7;rozowe;V;9x9x9
+651;Sanguinaria canadensis  Star ;150;biale;IV-VI;10x10x20
+652;Sedum x hybrida  Aizon ;12;zolte;VIII-X;9x9x12
+653;Solidago virgaurea x hybr. Variegata;9;zolte;VII;9x9x12
+655;Symphytum x uplandicum Axmister s Gold;15;bialo-liliowe;IV-V;10x10x20
+656;Symphytum x uplandicum Variegata;8;kremowe;V;11x11x11
+658;Tiarella x Mystic Miast;15;kremowe;VI;9x9x9
+659;Tradescentia x andersoniana x hybr  Aurea ;20;niebieskie;V-VII;9x9x9
+660;Tricyrtis hybriden Taiwan Adbane;10;niebieskie;VII;9x9x9
+661;Viola chaerophylloides Kaukako;7;rozowe;IV-V;9x9x9
+662;Viola odorata Aurea;20;fioletowe;III-IV;9x9x9
+663;Viola odorata Plena;15;biale;IV-V;9x9x9
+664;Ajuga reptans Burgundy Glow;5;niebiesko-fioletowe;VII;9x9x9
+665;Ajuga reptans Chocolate;4;niebiesko-fioletowe;VII;9x9x9
+666;Vinca major Elegantissima Variegata;5;niebieskie;IV-V;9x9x9
+667;Vinca minor;3;niebieskie;IV;9x9x9
+668;Anemone japonica  Crispa ;18;rozowe;VII-IX;9x9x9
+670;Panicum virgatum Shenandoah;10;czerwone;VII-VIII;9x9x12
+671;Carex conica x hybride Hime Kansuge;4;szare;VI;9x9x9
+672;Carex hachijoensis Evergold;4;szare;VI;9x9x9
+673;Echinacea Tomato Soup;12;czerwone;VI-VII;9x9x12
+674;Echinacea Black Beauty;6;czarne;VI;11x11x11

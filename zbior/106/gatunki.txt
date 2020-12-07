@@ -1,0 +1,222 @@
+ID_gatunku	nazwa_zwyczajowa	nazwa_lacinska
+1	alczyk	Alle alle
+2	alka	Alca torda
+3	batalion	Philomachus pugnax
+4	bazant	Phasianus colchicus
+5	bazant zlocisty	Chrysolophus pictus
+6	bak	Botaurus stellaris
+7	bernikla bialolica	Branta leucopsis
+8	bialorzytka	Oenanthe oenanthe
+9	biegus krzywodzioby	Calidris ferruginea
+10	biegus malutki	Calidris minuta
+11	biegus maly	Calidris temminckii
+12	biegus morski	Calidris maritima
+13	biegus plaskodzioby	Limicola falcinellus
+14	biegus rdzawy	Calidris canutus
+15	biegus zmienny	Calidris alpina
+16	bielaczek	Mergellus albellus
+17	bielik	Haliaeetus albicilla
+18	blotniak lakowy	Circus pygargus
+19	blotniak stawowy	Circus aeruginosus
+20	blotniak zbozowy	Circus cyaneus
+21	bocian bialy	Ciconia ciconia
+22	bocian czarny	Ciconia nigra
+23	bogatka	Parus major
+24	brodziec piskliwy	Actitis hypoleucos
+25	brodziec sniady	Tringa erythropus
+26	brzegowka	Riparia riparia
+27	brzeczka	Locustella luscinioides
+28	cierniowka	Sylvia communis
+29	cyraneczka	Anas crecca
+30	cyranka	Anas querquedula
+31	czajka	Vanellus vanellus
+32	czapla biala	Casmerodius albus (Egretta alba)
+33	czapla siwa	Ardea cinerea
+34	czarnoglowka	Parus montanus
+35	czarnowron	Corvus corone
+36	czeczotka	Carduelis flammea
+37	czernica	Aythya fuligula
+38	czubatka	Parus cristatus
+39	czyz	Carduelis spinus
+40	derkacz	Crex crex
+41	drozdzik	Turdus iliacus
+42	drzemlik	Falco columbarius
+43	dymowka	Hirundo rustica
+44	dzieciol czarny	Dryocopus martius
+45	dzieciol duzy	Dendrocopos major
+46	dzieciol sredni	Dendrocopos medius
+47	dzieciol zielonosiwy	Picus canus
+48	dzieciol zielony	Picus viridis
+49	dzieciolek	Dendrocopos minor
+50	dziwonia	Carpodacus erythrinus
+51	dzwoniec	Carduelis chloris
+52	edredon	Somateria mollissima
+53	gajowka	Sylvia borin
+54	gawron	Corvus frugilegus
+55	gagol	Bucephala clangula
+56	gasiorek	Lanius collurio
+57	gegawa	Anser anser
+58	ges bialoczelna	Anser albifrons
+59	ges zbozowa	Anser fabalis
+60	gil	Pyrrhula pyrrhula
+61	glowienka	Aythya ferina
+62	golab miejski	Columba livia
+63	grubodziob	Coccothraustes coccothraustes
+64	grzywacz	Columba palumbus
+65	helmiatka	Netta rufina
+66	jarzebatka	Sylvia nisoria
+67	jastrzab	Accipiter gentilis
+68	jemioluszka	Bombycilla garrulus
+69	jer	Fringilla montifringilla
+70	jerzyk	Apus apus
+71	kamusznik	Arenaria interpres
+72	kania czarna	Milvus migrans
+73	kania ruda	Milvus milvus
+74	kapturka	Sylvia atricapilla
+75	karolinka	Aix sponsa
+76	kawka	Corvus monedula
+77	klaskawka	Saxicola rubicola
+78	kobczyk	Falco vespertinus
+79	kobuz	Falco subbuteo
+80	kokoszka	Gallinula chloropus
+81	kopciuszek	Phoenicurus ochruros
+82	kormoran	Phalacrocorax carbo
+83	kos	Turdus merula
+84	kowalik	Sitta europaea
+85	krakwa	Anas strepera
+86	kretoglow	Jynx torquilla
+87	krogulec	Accipiter nisus
+88	kropiatka	Porzana porzana
+89	kruk	Corvus corax
+90	krwawodziob	Tringa totanus
+91	krzyzodziob swierkowy	Loxia curvirostra
+92	krzyzowka	Anas platyrhynchos
+93	kszyk	Gallinago gallinago
+94	kukulka	Cuculus canorus
+95	kulczyk	Serinus serinus
+96	kulik wielki	Numenius arquata
+97	kuropatwa	Perdix perdix
+98	kwiczol	Turdus pilaris
+99	kwokacz	Tringa nebularia
+100	lerka	Lullula arborea
+101	lodowka	Clangula hyemalis
+102	labedz czarnodzioby	Cygnus columbianus
+103	labedz krzykliwy	Cygnus cygnus
+104	labedz niemy	Cygnus olor
+105	leczak	Tringa glareola
+106	lozowka	Acrocephalus palustris
+107	lyska	Fulica atra
+108	makolagwa	Carduelis cannabina
+109	markaczka	Melanitta nigra
+110	mazurek	Passer montanus
+111	mewa bialoglowa	Larus cachinnans
+112	mewa blada	Larus hyperboreus
+113	mewa czarnoglowa	Larus melanocephalus
+114	mewa mala	Larus minutus
+115	mewa siodlata	Larus marinus
+116	mewa siwa	Larus canus
+117	mewa srebrzysta	Larus argentatus
+118	mewa zoltonoga	Larus fuscus
+119	modraszka	Parus caeruleus
+120	mucholowka mala	Ficedula parva
+121	mucholowka szara	Muscicapa striata
+122	mucholowka zalobna	Ficedula hypoleuca
+123	mysikrolik	Regulus regulus
+124	myszolow	Buteo buteo
+125	myszolow wlochaty	Buteo lagopus
+126	nur czarnoszyi	Gavia arctica
+127	nur rdzawoszyi	Gavia stellata
+128	nurnik	Cepphus grylle
+129	nuroges	Mergus merganser
+130	nurzyk	Uria aalge
+131	ogorzalka	Aythya marila
+132	ohar	Tadorna tadorna
+133	oknowka	Delichon urbicum
+134	orlik krzykliwy	Aquila pomarina
+135	orzechowka	Nucifraga caryocatactes
+136	ostrygojad	Haematopus ostralegus
+137	paszkot	Turdus viscivorus
+138	pelzacz lesny	Certhia familiaris
+139	pelzacz ogrodowy	Certhia brachydactyla
+140	perkoz dwuczuby	Podiceps cristatus
+141	perkoz rdzawoszyi	Podiceps grisegena
+142	perkoz rogaty	Podiceps auritus
+143	perkozek	Tachybaptus ruficollis
+144	piaskowiec	Calidris alba
+145	piecuszek	Phylloscopus trochilus
+146	piegza	Sylvia curruca
+147	pierwiosnek	Phylloscopus collybita
+148	pleszka	Phoenicurus phoenicurus
+149	pliszka cytrynowa	Motacilla citreola
+150	pliszka gorska	Motacilla cinerea
+151	pliszka siwa	Motacilla alba
+152	pliszka zolta	Motacilla flava
+153	plaskonos	Anas clypeata
+154	platkonog szydlodzioby	Phalaropus lobatus
+155	poklaskwa	Saxicola rubetra
+156	pokrzywnica	Prunella modularis
+157	potrzeszcz	Miliaria calandra
+158	potrzos	Emberiza schoeniclus
+159	przepiorka	Coturnix coturnix
+160	pustulka	Falco tinnunculus
+161	puszczyk	Strix aluco
+162	raniuszek	Aegithalos caudatus
+163	remiz	Remiz pendulinus
+164	rokitniczka	Acrocephalus schoenobaenus
+165	rozeniec	Anas acuta
+166	rudzik	Erithacus rubecula
+167	rybitwa bialoczelna	Sterna albifrons
+168	rybitwa czarna	Chlidonias niger
+169	rybitwa czubata	Sterna sandvicensis
+170	rybitwa rzeczna	Sterna hirundo
+171	rybitwa wielkodzioba	Sterna caspia
+172	rybolow	Pandion haliaetus
+173	rzepoluch	Carduelis flavirostris
+174	samotnik	Tringa ochropus
+175	sierpowka	Streptopelia decaocto
+176	sieweczka obrozna	Charadrius hiaticula
+177	sieweczka rzeczna	Charadrius dubius
+178	siewka zlota	Pluvialis apricaria
+179	siewnica	Pluvialis squatarola
+180	sikora uboga	Parus palustris
+181	siniak	Columba oenas
+182	skowronek	Alauda arvensis
+183	slonka	Scolopax rusticola
+184	slowik szary	Luscinia luscinia
+185	sokol wedrowny	Falco peregrinus
+186	sosnowka	Parus ater
+187	sojka	Garrulus glandarius
+188	sroka	Pica pica
+189	srokosz	Lanius excubitor
+190	strumieniowka	Locustella fluviatilis
+191	strzyzyk	Troglodytes troglodytes
+192	szczygiel	Carduelis carduelis
+193	szlachar	Mergus serrator
+194	szlamnik	Limosa lapponica
+195	szpak	Sturnus vulgaris
+196	smieszka	Larus ridibundus
+197	sniegula	Plectrophenax nivalis
+198	spiewak	Turdus philomelos
+199	swiergotek drzewny	Anthus trivialis
+200	swiergotek lakowy	Anthus pratensis
+201	swiergotek nadmorski	Anthus petrosus
+202	swiergotek polny	Anthus campestris
+203	swiergotek rdzawogardly	Anthus cervinus
+204	swierszczak	Locustella naevia
+205	swistun	Anas penelope
+206	swistunka lesna	Phylloscopus sibilatrix
+207	trzciniak	Acrocephalus arundinaceus
+208	trzcinniczek	Acrocephalus scirpaceus
+209	trzmielojad	Pernis apivorus
+210	trznadel	Emberiza citrinella
+211	uhla	Melanitta fusca
+212	wasatka	Panurus biarmicus
+213	wilga	Oriolus oriolus
+214	wodnik	Rallus aquaticus
+215	wrona siwa	Corvus cornix
+216	wrobel	Passer domesticus
+217	zaganiacz	Hippolais icterina
+218	zieba	Fringilla coelebs
+219	zimorodek	Alcedo atthis
+220	zniczek	Regulus ignicapilla
+221	zuraw	Grus grus

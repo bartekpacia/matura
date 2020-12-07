@@ -1,0 +1,27 @@
+Id_badanie;Nazwa_badania;Cena_Badania
+Id_1;RTG kosci pietowej;30
+Id_10;RTG zeber;60
+Id_11;RTG obojczyka;50
+Id_12;RTG zatok;32
+Id_13;RTG stawu barkowego;50
+Id_14;RTG kosci nosa;30
+Id_15;RTG stawu mostkowo-obojczykowego;58
+Id_16;RTG stawu biodrowego;50
+Id_17;RTG kosci ramieniowej;30
+Id_18;RTG stawu skokowego;45
+Id_19;RTG stawu lokciowego;44
+Id_2;RTG kosci krzyzowej i ogonowej;32
+Id_20;RTG stawu kolanowego;40
+Id_21;RTG klatki piersiowej;30
+Id_22;RTG kosci podudzia;30
+Id_23;RTG palca (palcow) reki;38
+Id_24;RTG palca (palcow) stopy;40
+Id_25;RTG nadgarstka;40
+Id_26;RTG przedramienia;40
+Id_3;RTG kosci udowej;36
+Id_4;RTG kregoslupa piersiowego;56
+Id_5;RTG kregoslupa piersiowo-ledzwiowego;50
+Id_6;RTG kregoslupa ledzwiowo-krzyzowego;50
+Id_7;RTG kregoslupa szyjnego;40
+Id_8;RTG miednicy;58
+Id_9;RTG stopy;48

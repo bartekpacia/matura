@@ -1,0 +1,101 @@
+kod_kraju	kraj
+304	Francja
+338	Francja
+380	Bulgaria
+383	Slowenia
+385	Chorwacja
+387	Bosnia-Hercegowina
+400	Niemcy
+401	Niemcy
+402	Niemcy
+450	Japonia
+460	Federacja Rosyjska
+470	Kirgistan
+471	Taiwan
+474	Estonia
+475	Lotwa
+476	Azerbejdzan
+477	Litwa
+478	Uzbekistan
+479	Sri Lanka
+480	Filipiny
+481	Bialorus
+482	Ukraina
+484	Moldawia
+485	Armenia
+486	Gruzja
+487	Kazachstan
+489	Hong Kong
+490	Japonia
+500	Wielka Brytania
+520	Grecja
+528	Liban
+529	Cypr
+531	Macedonia
+535	Malta
+539	Irlandia
+541	Belgia
+560	Portugalia
+569	Islandia
+570	Dania
+590	Polska
+594	Rumunia
+599	Wegry
+600	Republika Poludniowej Afryki
+608	Bahrain
+609	Mauritius
+611	Maroko
+613	Algeria
+619	Tunezja
+621	Syria
+622	Egipt
+624	Libia
+625	Jordania
+626	Iran
+627	Kuwejt
+628	Arabia Saudyjska
+640	Finlandia
+690	Chiny
+700	Norwegia
+729	Izrael
+730	Szwecja
+740	Gwatemala
+741	Salwador
+742	Honduras
+743	Nikaragua
+744	Kostaryka
+745	Panama
+746	Dominikana
+750	Meksyk
+759	Wenezuela
+762	Szwajcaria
+763	Szwajcaria
+770	Kolumbia
+773	Urugwaj
+775	Peru
+777	Boliwia
+779	Argentyna
+780	Chile
+784	Paragwaj
+786	Ekwador
+789	Brazylia
+800	Wlochy
+841	Hiszpania
+850	Kuba
+858	Slowacja
+859	Czechy
+860	Jugoslawia
+867	Korea Polnocna
+869	Turcja
+870	Holandia
+880	Korea Poludniowa
+885	Tajlandia
+888	Singapur
+890	Indie
+893	Wietnam
+899	Indonezja
+900	Austria
+930	Australia
+940	Nowa Zelandia
+955	Malezja
+958	Makao

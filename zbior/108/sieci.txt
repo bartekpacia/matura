@@ -1,0 +1,11 @@
+id_sieci	nazwa_sieci
+1	Dobre Paliwo
+2	Standard Oil
+3	Czysta Nafta
+4	Green Fuel
+5	Nitrogaz
+6	Najpierw Ropa
+7	Petrochemia Centralna
+8	Dyskont paliwowy
+9	Szybka Stacja
+10	Blisko od szosy

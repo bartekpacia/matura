@@ -1,0 +1,31 @@
+ID_lokalizacji	lokalizacja	powiat	opis
+1	Cieplewo	gdanski	laka, w poblizu jezioro i teren podmokly
+2	Elblag	elblaski	miasto, obrzeza
+3	Elganowo	gdanski	na styku lasu i terenow rolniczych, laka
+4	Kielpino	kartuski	las lisciasty, nieduze jezioro
+5	Gorki Zachodnie	gdanski	las, plaza, brzeg zatoki
+6	Hel	pucki	plaza, brzeg zatoki
+7	Jezioro Zarnowieckie	pucki	jezioro, teren podmokly
+8	Kadyny	elblaski	plaza, brzeg zatoki, las
+9	Koscierzyna	koscierski	transekt przez miasto
+10	Krynica Morska	nowodworski	brzeg zatoki, okolice portu
+11	Lebork - Park Chrobrego	leborski	miasto, park w centrum
+12	Lisewo Malborskie	malborski	laka nad Wisla
+13	Lebno	wejherowski	laka, w poblizu jezioro i teren podmokly
+14	Male Swornegacie	chojnicki	jezioro
+15	Moscie Blota	pucki	laka, teren podmokly
+16	Gdansk - Park Oliwski	gdanski	miasto, park w centrum
+17	Jastarnia - plaza	pucki	plaza, brzeg zatoki
+18	Lubiatowo - plaza	wejherowski	plaza, brzeg morza
+19	Zeblewo	wejherowski	laka, teren podmokly
+20	Puck	pucki	laka, teren podmokly
+21	Rezerwat Beka	pucki	brzeg zatoki
+22	Rumia	wejherowski	miasto, park w centrum
+23	Tadzino	wejherowski	las, laka
+24	Ujscie Wisly Smialej, Sobieszewo	gdanski	brzeg zatoki
+25	Robakowo	wejherowski	laka, karmnik
+26	Luzino	wejherowski	laka, karmnik
+27	Wejherowo - park miejski	wejherowski	miasto, park w centrum
+28	Rewa	pucki	plaza, brzeg zatoki
+29	Starogard Gdanski	starogardzki	las, jezioro
+30	Kuznica	pucki	plaza, brzeg zatoki

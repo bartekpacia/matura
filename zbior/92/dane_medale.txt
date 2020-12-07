@@ -1,0 +1,139 @@
+Panstwo	Kontynent	OL_letnie	Zloty	Srebrny	Brazowy	OL_zimowe	Zloty	Srebrny	Brazowy
+Afganistan	Azja	13	0	0	2	0	0	0	0
+Algieria	Afryka	12	5	2	8	3	0	0	0
+Antyle Holenderskie	Ameryka Pld.	13	0	1	0	2	0	0	0
+Arabia Saudyjska	Azja	10	0	1	2	0	0	0	0
+Argentyna	Ameryka Pld.	23	18	24	28	18	0	0	0
+Armenia	Azja	5	1	2	9	6	0	0	0
+Australia	Australia i Oc.	25	138	153	177	18	5	3	4
+Austria	Europa	26	18	33	35	22	59	78	81
+Azerbejdzan	Azja	5	6	5	15	5	0	0	0
+Bahamy	Ameryka Pln.	15	5	2	5	0	0	0	0
+Bahrajn	Azja	8	0	0	1	0	0	0	0
+Barbados	Ameryka Pln.	11	0	0	1	0	0	0	0
+Belgia	Europa	25	37	52	53	20	1	1	3
+Bermudy	Ameryka Pln.	17	0	0	1	7	0	0	0
+Bialorus	Europa	5	12	24	40	6	6	4	5
+Botswana	Azja	9	0	1	0	0	0	0	0
+Brazylia	Ameryka Pld.	21	23	30	55	7	0	0	0
+Bulgaria	Europa	19	51	85	78	19	1	2	3
+Burundi	Afryka	5	1	0	0	0	0	0	0
+Chile	Ameryka Pld.	22	2	7	4	16	0	0	0
+Chiny	Azja	9	201	144	128	10	12	22	19
+Chorwacja	Europa	6	6	7	10	7	4	6	1
+Cypr	Europa	9	0	1	0	10	0	0	0
+Czarnogora	Europa	2	0	1	0	2	0	0	0
+Czechoslowacja	Europa	16	49	49	45	16	2	8	15
+Czechy	Europa	5	14	15	15	6	7	9	8
+Dania	Europa	26	43	68	68	13	0	1	0
+Dominikana	Ameryka Pln.	13	3	2	1	0	0	0	0
+Dzibuti	Afryka	7	0	0	1	0	0	0	0
+Egipt	Afryka	21	7	9	10	1	0	0	0
+Ekwador	Ameryka Pld.	13	1	1	0	0	0	0	0
+Erytrea	Afryka	4	0	0	1	0	0	0	0
+Estonia	Europa	11	9	9	15	9	4	2	1
+Etiopia	Afryka	12	21	7	17	2	0	0	0
+Filipiny	Azja	20	0	2	7	4	0	0	0
+Finlandia	Europa	24	101	84	117	22	42	62	56
+Francja	Europa	27	202	223	246	22	31	31	47
+Gabon	Afryka	9	0	1	0	0	0	0	0
+Ghana	Afryka	13	0	1	3	1	0	0	0
+Grecja	Europa	27	30	42	38	18	0	0	0
+Gruzja	Azja	5	6	5	14	6	0	0	0
+Gujana	Ameryka Pld.	16	0	0	1	0	0	0	0
+Haiti	Ameryka Pln.	14	0	1	1	0	0	0	0
+Hiszpania	Europa	22	37	59	35	19	1	0	1
+Holandia	Europa	25	77	85	104	20	37	38	35
+Hongkong	Azja	15	1	1	1	4	0	0	0
+Indie	Azja	23	9	6	11	9	0	0	0
+Indonezja	Azja	14	6	10	11	0	0	0	0
+Irak	Azja	13	0	0	1	0	0	0	0
+Iran	Azja	15	15	20	25	10	0	0	0
+Irlandia	Europa	20	9	8	11	6	0	0	0
+Islandia	Europa	19	0	2	2	17	0	0	0
+Izrael	Azja	15	1	1	5	6	0	0	0
+Jamajka	Ameryka Pln.	16	17	30	20	7	0	0	0
+Japonia	Azja	21	130	126	142	20	10	17	18
+Jugoslawia	Europa	18	28	31	31	16	0	3	1
+Kamerun	Afryka	13	3	1	1	1	0	0	0
+Kanada	Ameryka Pln.	25	59	99	120	22	62	55	53
+Katar	Azja	8	0	0	4	0	0	0	0
+Kazachstan	Azja	5	16	17	19	6	1	3	3
+Kenia	Afryka	13	25	32	29	3	0	0	0
+Kirgistan	Azja	5	0	1	2	6	0	0	0
+Kolumbia	Ameryka Pld.	18	2	6	11	1	0	0	0
+Korea Poludniowa	Azja	16	81	82	80	17	26	17	10
+Korea Polnocna	Azja	9	14	12	21	8	0	1	1
+Kostaryka	Ameryka Pln.	14	1	1	2	6	0	0	0
+Kuba	Ameryka Pln.	19	72	67	69	0	0	0	0
+Kuwejt	Azja	12	0	0	2	0	0	0	0
+Liban	Azja	16	0	2	2	16	0	0	0
+Liechtenstein	Europa	16	0	0	0	18	2	2	5
+Litwa	Europa	8	6	5	10	8	0	0	0
+Luksemburg	Europa	22	1	1	0	8	0	2	0
+Lotwa	Europa	10	3	11	5	10	0	4	3
+Macedonia	Europa	5	0	0	1	5	0	0	0
+Malezja	Azja	12	0	3	3	0	0	0	0
+Maroko	Afryka	13	6	5	11	6	0	0	0
+Mauritius	Afryka	8	0	0	1	0	0	0	0
+Meksyk	Ameryka Pln.	22	13	21	28	8	0	0	0
+Moldawia	Europa	5	0	2	5	6	0	0	0
+Mongolia	Azja	12	2	9	13	13	0	0	0
+Mozambik	Afryka	9	1	0	1	0	0	0	0
+Namibia	Afryka	6	0	4	0	0	0	0	0
+Niemcy	Europa	15	174	182	217	11	78	78	53
+RFN	Europa	5	56	67	81	7	11	15	13
+Wspolna Reprezentacja Niemiec	Europa	3	28	54	36	3	8	6	5
+NRD	Europa	5	153	129	127	6	39	36	35
+Niger	Afryka	11	0	0	1	0	0	0	0
+Nigeria	Afryka	15	3	8	12	0	0	0	0
+Norwegia	Europa	24	56	49	43	22	118	111	100
+Nowa Zelandia	Australia i Oc.	22	42	18	39	15	0	1	0
+Pakistan	Azja	16	3	3	4	2	0	0	0
+Panama	Ameryka Pld.	16	1	0	2	0	0	0	0
+Paragwaj	Ameryka Pld.	11	0	1	0	1	0	0	0
+Peru	Ameryka Pld.	17	1	3	0	2	0	0	0
+Polska	Europa	20	64	82	125	22	6	7	7
+Portoryko	Ameryka Pln.	17	0	2	6	6	0	0	0
+Portugalia	Europa	23	4	8	11	7	0	0	0
+Republika Poludniowej Afryki	Afryka	18	23	26	27	6	0	0	0
+Rosja	Europa	5	133	122	142	6	49	40	35
+Imperium Rosyjskie	Europa	3	1	4	3	0	0	0	0
+Rumunia	Europa	20	88	94	119	20	0	0	1
+Senegal	Afryka	13	0	1	0	5	0	0	0
+Serbia	Europa	3	1	2	4	2	0	0	0
+Serbia i Czarnogora	Europa	1	0	2	0	1	0	0	0
+Singapur	Azja	15	0	2	2	0	0	0	0
+Slowacja	Europa	5	7	9	8	6	2	2	1
+Slowenia	Europa	6	4	6	9	7	2	4	9
+Sri Lanka	Azja	16	0	2	0	0	0	0	0
+StanyZjednoczone	Ameryka Pln.	26	976	758	666	22	96	102	83
+Sudan	Afryka	11	0	1	0	0	0	0	0
+Surinam	Ameryka Pld.	11	1	0	1	0	0	0	0
+Syria	Azja	12	1	1	1	0	0	0	0
+Szwajcaria	Europa	27	47	73	65	22	50	40	48
+Szwecja	Europa	26	143	164	176	22	50	40	54
+Tadzykistan	Azja	5	0	1	2	4	0	0	0
+Tajlandia	Azja	15	7	6	11	3	0	0	0
+Tanzania	Afryka	12	0	2	0	0	0	0	0
+Togo	Afryka	9	0	0	1	1	0	0	0
+Tonga	Australia i Oc.	8	0	1	0	1	0	0	0
+Trynidad i Tobago	Ameryka Pln.	16	2	5	11	3	0	0	0
+Tunezja	Afryka	13	3	3	4	0	0	0	0
+Turcja	Azja	21	39	25	24	16	0	0	0
+Uganda	Afryka	14	2	3	2	0	0	0	0
+Ukraina	Europa	5	33	27	55	6	2	1	4
+Urugwaj	Ameryka Pld.	20	2	2	6	1	0	0	0
+Uzbekistan	Azja	5	5	5	10	6	1	0	0
+Wenezuela	Ameryka Pld.	17	2	2	8	4	0	0	0
+Wegry	Europa	25	167	144	165	22	0	2	4
+Wielka Brytania	Europa	27	236	272	272	22	10	4	12
+Wietnam	Azja	14	0	2	0	0	0	0	0
+Wlochy	Europa	26	198	166	185	22	37	34	43
+WNP	Europa	1	45	38	29	1	9	6	8
+Wybrzeze Kosci Sloniowej	Afryka	12	0	1	0	0	0	0	0
+Wyspy Dziewicze Stanow Zjednoczonych	Ameryka Pln.	11	0	1	0	7	0	0	0
+Zambia	Afryka	12	0	1	1	0	0	0	0
+Zimbabwe	Afryka	12	3	4	1	1	0	0	0
+Zjednoczone Emiraty Arabskie	Azja	8	1	0	0	0	0	0	0
+ZSRR	Europa	9	395	319	296	9	78	57	59

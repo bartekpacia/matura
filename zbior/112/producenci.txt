@@ -1,0 +1,47 @@
+kod_kraju	kod_oddzialu	lokalizacja	nazwa_firmy
+590	9020	Torun	Pacific
+541	9081	Temploux	Kraft-Foods
+590	9102	Krakow	Wawel
+859	9160	Praha, Karolinska	Kraft-Foods
+841	9172	Madryt	Kraft-Foods
+590	9238	Przezmierowo	Millano Baron
+590	9342	Bielsk Podlaski	Hoop
+590	9437	Gdansk	Dr.Oetker
+800	9500	Alba	Ferrero
+400	9508	Brema	Kraft-Foods
+590	9552	Zabierzow	Gellwe
+590	9597	Konstantowo	Bartnik
+590	9649	Ustron	Mokate
+590	9805	Grodzisk Wielkopolski	Hoop
+590	9915	Poznan	Terravita
+858	1040	Bratyslawa	Kraft-Foods
+590	1414	Skawina	Bahlsen
+900	1458	Linz	GoldPack
+900	1466	Rohrendorf	GoldPack
+590	1480	Jankowice	Kraft-Foods
+590	1597	Kutno	Hoop
+590	1677	Poznan	Millano Baron
+590	1806	Kleszczewo	Terravita
+762	2200	Zug	Kraft-Foods
+859	2231	Praha, Rohansky Ostrov	Kraft-Foods
+762	2300	Zurich	Kraft-Foods
+762	2400	Glattbrugg	Kraft-Foods
+590	2451	Radom	Vog - Kresto
+590	2978	Wadowice	Skawa
+590	3189	Cieszyn	Kraft-Foods
+541	3548	Arlon	Ferrero
+402	3600	Wadowice	Dr.Oetker
+859	3893	Antwerpia	Pacific
+859	4003	Brno	Hoop
+859	4033	Votice	Mokate
+304	5140	Velizy-Villacoublay	Kraft-Foods
+590	5187	Tarnowo Podgorne k.Poznania	Lorenz Snack World
+590	5408	Warszawa	Ferrero
+402	5700	Brema	Kraft-Foods
+401	7100	Hanower	Bahlsen
+338	7399	Evian-les-Bains	Pacific
+590	7678	Zyrardow	Box
+590	7799	Andrychow	Axpal
+401	8077	Neu Isenburg	Lorenz Snack World
+400	8400	Frankfurt nad Menem	Ferrero
+599	8711	Budapeszt	Kraft-Foods

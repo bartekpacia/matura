@@ -1,0 +1,61 @@
+Id_zajec;Obiekt;Zajecia;Koszt
+1;Redeco;Basen;9
+2;Redeco;Aqua-aerobik;10
+3;Redeco;Silownia;9
+4;Redeco;Aqua running;11
+5;Redeco;Fitness ABT;10
+6;Redeco;Fitness Shape;10
+7;Redeco;Basic Step;10
+8;Redeco;Body Ball;10
+9;Active;Zumba;10
+10;Active;Fitness ABT;10
+11;Active;Fitness TBC;10
+12;Active;Fitness Shape;10
+13;Active;Pilates;10
+14;Active;Joga;11
+15;Active;Dance Fit;11
+16;Active;Active Pump;11
+17;Active;Trening obwodowy;10
+18;Active;Silownia;9
+19;Bodyfit;Zumba;11
+20;Bodyfit;Fitness TBC;11
+21;Bodyfit;Silownia;9
+22;Bodyfit;Pilates;10
+23;Bodyfit;Indoor cycling;11
+24;Pure Jatomi;Fitness ABT;11
+25;Pure Jatomi;Fitness TBC;11
+26;Pure Jatomi;Fitness Shape;11
+27;Pure Jatomi;Joga;11
+28;Pure Jatomi;Zumba;11
+29;Pure Jatomi;Zdrowe plecy;11
+30;Pure Jatomi;Pilates;11
+31;Top-Gym;Fitness ABT;11
+32;Top-Gym;Fitness TBC;11
+33;Top-Gym;Fitness Shape;11
+34;Top-Gym;Joga;11
+35;Top-Gym;Zumba;11
+36;Top-Gym;Zdrowe plecy;10
+37;Top-Gym;Pilates;12
+38;Platinium Center;Fitness ABT;12
+39;Platinium Center;Fitness TBC;12
+40;Platinium Center;Fitness Shape;12
+41;Platinium Center;Zumba;12
+42;Platinium Center;Pilates;11
+43;Lady Fitness Club;Pilates;11
+44;Lady Fitness Club;Zdrowe plecy;11
+45;Lady Fitness Club;Indoor walking;11
+46;Lady Fitness Club;Joga;11
+47;Aqua Park;Aqua-aerobik;10
+48;Aqua Park;Basen;9
+49;Aqua Park;Zumba;11
+50;Aqua Park;Zdrowe plecy;10
+51;Aqua Park;Pilates;11
+52;Aqua Park;Indoor cycling;11
+53;Spartan;Silownia;9
+54;Spartan;Aqua-aerobik;10
+55;Spartan;Zumba;12
+56;Spartan;Fitness ABT;12
+57;Spartan;Fitness TBC;12
+58;Spartan;Fitness Shape;12
+59;Spartan;Pilates;12
+60;Spartan;Body Art;12
