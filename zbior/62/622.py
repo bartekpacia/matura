@@ -1,4 +1,4 @@
-with open("przyklad622.txt") as f:
+with open("liczby2.txt") as f:
   liczby2 = [int(l, 10) for l in f.readlines()]
 
 
