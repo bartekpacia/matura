@@ -4,8 +4,6 @@ with open("liczby1.txt") as f:
 with open("liczby2.txt") as f:
   liczby2 = [int(l, 10) for l in f.readlines()]
 
-print(len(liczby1), len(liczby2))
-
 same_value_in_same_rows = 0
 first_value_bigger = 0
 for i in range(len(liczby1)):

@@ -12,7 +12,9 @@ for i in range(len(liczby2)):
     if num < prev:
       # break the sequence
       break
+
     current_seq.append(num)
+    prev = num
   
   if len(current_seq) > len(longest_seq):
     longest_seq = current_seq
