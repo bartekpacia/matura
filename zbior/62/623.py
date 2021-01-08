@@ -1,7 +1,7 @@
-with open("przyklad623_1.txt") as f:
+with open("liczby1.txt") as f:
   liczby1 = [int(l, 8) for l in f.readlines()]
 
-with open("przyklad623_2.txt") as f:
+with open("liczby2.txt") as f:
   liczby2 = [int(l, 10) for l in f.readlines()]
 
 print(len(liczby1), len(liczby2))
