@@ -26,6 +26,10 @@ for line in file.readlines():
     i += 1
     continue
 
+  if len(fmt_line) != 20:
+    print("invalid length of a line!")
+    continue
+
   for char in fmt_line:
     if char == '1':
       ones += 1
