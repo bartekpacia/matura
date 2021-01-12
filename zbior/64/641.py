@@ -2,36 +2,34 @@ from typing import List
 
 file = open("dane_obrazki.txt", "r")
 
-max_zeros = 0
 zeros = 0
 ones = 0
-i = 0
+max_ones = 0
+img_index = 0
 
 rewersy = 0
-for line in file.readlines():
+for line_i, line in enumerate(file.readlines()):
   fmt_line = line.strip()[:-1]
 
   if fmt_line == "":
+    print(f"empty line at {line_i+1}")
     if ones > zeros:
-      print(f"{i} jest rewersem")
       rewersy += 1
-    else:
-      print(f"{i} NIE jest rewersem")
 
-    if zeros > max_zeros:
-      max_zeros = zeros
+    if ones > max_ones:
+      max_ones = ones
+      print(f"new max ones at line {line_i+1}")
 
     zeros = 0
     ones = 0
-    i += 1
+    img_index += 1
     continue
 
-  if len(fmt_line) != 20:
-    print("invalid length of a line!")
+  elif len(fmt_line) != 20:
     continue
 
   for char in fmt_line:
-    if char == '1':
+    if char == "1":
       ones += 1
     elif char == "0":
       zeros += 1
@@ -42,4 +40,4 @@ for line in file.readlines():
 file.close()
 
 print(f"liczba rewersów: {rewersy}")
-print(f"najwięcej czarnych pikseli: {max_zeros}")
+print(f"najwięcej czarnych pikseli: {max_ones}")
