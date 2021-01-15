@@ -49,6 +49,8 @@ for i, liczba1 in enumerate(liczby):
                 najdluzszy_ciag = obecny_ciag
                 break
 
+            obecny_ciag = []
+
 
 
 print(f"{len(najdluzszy_ciag)}, pierwszy: {najdluzszy_ciag[0]}")
