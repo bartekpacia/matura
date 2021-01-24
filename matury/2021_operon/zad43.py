@@ -37,9 +37,9 @@ def is_prime(num: int) -> bool:
 
 lucky_numbers = set(gen_lucky_numbers(10_000))
 
-lucky_count = 0
+both_prime_and_lucky = 0
 for liczba in liczby:
     if liczba in lucky_numbers and is_prime(liczba):
-        lucky_count += 1
+        both_prime_and_lucky += 1
 
-print(f"{lucky_count=}")
+print(f"{both_prime_and_lucky=}")

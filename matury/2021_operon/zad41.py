@@ -4,12 +4,12 @@ with open("dane.txt", "r") as f:
     liczby = [int(line) for line in f.readlines()]
 
 
-def remove(k: int, nums_list: List[int]):
-    i = k - 1  # Indeksacja od 0.
+def remove(remove_every_num: int, nums_list: List[int]):
+    i = remove_every_num - 1  # Indeksacja od 0.
 
     while i < len(nums_list):
         del nums_list[i]
-        i = i + (k - 1)
+        i = i + (remove_every_num - 1)
 
 
 def gen_lucky_numbers(high: int) -> List[int]:
