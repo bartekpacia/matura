@@ -32,9 +32,11 @@ def gen_triangle(n: int) -> List[List[int]]:
     return triangle
 
 
-def print_triangle(triangle: List[List[int]]):
+def print_triangle(triangle: List[List[int]], show_index: bool = False):
     for i, _ in enumerate(triangle):
-        print(f"row: {i + 1}", end="    ")
+        if show_index:
+            print(f"row: {i + 1}", end="    ")
+
         for j, _ in enumerate(triangle[i]):
             print(triangle[i][j], end=" ")
 
