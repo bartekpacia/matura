@@ -32,10 +32,17 @@ def gen_triangle(n: int) -> List[List[int]]:
     return triangle
 
 
-my_triangle = gen_triangle(10)
+my_triangle = gen_triangle(30)
+
+max_in_10 = max(my_triangle[9])
+max_in_20 = max(my_triangle[19])
+max_in_30 = max(my_triangle[29])
+
 for i, _ in enumerate(my_triangle):
     print(f"row: {i + 1}", end="    ")
     for j, _ in enumerate(my_triangle[i]):
         print(my_triangle[i][j], end=" ")
 
     print("")
+
+print(f"{max_in_10=}, {max_in_20=}, {max_in_30=}")
