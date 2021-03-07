@@ -1,15 +1,31 @@
-frac_min = None
+from typing import List, Tuple
+
+ulamki: List[Tuple[str, str, float]] = []
 
 with open("dane_ulamki.txt") as f:
     for line in f:
         sline = line.strip()
-        licznik, mianownik = map(int, sline.split())
+        licznik, mianownik = sline.split()
 
-        frac = licznik / mianownik
+        ulamek_wartosc = int(licznik) / int(mianownik)
 
-        if not frac_min:
-            frac_min = frac
+        ulamek = (licznik, mianownik, ulamek_wartosc)
+        ulamki.append(ulamek)
 
-        if frac < frac_min:
-            frac_min = frac
-            print(f"new min frac: {licznik} / {mianownik} = {frac}")
+ulamek_min = None
+for ulamek in ulamki:
+    if not ulamek_min:
+        ulamek_min = ulamek
+
+    min_mianownik = int(ulamek_min[1])
+    min_wartosc = ulamek_min[2]
+
+    mianownik = int(ulamek[1])
+    wartosc = ulamek[2]
+    if wartosc < min_wartosc:
+        ulamek_min = ulamek
+
+    if wartosc == min_wartosc and mianownik < min_mianownik:
+        ulamek_min = ulamek
+
+print(f"{ulamek_min=}")
