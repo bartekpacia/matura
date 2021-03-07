@@ -1,7 +1,5 @@
 # Folder z zadaniami z informatyki
 
-rzeczy z lekcji, rozwiązane matury, whatnotW
+Rzeczy z lekcji, rozwiązane matury, whatnot.
 
-### Znalazłem błąd! Co robić?
-
-Napisz do mnie albo zrób issue na GitHubie. Postaram się go jak najszybciej poprawić.
+Jeśli znajdziesz błąd, to zrób issue.
