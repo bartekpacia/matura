@@ -1,4 +1,4 @@
-from typing import List, Tuple
+from typing import Tuple
 
 from reader import read_data
 
@@ -31,6 +31,7 @@ def skroc(licz: int, mian: int) -> Tuple[int, int]:
 
 
 ulamki = read_data()
+# ulamki = [("1", "2"), ("2", "3"), ("5", "3"), ("2", "4"), ("15", "5")]
 
 suma_licznikow = 0
 for ulamek in ulamki:
