@@ -1,16 +1,6 @@
-from typing import List, Tuple
+from reader import read_data
 
-ulamki: List[Tuple[str, str, float]] = []
-
-with open("dane_ulamki.txt") as f:
-    for line in f:
-        sline = line.strip()
-        licznik, mianownik = sline.split()
-
-        ulamek_wartosc = int(licznik) / int(mianownik)
-
-        ulamek = (licznik, mianownik, ulamek_wartosc)
-        ulamki.append(ulamek)
+ulamki = read_data()
 
 ulamek_min = None
 for ulamek in ulamki:
