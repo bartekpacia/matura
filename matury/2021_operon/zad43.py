@@ -1,4 +1,4 @@
-from typing import List, Set
+from typing import List
 
 with open("dane.txt", "r") as f:
     liczby = [int(line) for line in f.readlines()]
@@ -26,6 +26,7 @@ def gen_lucky_numbers(high: int) -> List[int]:
 
         remove(remove_every_num, lucky_nums)
         i += 1
+
 
 def is_prime(num: int) -> bool:
     for i in range(2, (num // 2) + 1):

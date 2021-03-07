@@ -1,4 +1,4 @@
-from typing import List, Set
+from typing import List
 
 with open("dane.txt", "r") as f:
     liczby = [int(line) for line in f.readlines()]
@@ -50,7 +50,5 @@ for i, liczba1 in enumerate(liczby):
                 break
 
             obecny_ciag = []
-
-
 
 print(f"{len(najdluzszy_ciag)}, pierwszy: {najdluzszy_ciag[0]}")

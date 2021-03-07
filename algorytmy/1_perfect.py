@@ -1,10 +1,11 @@
 def is_perfect(num: int) -> bool:
-  divisors = []
-  for i in range(1, num):
-    if num % i == 0:
-      divisors.append(i)
+    divisors = []
+    for i in range(1, num):
+        if num % i == 0:
+            divisors.append(i)
 
-  return sum(divisors) == num
+    return sum(divisors) == num
+
 
 print(f"{is_perfect(0)=}")
 print(f"{is_perfect(1)=}")

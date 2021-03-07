@@ -1,4 +1,4 @@
-from typing import List, Set
+from typing import List
 
 with open("dane.txt", "r") as f:
     liczby = [int(line) for line in f.readlines()]

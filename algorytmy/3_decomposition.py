@@ -1,15 +1,15 @@
 def decompose(num: int) -> []:
-  factors = []
-  k = 2
+    factors = []
+    k = 2
 
-  while num > 1:
-    while num % k == 0:
-      factors.append(k)
-      num = num // k
+    while num > 1:
+        while num % k == 0:
+            factors.append(k)
+            num = num // k
 
-    k = k + 1
+        k = k + 1
 
-  return factors
+    return factors
 
 
 print(f"{decompose(2)=}")

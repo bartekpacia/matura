@@ -1,21 +1,22 @@
 # moje rozwiązanie
 def firstEven(arr):
-  left = 0
-  right = len(arr) - 1
+    left = 0
+    right = len(arr) - 1
 
-  mid = -1
-  candidate = None
-  while left <= right:
-    mid = (left + right) // 2
-    if arr[mid] % 2 == 0:  # parzysta
-      candidate = arr[mid]
-      right = mid - 1
-    elif arr[mid] % 2 == 1:  # nieparzysta
-      left = mid + 1
-    elif left == right:
-      candidate = arr[left]
+    mid = -1
+    candidate = None
+    while left <= right:
+        mid = (left + right) // 2
+        if arr[mid] % 2 == 0:  # parzysta
+            candidate = arr[mid]
+            right = mid - 1
+        elif arr[mid] % 2 == 1:  # nieparzysta
+            left = mid + 1
+        elif left == right:
+            candidate = arr[left]
 
-  return candidate
+    return candidate
+
 
 """
 # rozwiązanie z karty odpowiedzi

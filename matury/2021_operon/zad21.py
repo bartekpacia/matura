@@ -1,16 +1,17 @@
 def fibonacci(k: int) -> int:
-  if k < 3:
-    return 1
-  else:
-    return (fibonacci(k - 1) + fibonacci(k - 2) % 26)
+    if k < 3:
+        return 1
+    else:
+        return (fibonacci(k - 1) + fibonacci(k - 2) % 26)
+
 
 def szyfruj(s: str) -> str:
-  szyfr = [0] * len(s)
+    szyfr = [0] * len(s)
 
-  for i, _ in enumerate(s):
-    szyfr[i] = chr(65 + (ord(s[i]) - 65 + fibonacci(i)) % 26)
+    for i, _ in enumerate(s):
+        szyfr[i] = chr(65 + (ord(s[i]) - 65 + fibonacci(i)) % 26)
 
-  return "".join(szyfr)
+    return "".join(szyfr)
 
 
 print(szyfruj("JANKOWALSKIPOZDRAWIA"))

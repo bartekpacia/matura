@@ -84,7 +84,6 @@ for line in file.readlines():
 
 file.close()
 
-
 print(f"poprawne obrazki: {valid_imgs}")
 print(f"naprawialne obrazki: {repairable_imgs}")
 print(f"nienaprawialne obrazki: {unrepairable_imgs}")

@@ -1,5 +1,5 @@
 with open("dane/liczby.txt") as f:
-  nums = [int(l.strip(), 2) for l in f.readlines()]
+    nums = [int(l.strip(), 2) for l in f.readlines()]
 
 wynik43 = open("wynik43.txt", "w")
 
