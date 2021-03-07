@@ -1,7 +1,6 @@
 from reader import read_data
 
 ulamki = read_data()
-ulamki_nieskracalne = []
 
 
 def nwd(a: int, b: int) -> bool:
@@ -20,6 +19,8 @@ for ulamek in ulamki:
     licznik = int(ulamek[0])
     mianownik = int(ulamek[1])
 
+    # ułamek jest nieskracalny, gdy licznik i mianownik
+    # są względnie pierwsze
     if wzglednie_pierwsze(licznik, mianownik):
         count += 1
 
