@@ -2,28 +2,32 @@ from typing import List
 
 from reader import read_nums
 
-# nums = read_nums()
-nums = [4, 11, 4, 1, 4, 7, 11, 12, 13, 14, 7, 0, 3]
+nums = read_nums()
 
 longest_reg_fragment: List[int] = []
+reg_fragment: List[int] = []
 
-for i in range(len(nums) - 1):
-    reg_fragment: List[int] = []
+current_gap = nums[1] - nums[0]
+for i in range(1, len(nums)):
+    num1 = nums[i - 1]
+    num2 = nums[i]
+    gap = abs(num1 - num2)
 
-    for j in range(i + 1, len(nums)):
-        num1 = nums[i]
-        num2 = nums[j]
+    if not reg_fragment:
+        reg_fragment.append(num1)
+        continue
 
-        gap = abs(num1 - num2)
+    if gap == current_gap:
+        reg_fragment.append(num1)
+        continue
 
-        if not reg_fragment:
-            reg_fragment.append(gap)
+    if gap != current_gap:
+        reg_fragment.append(num1)
+        if len(reg_fragment) > len(longest_reg_fragment):
+            longest_reg_fragment = reg_fragment.copy()
 
-        if gap != reg_fragment:
-            break
-
-    if len(reg_fragment) > len(longest_reg_fragment):
-        longest_reg_fragment = reg_fragment
+        current_gap = gap
+        reg_fragment = [num1]
 
 first = longest_reg_fragment[0]
 last = longest_reg_fragment[-1]
