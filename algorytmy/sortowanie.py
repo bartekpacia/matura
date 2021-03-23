@@ -1,13 +1,22 @@
 from typing import List
 
 
-def bubble_sort(a: List[int]) -> List[int]:
+def bubble_sort(a: List[int], debug=False) -> List[int]:
+    """
+    Time complexity: O(n^2)
+    """
+    if debug:
+        print("bubble sort")
+
     arr = a.copy()
     n = len(arr)
     for i in range(n - 1):
         for j in range(n - i - 1):
             if arr[j] > arr[j + 1]:
                 arr[j], arr[j + 1] = arr[j + 1], arr[j]
+
+                if debug:
+                    print(i, arr)
 
     return arr
 
