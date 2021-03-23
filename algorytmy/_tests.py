@@ -1,4 +1,5 @@
 from bi import bsearch, bisect
+from czynniki_pierwsze import czynniki_pierwsze
 
 import unittest
 
@@ -13,5 +14,7 @@ class TestAlgorithms(unittest.TestCase):
         self.assertEqual(bsearch(9, arr), 4)
         self.assertEqual(bsearch(69, arr), 5)
 
-    def test_nwd(self):
-        pass
+    def test_czynniki_pierwsze(self):
+        self.assertEqual(czynniki_pierwsze(8), [2, 2, 2])
+        self.assertEqual(czynniki_pierwsze(81), [3, 3, 3, 3])
+        self.assertEqual(czynniki_pierwsze(13), [13])
