@@ -13,7 +13,7 @@ def nwd_r(a: int, b: int) -> int:
 
 
 def nww(a: int, b: int) -> int:
-    return (a * b) / nwd_i(a, b)
+    return (a * b) // nwd_i(a, b)
 
 
 res1 = nwd_i(963, 369)

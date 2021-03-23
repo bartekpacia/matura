@@ -2,7 +2,7 @@ from bi import bsearch, bisect
 from czynniki_pierwsze import czynniki_pierwsze
 from sito_eratostenesa import sito
 from nwd import nwd_i, nwd_r
-from sortowanie import bubble_sort, merge_sort, insertion_sort, quick_sort, bucket_sort
+from sortowanie import bubble_sort, merge_sort, insertion_sort, quick_sort, bucket_sort, selection_sort
 
 import unittest
 
@@ -38,7 +38,8 @@ class TestAlgorithms(unittest.TestCase):
         arr = [1, 2, 3, 4, 5, 6, 7, 8, 9]
         arr_sorted = sorted(arr)
         self.assertEqual(bubble_sort(arr), arr_sorted)
-        self.assertEqual(merge_sort(arr), arr_sorted)
+        self.assertEqual(selection_sort(arr), arr_sorted)
         self.assertEqual(insertion_sort(arr), arr_sorted)
+        self.assertEqual(merge_sort(arr), arr_sorted)
         self.assertEqual(quick_sort(arr), arr_sorted)
         self.assertEqual(bucket_sort(arr), arr_sorted)
