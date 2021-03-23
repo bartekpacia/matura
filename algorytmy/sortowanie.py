@@ -10,3 +10,19 @@ def bubble_sort(arr: List[int]) -> List[int]:
                 narr[j], narr[j + 1] = narr[j + 1], narr[j]
 
     return narr
+
+
+def merge_sort(arr: List[int]) -> List[int]:
+    pass
+
+
+def insertion_sort(arr: List[int]) -> List[int]:
+    pass
+
+
+def quick_sort(arr: List[int]) -> List[int]:
+    pass
+
+
+def bucket_sort(arr: List[int]) -> List[int]:
+    pass
