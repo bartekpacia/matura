@@ -35,11 +35,11 @@ class TestAlgorithms(unittest.TestCase):
         self.assertEqual(nwd_r(100, 100), 100)
 
     def test_sort(self):
-        arr = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+        arr = [1, 3, 7, 4, 6, 9, 2, 8, 5]
         arr_sorted = sorted(arr)
         self.assertEqual(bubble_sort(arr), arr_sorted)
-        self.assertEqual(selection_sort(arr), arr_sorted)
-        self.assertEqual(insertion_sort(arr), arr_sorted)
+        self.assertEqual(selection_sort(arr, True), arr_sorted)
+        self.assertEqual(insertion_sort(arr, True), arr_sorted)
         self.assertEqual(merge_sort(arr), arr_sorted)
         self.assertEqual(quick_sort(arr), arr_sorted)
         self.assertEqual(bucket_sort(arr), arr_sorted)

@@ -12,7 +12,13 @@ def bubble_sort(a: List[int]) -> List[int]:
     return arr
 
 
-def insertion_sort(a: List[int]) -> List[int]:
+def insertion_sort(a: List[int], debug=False) -> List[int]:
+    """
+    Time complexity: O(n^2)
+    """
+    if debug:
+        print("insertion sort")
+
     arr = a.copy()
     n = len(arr)
     for i in range(1, n):
@@ -23,10 +29,19 @@ def insertion_sort(a: List[int]) -> List[int]:
             j -= 1
         arr[j + 1] = el
 
+        if debug:
+            print(i, arr)
+
     return arr
 
 
-def selection_sort(a: List[int]) -> List[int]:
+def selection_sort(a: List[int], debug=False) -> List[int]:
+    """
+    Time complexity: O(n^2)
+    """
+    if debug:
+        print("selection sort")
+
     arr = a.copy()
     n = len(arr)
     for i in range(n):
@@ -36,8 +51,11 @@ def selection_sort(a: List[int]) -> List[int]:
                 index_min = j
 
         arr[i], arr[index_min] = arr[index_min], arr[i]
+        if debug:
+            print(i, arr)
 
     return arr
+
 
 def merge_sort(a: List[int]) -> List[int]:
     pass
