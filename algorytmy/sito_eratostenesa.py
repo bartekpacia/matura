@@ -22,8 +22,3 @@ def sito(n: 30) -> List[int]:
             result.append(i)
 
     return result
-
-
-print(sito(10))
-print(sito(20))
-print(sito(30))
