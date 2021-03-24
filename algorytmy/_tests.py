@@ -3,7 +3,7 @@ from czynniki_pierwsze import czynniki_pierwsze
 from sito_eratostenesa import sito
 from nwd import nwd_i, nwd_r
 from sortowanie import bubble_sort, merge_sort, insertion_sort, quick_sort, bucket_sort, selection_sort
-
+from trojkaty import czy_trojkat, czy_prostokatny, czy_rownoboczny
 import unittest
 
 
@@ -37,9 +37,19 @@ class TestAlgorithms(unittest.TestCase):
     def test_sort(self):
         arr = [1, 3, 7, 4, 6, 9, 2, 8, 5]
         arr_sorted = sorted(arr)
-        self.assertEqual(bubble_sort(arr, debug=True), arr_sorted)
-        self.assertEqual(selection_sort(arr, debug=True), arr_sorted)
-        self.assertEqual(insertion_sort(arr, debug=True), arr_sorted)
+        self.assertEqual(bubble_sort(arr, debug=False), arr_sorted)
+        self.assertEqual(selection_sort(arr, debug=False), arr_sorted)
+        self.assertEqual(insertion_sort(arr, debug=False), arr_sorted)
         self.assertEqual(quick_sort(arr), arr_sorted)
-        self.assertEqual(merge_sort(arr), arr_sorted)
-        self.assertEqual(bucket_sort(arr), arr_sorted)
+        # self.assertEqual(merge_sort(arr), arr_sorted)
+        # self.assertEqual(bucket_sort(arr), arr_sorted)
+
+    def test_trojkat(self):
+        nie = [1, 2, 69]
+        normalny = [3, 4, 6]
+        prostokatny = [3, 4, 5]
+
+        self.assertEqual(czy_trojkat(*nie), False)
+        self.assertEqual(czy_trojkat(*normalny), True)
+        self.assertEqual(czy_prostokatny(*normalny), False)
+        self.assertEqual(czy_prostokatny(*prostokatny), True)
