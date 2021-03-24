@@ -3,7 +3,7 @@ from czynniki_pierwsze import czynniki_pierwsze
 from sito_eratostenesa import sito
 from nwd import nwd_i, nwd_r
 from sortowanie import bubble_sort, merge_sort, insertion_sort, quick_sort, bucket_sort, selection_sort
-from trojkaty import czy_trojkat, czy_prostokatny, czy_rownoboczny
+from trojkaty import czy_trojkat, czy_prostokatny, czy_rownoboczny, czy_ostrokatny, czy_rozwartokatny
 import unittest
 
 
@@ -48,8 +48,14 @@ class TestAlgorithms(unittest.TestCase):
         nie = [1, 2, 69]
         normalny = [3, 4, 6]
         prostokatny = [3, 4, 5]
+        ostrokatny = [2, 3, 3]
+        rozwartokatny = [10, 10, 16]
 
         self.assertEqual(czy_trojkat(*nie), False)
         self.assertEqual(czy_trojkat(*normalny), True)
         self.assertEqual(czy_prostokatny(*normalny), False)
         self.assertEqual(czy_prostokatny(*prostokatny), True)
+        self.assertEqual(czy_ostrokatny(*prostokatny), False)
+        self.assertEqual(czy_ostrokatny(*ostrokatny), True)
+        self.assertEqual(czy_rozwartokatny(*ostrokatny), False)
+        self.assertEqual(czy_rozwartokatny(*rozwartokatny), True)
