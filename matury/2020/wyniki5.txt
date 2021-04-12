@@ -1,0 +1,9 @@
+zad5.2: 487 - 42 = 445
+
+zad5.3: 
+angielski
+arabski
+guzdaracki
+tamilski
+
+zad5.4:
