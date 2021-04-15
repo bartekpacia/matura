@@ -1,7 +1,9 @@
+from typing import Dict
+
 with open("dane_geny.txt") as f:
     lines = [line.strip() for line in f.readlines()]
 
-genes = {}
+genes: Dict[int, int] = {}
 for line in lines:
     l = len(line)
     if l not in genes:

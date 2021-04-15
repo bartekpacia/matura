@@ -1,5 +1,4 @@
-from typing import List
-from gene_parser import Gene, Genotype, parse_genotype
+from gene_parser import Genotype, parse_genotype
 
 with open("dane_geny.txt") as f:
     lines = [line.strip() for line in f.readlines()]
