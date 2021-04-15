@@ -66,7 +66,9 @@ def selection_sort(a: List[int], debug=False) -> List[int]:
     return arr
 
 
-def merge_sort(arr: List[int], left_index: int = None, right_index: int = None) -> List[int]:
+def merge_sort(
+    arr: List[int], left_index: int = None, right_index: int = None
+) -> List[int]:
     if not left_index:
         left_index = 0
 
@@ -88,8 +90,8 @@ def merge_sort(arr: List[int], left_index: int = None, right_index: int = None) 
 def merge(arr: List[int], left_index: int, right_index: int, middle: int):
     # Make copies of both arrays we're trying to merge
     # The second parameter is non-inclusive, so we have to increase by 1
-    left_copy = arr[left_index:middle + 1]
-    right_copy = arr[middle + 1:right_index + 1]
+    left_copy = arr[left_index : middle + 1]
+    right_copy = arr[middle + 1 : right_index + 1]
 
     # Initial values for variables that we use to keep
     # track of where we are in each array
