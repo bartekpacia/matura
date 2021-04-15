@@ -8,7 +8,13 @@ class Gene:
         self.text = text
 
 
-def parse_genes(text: str) -> List[Gene]:
+class Genotype:
+    def __init__(self, genes: List[Gene], text: str) -> None:
+        self.genes = genes
+        self.text = text
+
+
+def parse_genotype(text: str) -> Genotype:
     gene = None
     genes: List[Gene] = []
 
@@ -29,4 +35,4 @@ def parse_genes(text: str) -> List[Gene]:
             if gene:
                 gene.text += char
 
-    return genes
+    return Genotype(genes=genes, text=text)

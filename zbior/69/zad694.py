@@ -1,33 +1,39 @@
 from typing import List
-from gene_parser import Gene, parse_genes
+from gene_parser import Gene, Genotype, parse_genotype
 
 with open("dane_geny.txt") as f:
     lines = [line.strip() for line in f.readlines()]
 
 
-def czy_odporny(genotyp: List[Gene]) -> bool:
-    czesc_kodujaca = ""
-    for g in genotyp:
-        czesc_kodujaca += g.text
+def czy_odporny(genotyp: Genotype) -> bool:
+    lewa_czesc_kodujaca = ""
+    prawa_czesc_kodujaca = ""
 
-    return czesc_kodujaca == czesc_kodujaca[::-1]
+    for g in genotyp.genes:
+        lewa_czesc_kodujaca += g.text
+
+    prawy_genotyp = parse_genotype(genotyp.text[::-1])
+    for g in prawy_genotyp.genes:
+        prawa_czesc_kodujaca += g.text
+
+    return lewa_czesc_kodujaca == prawa_czesc_kodujaca
 
 
-def czy_silnie_odporny(genotyp: List[Gene]) -> bool:
-    return True
+def czy_silnie_odporny(genotype: Genotype) -> bool:
+    return genotype.text == genotype.text[::-1]
 
 
 odporne_count = 0
 silnie_odporne_count = 0
 
 for line in lines:
-    genes: List[Gene] = parse_genes(line)
+    genotype = parse_genotype(line)
 
-    odporny = czy_odporny(genes)
+    odporny = czy_odporny(genotype)
     if odporny:
         odporne_count += 1
 
-    silnie_odporny = czy_silnie_odporny(genes)
+    silnie_odporny = czy_silnie_odporny(genotype)
     if silnie_odporny:
         silnie_odporne_count += 1
 
