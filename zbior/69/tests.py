@@ -1,5 +1,5 @@
-from gene_parser import parse_gene
+from gene_parser import parse_genes
 
-g = parse_gene("AADBAADDDDEEEBBEE")
+g = parse_genes("AADBAADDDDEEEBBEE")
 print(g)
 assert "AADBAADDDDEEEBB" == g
