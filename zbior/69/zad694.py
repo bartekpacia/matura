@@ -9,11 +9,11 @@ def czy_odporny(genotyp: Genotype) -> bool:
     prawa_czesc_kodujaca = ""
 
     for g in genotyp.genes:
-        lewa_czesc_kodujaca += g.text
+        lewa_czesc_kodujaca += g
 
     prawy_genotyp = parse_genotype(genotyp.text[::-1])
     for g in prawy_genotyp.genes:
-        prawa_czesc_kodujaca += g.text
+        prawa_czesc_kodujaca += g
 
     return lewa_czesc_kodujaca == prawa_czesc_kodujaca
 

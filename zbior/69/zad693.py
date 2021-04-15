@@ -10,7 +10,7 @@ for line in lines:
     genotype = parse_genotype(line)
 
     for g in genotype.genes:
-        g_length = len(g.text)
+        g_length = len(g)
         if g_length > max_gene_length:
             max_gene_length = g_length
 

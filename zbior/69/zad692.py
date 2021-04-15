@@ -9,7 +9,7 @@ for line in lines:
 
     all_genes = []
     for gene in genotype.genes:
-        if "BCDDC" in gene.text:
+        if "BCDDC" in gene:
             mutation_count += 1
 
 print(f"{mutation_count=}")
