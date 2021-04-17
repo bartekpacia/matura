@@ -3,6 +3,7 @@
 *.out
 *.dSYM
 *.s
+~$*
 .idea
 .vscode
 venv/
