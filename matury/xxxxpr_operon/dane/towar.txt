@@ -1,0 +1,21 @@
+KOD_TOWARU;NAZWA;CENA
+t1;malakser;339,00
+t2;robot kuchenny;1269,00
+t3;ekspres do kawy;649,00
+t4;mikser;69,00
+t5;suszarka do w³osów;79,00
+t6;wyciskarka wolnoobrotowa;429,00
+t7;gril gazowy ;799,00
+t8;odkurzacz ;259,00
+t9;toster;109,00
+t10;¿elazko ;129,00
+t11;czajnik elektryczny;69,00
+t12;maszynka do golenia;69,00
+t13;piekarnik elektryczny;339,00
+t14;kuchenka mikrofalowa;249,00
+t15;gofrownica;109,00
+t16;blender;159,00
+t17;tarka elektryczna;108,00
+t18;maszynka do ciêcia w³osów;118,00
+t19;m³ynek do kawy;69,00
+t20;rêczna maszyna do szycia;129,00
