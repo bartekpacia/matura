@@ -5,13 +5,13 @@ with open("dane/dane.txt") as f:
 
 palindromes = {}
 for num in lines:
-    for i in range(2, 17):
-        n = to_num_system(num, i)
+    for base in range(2, 17):
+        n = to_num_system(num, base)
         if is_palindrome(n):
-            if not palindromes.get(i):
-                palindromes[i] = 1
+            if not palindromes.get(base):
+                palindromes[base] = 1
             else:
-                palindromes[i] += 1
+                palindromes[base] += 1
 
-for p, v in sorted(palindromes.items()):
-    print(p, v)
+for base, v in sorted(palindromes.items()):
+    print("podstawa", base, ":", v)
