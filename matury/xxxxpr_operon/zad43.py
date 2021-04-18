@@ -14,4 +14,4 @@ for num in lines:
                 palindromes[base] += 1
 
 for base, v in sorted(palindromes.items()):
-    print("podstawa", base, ":", v)
+    print(f"w systemie {base} palindromami jest {v} liczb")

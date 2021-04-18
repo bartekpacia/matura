@@ -13,7 +13,7 @@ for num in lines:
 
         if is_palindrome(n):
             num_palindrome_count += 1
-            num_palindrome_bases.append(base)
+            num_palindrome_bases.append(str(base))
 
     if num_palindrome_count:
         palindromes[num] = num_palindrome_count
@@ -25,5 +25,5 @@ for num, v in sorted(palindromes.items(), key=lambda item: item[1], reverse=True
         break
 
     bases = palindrome_bases[num]
-    print(f"liczba {num} jest palindromem w systemach:", bases)
+    print(f"liczba {num} jest palindromem w {len(bases)} systemach:", ", ".join(bases))
     count += 1
