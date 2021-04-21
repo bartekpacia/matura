@@ -24,7 +24,7 @@ for dzien in range(1, dni + 1):
     coords["y"] += 8
     coords["x"] += 11
     mile_na_polnoc += 8
-    dystans += (8 + 11)
+    dystans += 8 + 11
 
     nowe_dublony += len(str(mile_na_polnoc))
 
@@ -56,8 +56,7 @@ for dzien in range(1, dni + 1):
 
     # wyświetlanie podsumowania dnia
     print("Dzień " + str(dzien) + " | " + str(dzisiaj))
-    print("Przebyty dystans: " + str(dystans) +
-          ", na północ: " + str(mile_na_polnoc))
+    print("Przebyty dystans: " + str(dystans) + ", na północ: " + str(mile_na_polnoc))
     print("Nowe dublony: " + str(nowe_dublony))
     print("Dublony łącznie: " + str(dublony))
     print("Obóz w " + coords_str)
@@ -67,14 +66,17 @@ for dzien in range(1, dni + 1):
 
 with open("wyniki_piraci.txt", "w") as f:
     # zadanie 1
-    f.write("Wigilię 1902 roku piraci spędzili w miejscu o współrzędnych " +
-            coords_wigilia_str + "\n")
+    f.write(f"Wigilię 1902 roku piraci spędzili w miejscu o współrzędnych {coords_wigilia_str}"
+        + coords_wigilia_str
+        + "\n"
+    )
     # zadanie 2
-    f.write("Przez cały okres poszukiwań piraci przeszli " +
-            str(dystans) + " mil\n")
+    f.write("Przez cały okres poszukiwań piraci przeszli " + str(dystans) + " mil\n")
     # zadanie 3
-    f.write("Na Tortudze wydali łącznie " +
-            str(stracone_dublony) + " dublonów\n")
+    f.write("Na Tortudze wydali łącznie " + str(stracone_dublony) + " dublonów\n")
     # zadanie 4
-    f.write("Po powrocie na statek spotkali " +
-            str(dublony_zebrane_w_feralne_dni) + " żołnierzy\n")
+    f.write(
+        "Po powrocie na statek spotkali "
+        + str(dublony_zebrane_w_feralne_dni)
+        + " żołnierzy\n"
+    )

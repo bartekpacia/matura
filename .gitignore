@@ -3,6 +3,7 @@
 *.out
 *.dSYM
 *.s
+*.laccdb
 ~$*
 .idea
 .vscode
