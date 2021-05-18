@@ -1,4 +1,5 @@
 from importer import read_file
+
 words = read_file()
 
 num = 0
