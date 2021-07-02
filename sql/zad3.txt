@@ -1,7 +1,0 @@
-w tabeli mamy dane uczniów z jednej klasy. Szukamy uczniów do drużyny koszykarskiej. Wszyscy oni powinni mieć wzrost
-nie mniejszy niż Jan Kowalski.
-
-select imie, nazwisko, wzrost
-from uczniowie
-where wzrost > (select wzrost from uczniowie where imie = "Jan" and nazwisko = "Kowalski";)
-;
