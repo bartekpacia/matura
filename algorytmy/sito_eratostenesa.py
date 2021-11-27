@@ -1,8 +1,5 @@
-from typing import List
-
-
 # zwraca liczby pierwsze od 1 do n (włącznie)
-def sito(n: 30) -> List[int]:
+def sito(n: 30) -> list[int]:
     if n < 2:
         return list()
 

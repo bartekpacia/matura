@@ -1,10 +1,8 @@
-from typing import List
-
 with open("dane.txt", "r") as f:
     liczby = [int(line) for line in f.readlines()]
 
 
-def remove(k: int, nums_list: List[int]):
+def remove(k: int, nums_list: list[int]):
     i = k - 1
 
     while i < len(nums_list):
@@ -12,7 +10,7 @@ def remove(k: int, nums_list: List[int]):
         i = i + (k - 1)
 
 
-def gen_lucky_numbers(high: int) -> List[int]:
+def gen_lucky_numbers(high: int) -> list[int]:
     lucky_nums = list(range(1, high + 1, 2))
     i = 1
 

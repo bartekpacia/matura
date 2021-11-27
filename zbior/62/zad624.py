@@ -1,9 +1,7 @@
-from typing import List
-
 with open("liczby2.txt") as f:
     liczby2 = [int(l.strip(), 10) for l in f.readlines()]
 
-liczby2_whatif8 = []
+liczby2_whatif8: list[str] = []
 with open("liczby2.txt") as f:
     for num in liczby2:
         num_in_oct = str(oct(num))[2:]
@@ -11,9 +9,9 @@ with open("liczby2.txt") as f:
         liczby2_whatif8.append(num_in_oct)
 
 
-def count_six(input_liczby: List[int]) -> int:
+def count_six(input_liczby: list[int] | list[str]) -> int:
     six_count = 0
-    for i, num in enumerate(input_liczby):
+    for num in input_liczby:
         for c in str(num):
             if c == "6":
                 six_count += 1

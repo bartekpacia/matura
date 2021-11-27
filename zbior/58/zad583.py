@@ -1,13 +1,11 @@
-from typing import List
-
-dane1: List[int] = []
-dane2: List[int] = []
-dane3: List[int] = []
+dane1: list[int] = []
+dane2: list[int] = []
+dane3: list[int] = []
 
 
-def load(filename: str, base: int) -> List[int]:
+def load(filename: str, base: int) -> list[int]:
     file = open(filename)
-    result = []
+    result: list[int] = []
 
     dane_systemy = [line.strip().split() for line in file.readlines()]
 
@@ -21,8 +19,8 @@ def load(filename: str, base: int) -> List[int]:
     return result
 
 
-def znajdz_dni_rekordowe(dane: List[int]) -> List[bool]:
-    result: List[bool] = [False] * len(dane)  # True znaczy że jest to Rekordowy Dzień
+def znajdz_dni_rekordowe(dane: list[int]) -> list[bool]:
+    result: list[bool] = [False] * len(dane)  # True znaczy że jest to Rekordowy Dzień
 
     max_temp = dane[0]
     result[0] = True  # zgodnie z treścią zadania, pierwsza wartość też jest rekordem

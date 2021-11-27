@@ -1,9 +1,7 @@
-from typing import Tuple
-
 from reader import read_data
 
 
-def nwd(a: int, b: int) -> bool:
+def nwd(a: int, b: int) -> int:
     while b > 0:
         a, b = b, a % b
 
@@ -14,20 +12,20 @@ def wzglednie_pierwsze(a: int, b: int) -> bool:
     return nwd(a, b) == 1
 
 
-def skroc(licz: int, mian: int) -> Tuple[int, int]:
+def skroc(licznik: int, mianownik: int) -> tuple[int, int]:
     divider = 2
-    while not wzglednie_pierwsze(licz, mian):
-        new_licznik = licz / divider
-        new_mianownik = mian / divider
+    while not wzglednie_pierwsze(licznik, mianownik):
+        nowy_licznik = licznik / divider
+        nowy_mianownik = mianownik / divider
 
-        if new_licznik.is_integer() and new_mianownik.is_integer():
-            licz = new_licznik
-            mian = new_mianownik
+        if nowy_licznik.is_integer() and nowy_mianownik.is_integer():
+            licznik = nowy_licznik
+            mianownik = nowy_mianownik
             divider = 1
 
         divider += 1
 
-    return licz, mian
+    return licznik, mianownik
 
 
 ulamki = read_data()

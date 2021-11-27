@@ -1,8 +1,6 @@
-from typing import List
-
 with open("dane/liczby.txt") as f:
-    nums: List[int] = []
-    nums_9_chars: List[int] = []
+    nums: list[int] = []
+    nums_9_chars: list[int] = []
     for line in f:
         sline = line.strip()
         num = int(sline, 2)
@@ -29,4 +27,6 @@ sum_9_chars = 0
 for num in nums_9_chars:
     sum_9_chars += num
 
-print(f"count of numbers with 9 digits: {len(nums_9_chars)}, their sum: {bin(sum_9_chars)[2:]}")
+print(
+    f"count of numbers with 9 digits: {len(nums_9_chars)}, their sum: {bin(sum_9_chars)[2:]}"
+)

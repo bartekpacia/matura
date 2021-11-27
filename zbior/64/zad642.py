@@ -1,9 +1,7 @@
-from typing import List
-
 file = open("dane_obrazki.txt", "r")
 
 
-def is_recursive(image) -> bool:
+def is_recursive(image: list[list[int]]) -> bool:
     if len(image) % 2 != 0 or len(image) != 20:
         return False
 
@@ -12,10 +10,10 @@ def is_recursive(image) -> bool:
             return False
 
     half = 10
-    part1: List[int][int] = []
-    part2: List[int][int] = []
-    part3: List[int][int] = []
-    part4: List[int][int] = []
+    part1: list[list[int]] = []
+    part2: list[list[int]] = []
+    part3: list[list[int]] = []
+    part4: list[list[int]] = []
 
     for row_i, row in enumerate(image):
         for col_i, _ in enumerate(row):
@@ -33,9 +31,9 @@ def is_recursive(image) -> bool:
     return False
 
 
-recursive_imgs = []
+recursive_imgs: list[list[list[int]]] = []
 cur_img_i = 0
-cur_img = []
+cur_img: list[list[int]] = []
 cur_row_i = 0
 rec_count = 0
 for line in file.readlines():

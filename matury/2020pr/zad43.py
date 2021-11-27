@@ -1,11 +1,10 @@
 import operator
-from typing import Dict, Tuple, List
 
 from reader import read_nums
 
 nums = read_nums()
 
-gaps: Dict[int, int] = {}
+gaps: dict[int, int] = {}
 
 for i in range(1, len(nums)):
     num1 = nums[i - 1]
@@ -18,7 +17,7 @@ for i in range(1, len(nums)):
     else:
         gaps[gap] += 1
 
-gap_list: List[Tuple[int, int]] = []
+gap_list: list[tuple[int, int]] = []
 
 max_occurences = 0
 for gap, occurences in gaps.items():
@@ -30,7 +29,7 @@ for gap, occurences in gaps.items():
 
 gap_list.sort(key=operator.itemgetter(1), reverse=True)
 
-most_often_gaps: List[int] = []
+most_often_gaps: list[int] = []
 for gap_tuple in gap_list:
     gap = gap_tuple[0]
     occurences = gap_tuple[1]

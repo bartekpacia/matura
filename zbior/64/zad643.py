@@ -1,9 +1,7 @@
-from typing import List
-
 file = open("dane_obrazki.txt", "r")
 
 
-def make_parity(row: List[int]):
+def make_parity(row: list[int]):
     ones = 0
     for bit in row:
         if bit == 1:
@@ -17,7 +15,7 @@ def make_parity(row: List[int]):
 
 
 cur_img_i = 0
-cur_img = []
+cur_img: list[list[int]] = []
 cur_row_i = 0
 cur_errors_row = 0
 cur_errors_col = 0
@@ -53,12 +51,12 @@ for line in file.readlines():
 
     # parity row (19 bits)
     if len(fmt_line) != 20:
-        parity_bits_col = []
+        parity_bits_col: list[int] = []
         for i in line:
             parity_bits_col.append(int(i))
 
         for i in range(20):
-            cur_col = []
+            cur_col: list[int] = []
             for j in range(20):
                 cur_bit = int(cur_img[j][i])
                 cur_col.append(cur_bit)

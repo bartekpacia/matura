@@ -1,7 +1,6 @@
-from typing import Optional
-
-
-def skonstruuj_trojkat(a: float, b: float, c: float) -> Optional[tuple[float, float, float]]:
+def skonstruuj_trojkat(
+    a: float, b: float, c: float
+) -> tuple[float, float, float] | None:
     """
     :return: Boki w kolejności od najkrótszego do najdłuższego
     """

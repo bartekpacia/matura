@@ -1,11 +1,9 @@
-from typing import List
-
 from reader import read_nums
 
 nums = read_nums()
 
-longest_reg_fragment: List[int] = []
-reg_fragment: List[int] = []
+longest_reg_fragment: list[int] = []
+reg_fragment: list[int] = []
 
 current_gap = nums[1] - nums[0]
 for i in range(1, len(nums)):

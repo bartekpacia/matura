@@ -1,10 +1,8 @@
-from typing import List
-
 with open("ciagi.txt", "r") as f:
     ciagi = [int(line, 2) for line in f.readlines()]
 
 
-def sito(n: int) -> List[int]:
+def sito(n: int) -> list[int]:
     if n < 2:
         return list()
 
@@ -18,7 +16,7 @@ def sito(n: int) -> List[int]:
                 j += i
         i += 1
 
-    result = list()
+    result: list[int] = []
     for i in range(2, n + 1):
         if arr[i]:
             result.append(i)
@@ -38,7 +36,7 @@ def jest_polpierwsza(num: int) -> bool:
     return False
 
 
-polpierwsze = []
+polpierwsze: list[int] = []
 
 for c in ciagi:
     if jest_polpierwsza(c):

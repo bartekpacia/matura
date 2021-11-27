@@ -1,15 +1,12 @@
-from typing import List, Union
-
-
 class Genotype:
-    def __init__(self, genes: List[str], text: str) -> None:
+    def __init__(self, genes: list[str], text: str) -> None:
         self.genes = genes
         self.text = text
 
 
 def parse_genotype(text: str) -> Genotype:
-    gene: Union[str, None] = None
-    genes: List[str] = []
+    gene: str | None = None
+    genes: list[str] = []
 
     for i, char in enumerate(text):
         if i + 1 >= len(text):

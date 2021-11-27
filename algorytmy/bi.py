@@ -1,7 +1,4 @@
-from typing import List, Optional
-
-
-def bsearch(target: int, arr: List[int]) -> Optional[int]:
+def bsearch(target: int, arr: list[int]) -> int | None:
     high = len(arr) - 1
     low = 0
 

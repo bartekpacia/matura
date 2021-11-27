@@ -1,7 +1,4 @@
-from typing import List
-
-
-def bubble_sort(a: List[int], debug=False) -> List[int]:
+def bubble_sort(a: list[int], debug=False) -> list[int]:
     """
     Time complexity: O(n^2)
     """
@@ -21,7 +18,7 @@ def bubble_sort(a: List[int], debug=False) -> List[int]:
     return arr
 
 
-def insertion_sort(a: List[int], debug=False) -> List[int]:
+def insertion_sort(a: list[int], debug=False) -> list[int]:
     """
     Time complexity: O(n^2)
     """
@@ -44,7 +41,7 @@ def insertion_sort(a: List[int], debug=False) -> List[int]:
     return arr
 
 
-def selection_sort(a: List[int], debug=False) -> List[int]:
+def selection_sort(a: list[int], debug=False) -> list[int]:
     """
     Time complexity: O(n^2)
     """
@@ -67,8 +64,8 @@ def selection_sort(a: List[int], debug=False) -> List[int]:
 
 
 def merge_sort(
-    arr: List[int], left_index: int = None, right_index: int = None
-) -> List[int]:
+    arr: list[int], left_index: int = None, right_index: int = None
+) -> list[int] | None:
     if not left_index:
         left_index = 0
 
@@ -87,7 +84,7 @@ def merge_sort(
     return arr
 
 
-def merge(arr: List[int], left_index: int, right_index: int, middle: int):
+def merge(arr: list[int], left_index: int, right_index: int, middle: int):
     # Make copies of both arrays we're trying to merge
     # The second parameter is non-inclusive, so we have to increase by 1
     left_copy = arr[left_index : middle + 1]
@@ -129,7 +126,7 @@ def merge(arr: List[int], left_index: int, right_index: int, middle: int):
         sorted_index = sorted_index + 1
 
 
-def quick_sort(arr: List[int]) -> List[int]:
+def quick_sort(arr: list[int]) -> list[int]:
     if len(arr) < 2:
         return arr
 
@@ -140,5 +137,5 @@ def quick_sort(arr: List[int]) -> List[int]:
     return quick_sort(less) + [pivot] + quick_sort(greater)
 
 
-def bucket_sort(arr: List[int]) -> List[int]:
+def bucket_sort(arr: list[int]) -> list[int]:
     pass

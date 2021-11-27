@@ -1,7 +1,4 @@
-from typing import List
-
-
-def gen_triangle(n: int) -> List[List[int]]:
+def gen_triangle(n: int) -> list[list[int]]:
     if n < 1:
         print("error: n < 1")
         return []
@@ -32,7 +29,7 @@ def gen_triangle(n: int) -> List[List[int]]:
     return triangle
 
 
-def print_triangle(triangle: List[List[int]], show_index: bool = False):
+def print_triangle(triangle: list[list[int]], show_index: bool = False):
     for i, _ in enumerate(triangle):
         if show_index:
             print(f"row: {i + 1}", end="    ")

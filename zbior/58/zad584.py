@@ -1,12 +1,11 @@
 import math
-from typing import List
 
-dane1: List[int] = []
+dane1: list[int] = []
 
 
-def load(filename: str, base: int) -> List[int]:
+def load(filename: str, base: int) -> list[int]:
     file = open(filename)
-    result = []
+    result: list[int] = []
 
     dane_systemy = [line.strip().split() for line in file.readlines()]
 
@@ -22,7 +21,7 @@ def load(filename: str, base: int) -> List[int]:
 
 dane1 = load("dane_systemy1.txt", 2)
 
-skoki: List[int] = []
+skoki: list[int] = []
 for i, ti in enumerate(dane1):
     for j in range(i + 1, len(dane1)):
         tj = dane1[j]

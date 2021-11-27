@@ -1,9 +1,8 @@
 import math
-from typing import List
 
 
-def to_digits(num) -> List[int]:
-    digits = []
+def to_digits(num: int) -> list[int]:
+    digits: list[int] = []
     for char in str(num):
         digits.append(int(char))
 
@@ -13,15 +12,15 @@ def to_digits(num) -> List[int]:
 with open("dane/liczby.txt") as f:
     lines = f.read().splitlines()
 
-nums = []
+nums: list[int] = []
 
-for ln in lines:
-    if not ln:
+for line in lines:
+    if not line:
         continue
 
-    num = int(ln)
+    num = int(line)
 
-    facts_of_num = []
+    facts_of_num: list[int] = []
     num_digits = to_digits(num)
     for digit in num_digits:
         f = math.factorial(digit)

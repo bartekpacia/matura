@@ -1,6 +1,3 @@
-from typing import Tuple
-
-
 def is_square_triangle(a: int, b: int, c: int) -> bool:
     boki = [a, b, c]
     przeciw = max(a, b, c)
@@ -13,7 +10,7 @@ def is_square_triangle(a: int, b: int, c: int) -> bool:
 
 
 with open("trojki.txt") as file:
-    last_square: Tuple[int, int, int] = None
+    last_square: tuple[int, int, int] | None = None
     for line in file:
         a, b, c = map(int, line.strip().split())
 
